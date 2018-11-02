@@ -1,8 +1,9 @@
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
 from datetime import date, timedelta
-import re
+import os
 import time
+import csv
 
 start_date = date(2017, 10, 18)
 end_date = date(2018, 4, 12)
@@ -43,37 +44,54 @@ for date in season_dates:
 
 	time.sleep(4.2) # 'The 4.2 is for 420' - Ansh Kothary
 
-
-
-
-team_abbreviations = ['ATL', 'BKN', 'BOS', 'CHA', 'CHI', 'CLE', 'DAL', 'DEN', 'DET', 'GS'
+team_abbreviations = ['ATL', 'BKN', 'BOS', 'CHA', 'CHI', 'CLE', 'DAL', 'DEN', 'DET', 'GS',
 						'HOU', 'IND', 'LAC', 'LAL', 'MEM', 'MIA', 'MIL', 'MIN', 'NO', 'NY',
 						'OKC', 'ORL', 'PHI', 'PHX', 'POR', 'SAC', 'SA', 'TOR', 'UTAH', 'WSH']
 
 
-for game in gameids:
-	gameid = game[0]
-	date = game[1]
-	year = date[:4]
-	url = 'http://www.espn.in/nba/recap?gameId=' + gameid
+date = gameids[0][1]
+year = date[:4]
 
-	url_page = urlopen(url)
+directory = 'data/' + year + '/'
+if not os.path.exists(directory):
+	os.makedirs(directory)
 
-	soup = BeautifulSoup(url_page, 'html.parser')
+filename = directory + year + '_articles.csv'
 
-	teams = soup.find_all('td', attrs={'class': 'team-name'})
-	away_team = teams[0].text
-	home_team = teams[1].text
+with open(filename, 'a') as outFile:
+	article_writer = csv.writer(outFile, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
+	article_writer.writerow(['gameid', 'away_team', 'home_team', 'date', 'article'])
 
-	article = soup.find('div', attrs={'class': 'article-body'})
-	paragraphs = article.find_all('p')
+	game_counter = 0
+	for game in gameids:
+		gameid = game[0]
+		date = game[1]
+		year = date[:4]
+		url = 'http://www.espn.in/nba/recap?gameId=' + gameid
 
-	filename = "data/" + year + '/' + away_team + "_" + home_team + '_' + date + '.csv'
-	with open(filename, 'w') as outFile:
-		for t in paragraphs:
-			outFile.write(t.text)
-			outFile.write("\n")
+		url_page = urlopen(url)
 
-		outFile.write("\n\n\n\n")
+		soup = BeautifulSoup(url_page, 'html.parser')
 
-	time.sleep(4.2) # 'The 4.2 is for 420' - Ansh Kothary
+		teams = soup.find_all('td', attrs={'class': 'team-name'})
+		away_team = teams[0].text
+		home_team = teams[1].text
+
+		# Check to confirm not all-star game 
+		if away_team not in team_abbreviations or home_team not in team_abbreviations:
+			print("Skipped game")
+			continue
+		else:
+			article = soup.find('div', attrs={'class': 'article-body'})
+			paragraphs = article.find_all('p')
+			article_str = ''
+			for t in paragraphs:
+				article_str += t.text + ' '
+
+		article_writer.writerow([gameid, away_team, home_team, date, article_str])
+
+		game_counter += 1
+		print("Downloaded {} vs {}, {} article. Completed {} / {}".format(away_team, home_team, date, game_counter, len(gameids)))
+		time.sleep(1)
+
+print("Downloaded {} game articles.".format(game_counter))
