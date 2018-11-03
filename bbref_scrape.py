@@ -96,12 +96,13 @@ def scrape(home, away, d, file):
     str_d = d.strftime("%Y%m%d")
     try:
         url = 'https://www.basketball-reference.com/boxscores/' + str_d + '0' + home + '.html'
+        url_page = urlopen(url)
     except HTTPError:
-        d = str_d + timedelta(1)
+        d = d + timedelta(1)
         str_d = d.strftime("%Y%m%d")
         url = 'https://www.basketball-reference.com/boxscores/' + str_d + '0' + home + '.html'
+        url_page = urlopen(url)
     print(url)
-    url_page = urlopen(url)
     file.write(str_d + ',' + away + ',' + home)
     soup = BeautifulSoup(url_page, 'html.parser')
     file.write(','+str(process_box(soup, home)))
@@ -111,7 +112,7 @@ def scrape(home, away, d, file):
 def process_year(year):
 
     game_list = open('data/'+year+'/'+year+'_articles.csv', 'r')
-    file = open('data/'+year+'/'+year+'_box_scores.csv', 'w')
+    file = open('data/'+year+'/'+year+'_box_scores.csv', 'a')
 
     for game in game_list:
 
@@ -122,7 +123,7 @@ def process_year(year):
             d = datetime.strptime(tokens[3], "%Y%m%d") - timedelta(1)
             file.write(tokens[0]+',')
             scrape(home, away, d, file)
-            sleep(1)
+            sleep(10)
             file.write('\n')
         except KeyError:
             continue
@@ -130,3 +131,6 @@ def process_year(year):
     file.close()
 
 process_year('2017')
+# file = open('test.txt','w')
+# d = datetime.strptime('20171123', '%Y%m%d')
+# scrape('BRK','POR',d, file)
