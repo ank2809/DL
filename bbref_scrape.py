@@ -98,9 +98,7 @@ def scrape(home, away, d, file):
         url = 'https://www.basketball-reference.com/boxscores/' + str_d + '0' + home + '.html'
         url_page = urlopen(url)
     except HTTPError:
-        d = d + timedelta(1)
-        str_d = d.strftime("%Y%m%d")
-        url = 'https://www.basketball-reference.com/boxscores/' + str_d + '0' + home + '.html'
+        sleep(60)
         url_page = urlopen(url)
     print(url)
     file.write(str_d + ',' + away + ',' + home)
@@ -120,10 +118,10 @@ def process_year(year):
         try:
             away = team_names[tokens[1]]
             home = team_names[tokens[2]]
-            d = datetime.strptime(tokens[3], "%Y%m%d") - timedelta(1)
+            d = datetime.strptime(tokens[3], "%Y%m%d")
             file.write(tokens[0]+',')
             scrape(home, away, d, file)
-            sleep(10)
+            sleep(5)
             file.write('\n')
         except KeyError:
             continue
