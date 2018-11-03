@@ -1,9 +1,11 @@
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
-from datetime import date, timedelta
+from datetime import date, timedelta, datetime
 import os
 import time
 import csv
+import pytz
+
 
 start_date = date(2017, 10, 18)
 end_date = date(2018, 4, 12)
@@ -49,6 +51,27 @@ team_abbreviations = ['ATL', 'BKN', 'BOS', 'CHA', 'CHI', 'CLE', 'DAL', 'DEN', 'D
 						'OKC', 'ORL', 'PHI', 'PHX', 'POR', 'SAC', 'SA', 'TOR', 'UTAH', 'WSH']
 
 
+def convert_utc_est(utc_time):
+	"""
+	Converts the UTC time given by ESPN India into EST time.
+	:return: EST date in format YYYYMMDD
+	"""
+	utc_year = int(utc_time[:4])
+	utc_month = int(utc_time[5:7])
+	utc_day = int(utc_time[8:10])
+	utc_hour = int(utc_time[11:13])
+	utc_minute = int(utc_time[14:16])
+
+	utc_date = pytz.utc.localize(datetime(utc_year, utc_month, utc_day, utc_hour, utc_minute))
+	est_date = utc_date.astimezone(pytz.timezone('America/New_York'))
+	year = est_date.year
+	month = '{:02d}'.format(est_date.month)
+	day = '{:02d}'.format(est_date.day)
+	date = str(year) + str(month) + str(day)
+
+	return date
+
+
 date = gameids[0][1]
 year = date[:4]
 
@@ -65,12 +88,16 @@ with open(filename, 'a') as outFile:
 	game_counter = 0
 	for game in gameids:
 		gameid = game[0]
-		date = game[1]
-		year = date[:4]
-		url = 'http://www.espn.in/nba/recap?gameId=' + gameid
 
-		url_page = urlopen(url)
+		url_date = 'http://www.espn.in/nba/game?gameId=' + gameid
+		url_page = urlopen(url_date)
+		soup = BeautifulSoup(url_page, 'html.parser')
+		get_date = soup.find('div', attrs={'class': 'game-date-time'})
+		utc_time = get_date.span['data-date']
+		date = convert_utc_est(utc_time)
 
+		url_recap = 'http://www.espn.in/nba/recap?gameId=' + gameid
+		url_page = urlopen(url_recap)
 		soup = BeautifulSoup(url_page, 'html.parser')
 
 		teams = soup.find_all('td', attrs={'class': 'team-name'})
