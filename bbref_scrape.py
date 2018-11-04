@@ -128,7 +128,7 @@ def process_year(year):
     game_list.close()
     file.close()
 
-process_year('2017')
+process_year('2015')
 # file = open('test.txt','w')
 # d = datetime.strptime('20171123', '%Y%m%d')
 # scrape('BRK','POR',d, file)
