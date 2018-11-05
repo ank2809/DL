@@ -11,7 +11,7 @@ team_names = {
     'ATL': 'ATL',
     'BOS': 'BOS',
     'BKN': 'BRK',
-    'CHA': 'CHO',
+    'CHA': 'CHA',
     'CHI': 'CHI',
     'CLE': 'CLE',
     'DAL': 'DAL',
@@ -26,7 +26,8 @@ team_names = {
     'MIA': 'MIA',
     'MIL': 'MIL',
     'MIN': 'MIN',
-    'NO': 'NOP',
+    'NO': 'NOH',
+    'NJ': 'NJN',
     'NY': 'NYK',
     'OKC': 'OKC',
     'ORL': 'ORL',
@@ -109,7 +110,7 @@ def scrape(home, away, d, file):
 
 def process_year(year):
 
-    game_list = open('data/'+year+'/'+year+'_articles.csv', 'r')
+    game_list = open('data/'+year+'/'+year+'_articles - Copy.csv', 'r')
     file = open('data/'+year+'/'+year+'_box_scores.csv', 'a')
 
     for game in game_list:
@@ -125,10 +126,14 @@ def process_year(year):
             file.write('\n')
         except KeyError:
             continue
+        except ValueError:
+            continue
+        except IndexError:
+            continue
     game_list.close()
     file.close()
 
-process_year('2015')
+process_year('2009')
 # file = open('test.txt','w')
 # d = datetime.strptime('20171123', '%Y%m%d')
 # scrape('BRK','POR',d, file)
