@@ -26,7 +26,7 @@ team_names = {
     'MIA': 'MIA',
     'MIL': 'MIL',
     'MIN': 'MIN',
-    'NO': 'NOH',
+    'NO': 'NOK',
     'NJ': 'NJN',
     'NY': 'NYK',
     'OKC': 'OKC',
@@ -36,6 +36,7 @@ team_names = {
     'POR': 'POR',
     'SAC': 'SAC',
     'SA': 'SAS',
+    'SEA': 'SEA',
     'TOR': 'TOR',
     'UTAH': 'UTA',
     'WSH': 'WAS',
@@ -95,13 +96,14 @@ def process_box(soup, team):
 def scrape(home, away, d, file):
 
     str_d = d.strftime("%Y%m%d")
+    url = 'https://www.basketball-reference.com/boxscores/' + str_d + '0' + home + '.html'
+    print(url)
+
     try:
-        url = 'https://www.basketball-reference.com/boxscores/' + str_d + '0' + home + '.html'
         url_page = urlopen(url)
     except HTTPError:
         sleep(60)
         url_page = urlopen(url)
-    print(url)
     file.write(str_d + ',' + away + ',' + home)
     soup = BeautifulSoup(url_page, 'html.parser')
     file.write(','+str(process_box(soup, home)))
@@ -133,7 +135,7 @@ def process_year(year):
     game_list.close()
     file.close()
 
-process_year('2009')
+process_year('2006')
 # file = open('test.txt','w')
 # d = datetime.strptime('20171123', '%Y%m%d')
 # scrape('BRK','POR',d, file)
