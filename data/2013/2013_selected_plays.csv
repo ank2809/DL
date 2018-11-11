@@ -1,0 +1,1231 @@
+home_team,date,plays
+IND,20131029,[]
+MIA,20131029,[]
+LAL,20131029,[]
+CLE,20131030,"[(""MISS Waiters 26' 3PT Jump Shot"", 21.0), (""MISS Anderson 24' 3PT Jump Shot"", 23.6), (""Lopez 1' Alley Oop Layup (21 PTS) (Garnett 3 AST)"", 22.8), (""MISS Irving 26' 3PT Jump Shot"", 41.7), (""'Clark REBOUND (Off:3 Def:5)'"", 20.4), (""Varejao 14' Jump Shot (10 PTS) (Irving 9 AST)"", 33.5), (""MISS Pierce 18' Jump Shot"", 26.8)]"
+PHI,20131030,"[(""MISS Chalmers 1' Layup"", 21.4), (""'MISS Turner  3PT Jump Shot'"", 27.4), (""MISS Turner 24' 3PT Jump Shot"", 28.2), (""MISS Turner 1' Layup"", 22.4), (""MISS James 6' Jump Shot"", 34.2), (""'MISS Battier  3PT Jump Shot'"", 49.7)]"
+TOR,20131030,[]
+DET,20131030,[]
+NY,20131030,"[(""MISS Felton 24' 3PT Jump Shot"", 22.8), (""MISS Shumpert 24' 3PT Jump Shot"", 26.8)]"
+HOU,20131030,[]
+MIN,20131030,"[(""MISS Martin 25' 3PT Jump Shot"", 25.7), (""MISS Afflalo 21' Step Back Jump Shot"", 21.2), (""MISS Love 25' 3PT Jump Shot"", 27.6), (""MISS Vucevic 1' Running Layup"", 24.8), (""MISS Nelson 25' 3PT Jump Shot"", 45.6), (""Afflalo 2' Driving Layup (24 PTS)"", 35.4), (""MISS Rubio 19' Pullup Jump Shot"", 39.2), (""'Oladipo REBOUND (Off:0 Def:6)'"", 20.7), (""Love 25' 3PT Jump Shot (30 PTS) (Rubio 9 AST)"", 35.1), (""MISS Afflalo 16' Turnaround Fadeaway Shot"", 43.9), (""''"", 50.0)]"
+NO,20131030,"[(""MISS George 26' 3PT Jump Shot"", 20.1), (""MISS George 26' 3PT Jump Shot"", 28.8), (""MISS Holiday 19' Jump Shot"", 20.3), (""MISS Davis 1' Layup"", 28.9), (""Hill 25' 3PT Jump Shot (19 PTS)"", 29.3)]"
+DAL,20131030,[]
+SA,20131030,[]
+UTAH,20131030,"[(""MISS Hayward 28' 3PT Jump Shot"", 43.0)]"
+PHX,20131030,[]
+SAC,20131030,"[(""MISS Cousins 4' Jump Shot"", 24.4), (""MISS Lawson 4' Jump Shot"", 27.3), (""MISS Lawson 13' Jump Shot"", 27.7), (""MISS Cousins 7' Jump Shot"", 30.9), (""'Thompson REBOUND (Off:1 Def:2)'"", 20.4), (""Thompson 1' Putback Dunk (2 PTS)"", 30.9), (""'MISS Fournier  3PT Jump Shot'"", 47.5), (""MISS Lawson 2' Layup"", 42.6), (""'MISS Foye  3PT Jump Shot'"", 94.2)]"
+GS,20131030,[]
+CHI,20131031,"[(""MISS Felton 25' 3PT Jump Shot"", 26.6), (""MISS Felton 9' Jump Shot"", 20.1), (""MISS Rose 3' Layup"", 25.5), (""MISS Noah 3' Tip Shot"", 25.6), (""MISS Anthony 21' Jump Shot"", 38.0), (""'Knicks Rebound'"", 23.3), (""'Chandler Free Throw 2 of 2 (7 PTS)'"", 24.1), (""Rose 11' Jump Shot (18 PTS) (Butler 1 AST)"", 55.8), (""MISS Anthony 26' 3PT Jump Shot"", 86.5), (""MISS Chandler 2' Tip Shot"", 93.4)]"
+LAC,20131031,[]
+CHA,20131101,"[(""MISS Irving 26' 3PT Jump Shot"", 22.1), (""MISS Miles 17' Jump Shot"", 24.4), (""Walker 25' 3PT Jump Shot (22 PTS) (Henderson 1 AST)"", 38.6), (""MISS Jack 27' 3PT Jump Shot"", 34.2)]"
+ORL,20131101,[]
+WSH,20131101,[]
+ATL,20131101,[]
+BOS,20131101,"[(""Wallace 25' 3PT Jump Shot (14 PTS) (Lee 1 AST)"", 22.8), (""MISS Wolters 5' Running Jump Shot"", 21.4), (""MISS Middleton 25' 3PT Jump Shot"", 35.1), (""MISS Wallace 26' 3PT Jump Shot"", 27.8), (""MISS Butler 25' 3PT Jump Shot"", 41.8), (""MISS Bass 2' Layup"", 23.0)]"
+HOU,20131101,[]
+MEM,20131101,"[(""MISS Gasol 5' Jump Shot"", 31.6), (""Gasol 1' Tip Shot (15 PTS)"", 31.6), (""MISS Billups 26' 3PT Jump Shot"", 49.4), (""''"", 50.0)]"
+MIN,20131101,[]
+BKN,20131101,[]
+DEN,20131101,[]
+PHX,20131101,"[(""Bledsoe 26' 3PT Jump Shot (10 PTS)"", 23.7), (""Hayward 25' 3PT Jump Shot (18 PTS)"", 33.3), (""Bledsoe 25' 3PT Jump Shot (18 PTS)"", 50.2)]"
+SAC,20131101,"[(""MISS Thornton 25' 3PT Jump Shot"", 23.6)]"
+LAL,20131101,"[(""MISS Blake 28' 3PT Jump Shot"", 23.3), (""Diaw 27' 3PT Jump Shot (14 PTS) (Ginobili 3 AST)"", 27.3), (""'MISS Blake  3PT Jump Shot'"", 21.3)]"
+IND,20131102,[]
+PHI,20131102,"[(""MISS Hawes 26' 3PT Jump Shot"", 21.7), (""Rose 24' 3PT Jump Shot (13 PTS) (Boozer 2 AST)"", 30.6), (""MISS Carter-Williams 5' Jump Shot"", 22.8), (""MISS Rose 2' Layup"", 32.3), (""MISS Deng 24' 3PT Jump Shot"", 52.2), (""MISS Deng 26' 3PT Jump Shot"", 40.8)]"
+NO,20131102,[]
+DAL,20131102,[]
+MIL,20131102,[]
+UTAH,20131102,[]
+POR,20131102,[]
+GS,20131102,[]
+DET,20131103,[]
+MIA,20131103,[]
+ORL,20131103,[]
+OKC,20131103,[]
+NY,20131103,[]
+LAL,20131103,"[(""MISS Martin 24' 3PT Jump Shot"", 20.3), (""Millsap 11' Jump Shot (14 PTS) (Teague 4 AST)"", 25.3), (""MISS Gasol 4' Hook Shot"", 34.6), (""'Hill REBOUND (Off:1 Def:4)'"", 24.0), (""MISS Korver 21' Jump Shot"", 42.0)]"
+CLE,20131104,"[(""MISS Irving 6' Step Back Jump Shot"", 22.4), (""'Martin REBOUND (Off:1 Def:3)'"", 20.7), (""MISS Love 25' 3PT Jump Shot"", 86.7)]"
+PHI,20131104,[]
+MEM,20131104,"[(""MISS Green 24' 3PT Jump Shot"", 20.3), (""'MISS Allen  3PT Jump Shot'"", 26.9), (""MISS Sullinger 26' 3PT Jump Shot"", 33.1), (""MISS Green 25' 3PT Jump Shot"", 33.3)]"
+LAC,20131104,[]
+TOR,20131105,[]
+BKN,20131105,[]
+DET,20131105,[]
+NY,20131105,"[(""MISS Felton 25' 3PT Jump Shot"", 21.8)]"
+NO,20131105,[]
+DAL,20131105,[]
+DEN,20131105,[]
+POR,20131105,[]
+SAC,20131105,"[(""'MISS Thornton  3PT Jump Shot'"", 24.9), (""MISS Thomas 26' 3PT Jump Shot"", 40.8)]"
+CHA,20131106,"[(""MISS Gay 6' Jump Shot"", 20.4), (""MISS DeRozan 17' Turnaround Jump Shot"", 21.2), (""MISS Johnson 1' Putback Layup"", 21.5), (""MISS DeRozan 7' Driving Jump Shot"", 26.1)]"
+IND,20131106,[]
+ORL,20131106,"[(""'MISS Nicholson  3PT Jump Shot'"", 21.6), (""Afflalo 13' Turnaround Jump Shot (11 PTS)"", 21.4), (""MISS Paul 25' 3PT Jump Shot"", 38.0), (""Vucevic 16' Jump Shot (24 PTS) (Nelson 8 AST)"", 21.4), (""MISS Redick 26' 3PT Jump Shot"", 33.3)]"
+PHI,20131106,[]
+BOS,20131106,[]
+MEM,20131106,[]
+MIL,20131106,"[(""Miles 25' 3PT Jump Shot (14 PTS) (Varejao 3 AST)"", 40.1), (""MISS Neal 4' Jump Shot"", 29.9), (""MISS Irving 1' Layup"", 23.6), (""MISS Mayo 6' Jump Shot"", 35.4), (""Butler 2' Tip Shot (10 PTS)"", 35.4), (""MISS Irving 24' 3PT Jump Shot"", 37.8)]"
+MIN,20131106,[]
+SA,20131106,"[(""MISS Bledsoe 25' 3PT Jump Shot"", 29.6), (""'Tucker  3PT Jump Shot (3 PTS) (Bledsoe 5 AST)'"", 34.4), (""Parker 5' Jump Shot (16 PTS) (Duncan 4 AST)"", 24.7), (""Plumlee 1' Reverse Layup (15 PTS) (Tucker 2 AST)"", 27.2), (""MISS Duncan 15' Jump Shot"", 29.5), (""Parker 16' Jump Shot (18 PTS)"", 33.7), (""MISS Bledsoe 12' Jump Shot"", 36.9), (""'Parker  Layup (20 PTS) (Duncan 5 AST)'"", 21.5), (""'MISS Bledsoe  3PT Jump Shot'"", 35.0), (""MISS Green 29' 3PT Jump Shot"", 44.3)]"
+OKC,20131106,[]
+MIA,20131107,[]
+DEN,20131107,"[(""MISS Faried 2' Layup"", 20.8), (""Lawson 3' Floating Jump Shot (19 PTS)"", 21.5), (""MISS Horford 2' Layup"", 23.5), (""MISS Korver 24' 3PT Jump Shot"", 37.4), (""'MISS Horford  Layup'"", 30.7), (""MISS Horford 2' Putback Layup"", 31.6), (""'MISS Millsap Free Throw 1 of 2'"", 22.0), (""MISS Millsap 14' Jump Shot"", 42.6), (""MISS Horford 8' Turnaround Jump Shot"", 48.0)]"
+HOU,20131107,"[(""'MISS W. Johnson  3PT Jump Shot'"", 21.5), (""MISS Nash 25' 3PT Jump Shot"", 21.0), (""MISS W. Johnson 2' Layup"", 24.9), (""Blake 25' 3PT Jump Shot (14 PTS) (Meeks 2 AST)"", 81.3), (""MISS Beverley 27' 3PT Running Bank Shot"", 96.0)]"
+CHA,20131108,[]
+IND,20131108,[]
+ORL,20131108,"[(""MISS Harkless 24' 3PT Jump Shot"", 21.0), (""MISS Oladipo 44' 3PT Jump Shot"", 94.2)]"
+PHI,20131108,[]
+WSH,20131108,"[(""Nene 8' Turnaround Fadeaway (17 PTS)"", 20.3), (""MISS Ariza 24' 3PT Jump Shot"", 38.1), (""Garnett 19' Jump Shot (4 PTS) (D. Williams 3 AST)"", 31.8), (""MISS Wall 10' Jump Shot"", 30.7), (""MISS Wall 2' Layup"", 42.6), (""Nene 1' Tip Shot (20 PTS)"", 42.6), (""MISS Terry 32' 3PT Jump Shot"", 50.3), (""''"", 50.0)]"
+DET,20131108,[]
+CHI,20131108,[]
+MIN,20131108,"[(""MISS Ellis 25' 3PT Jump Shot"", 21.4)]"
+NO,20131108,[]
+SA,20131108,"[(""MISS Thompson 27' 3PT Jump Shot"", 36.2), (""MISS Bogut 10' Jump Shot"", 24.5), (""MISS Iguodala 9' Driving Jump Shot"", 42.6)]"
+PHX,20131108,[]
+POR,20131108,[]
+TOR,20131109,[]
+ATL,20131109,"[(""Afflalo 25' 3PT Jump Shot (19 PTS) (Nelson 4 AST)"", 20.6)]"
+BKN,20131109,"[(""MISS Johnson 24' 3PT Jump Shot"", 34.6)]"
+CLE,20131109,"[(""Irving 25' 3PT Step Back Jump Shot (30 PTS)"", 20.7), (""MISS Young 26' 3PT Jump Shot"", 20.9), (""Jack 18' Jump Shot (15 PTS) (Irving 9 AST)"", 23.0), (""'MISS Jack  3PT Jump Shot'"", 26.2), (""'Thompson REBOUND (Off:6 Def:3)'"", 20.1), (""Young 1' Driving Layup (25 PTS)"", 35.1), (""MISS Irving 1' Layup"", 48.0), (""''"", 50.0)]"
+MIA,20131109,"[(""MISS Crawford 27' 3PT Jump Shot"", 21.4), (""MISS Olynyk 16' Jump Bank Shot"", 33.9), (""Green 24' 3PT Jump Shot (24 PTS) (Wallace 7 AST)"", 94.2)]"
+HOU,20131109,[]
+MEM,20131109,[]
+MIL,20131109,[]
+SAC,20131109,[]
+NY,20131110,[]
+OKC,20131110,"[(""Beal 23' Jump Shot (29 PTS)"", 22.5), (""Beal 1' Driving Layup (31 PTS)"", 23.0), (""Durant 25' 3PT Pullup Jump Shot (29 PTS)"", 33.9), (""MISS Beal 12' Jump Shot"", 43.9), (""''"", 50.0)]"
+PHX,20131110,[]
+LAL,20131110,[]
+CHA,20131111,[]
+IND,20131111,[]
+PHI,20131111,[]
+BOS,20131111,[]
+CHI,20131111,[]
+HOU,20131111,"[(""MISS Gay 20' Turnaround Fadeaway Shot"", 22.1), (""Harden 1' Driving Layup (15 PTS)"", 23.0), (""MISS Parsons 15' Jump Shot"", 21.6), (""MISS DeRozan 5' Jump Shot"", 29.3), (""MISS Gay 4' Driving Layup"", 31.6), (""Johnson 1' Tip Shot (8 PTS)"", 31.6), (""'MISS Harden Free Throw 1 of 2'"", 20.2), (""MISS Gay 22' Jump Shot"", 37.4), (""'Raptors Rebound'"", 22.7), (""MISS Harden 21' Jump Shot"", 48.0), (""''"", 50.0)]"
+UTAH,20131111,[]
+POR,20131111,[]
+LAC,20131111,"[(""MISS Martin 16' Jump Shot"", 37.8), (""MISS Pekovic 2' Layup"", 42.6), (""MISS Love 2' Tip Shot"", 48.0)]"
+MIA,20131112,[]
+DAL,20131112,[]
+GS,20131112,[]
+LAL,20131112,[]
+ORL,20131113,"[(""MISS Henson 17' Jump Shot"", 22.0), (""Vucevic 2' Dunk (17 PTS) (Afflalo 6 AST)"", 20.2)]"
+PHI,20131113,"[(""'MISS Jones  3PT Jump Shot'"", 34.7), (""MISS Wroten 1' Layup"", 26.4), (""'MISS Wroten  Tip Shot'"", 26.7), (""MISS Anderson 2' Layup"", 31.3), (""MISS Parsons 4' Jump Shot"", 23.7), (""Anderson 25' 3PT Jump Shot (34 PTS) (Wroten 11 AST)"", 37.8), (""MISS Parsons 21' Jump Shot"", 43.9), (""MISS Wroten 59' 3PT Jump Shot"", 50.2), (""''"", 50.0)]"
+BOS,20131113,[]
+MEM,20131113,[]
+MIN,20131113,[]
+ATL,20131113,[]
+SA,20131113,[]
+DEN,20131113,[]
+UTAH,20131113,"[(""Jefferson 24' 3PT Jump Shot (19 PTS)"", 23.5), (""Holiday 24' 3PT Jump Shot (19 PTS) (Evans 4 AST)"", 20.4), (""MISS Gordon 6' Running Jump Shot"", 23.0), (""Williams 25' 3PT Jump Shot (12 PTS) (Garrett 4 AST)"", 27.9), (""Gordon 25' 3PT Jump Shot (16 PTS) (Holiday 5 AST)"", 21.3)]"
+POR,20131113,"[(""Matthews 24' 3PT Step Back Jump Shot (11 PTS) (Lillard 8 AST)"", 20.6), (""MISS Aldridge 9' Jump Shot"", 22.7), (""Lopez 1' Tip Shot (13 PTS)"", 22.8), (""MISS Bledsoe 17' Jump Shot"", 25.0), (""MISS Christmas 16' Jump Shot"", 26.1), (""Plumlee 2' Layup (10 PTS) (Bledsoe 6 AST)"", 29.1), (""MISS Aldridge 9' Turnaround Jump Shot"", 33.3), (""MISS Bledsoe 1' Layup"", 21.1), (""'Aldridge REBOUND (Off:3 Def:8)'"", 20.5), (""Lillard 1' Driving Finger Roll Layup (11 PTS)"", 53.3), (""MISS Bledsoe 2' Layup"", 78.5), (""MISS Tucker 1' Tip Shot"", 78.5), (""MISS Mark Morris 1' Tip Shot"", 78.5)]"
+SAC,20131113,[]
+LAC,20131113,[]
+NY,20131114,"[(""MISS Anthony 24' 3PT Jump Shot"", 33.2), (""MISS Smith 47' 3PT Running Jump Shot"", 48.7)]"
+GS,20131114,"[(""MISS Durant 26' 3PT Pullup Jump Shot"", 22.4), (""Westbrook 29' 3PT Pullup Jump Shot (31 PTS) (Durant 8 AST)"", 80.1), (""Iguodala 16' Turnaround Fadeaway (14 PTS) (Thompson 2 AST)"", 78.5)]"
+IND,20131115,[]
+TOR,20131115,[]
+ATL,20131115,[]
+BOS,20131115,[]
+CLE,20131115,[]
+MIA,20131115,"[(""MISS Ellis 25' 3PT Jump Shot"", 31.4)]"
+DEN,20131115,[]
+PHX,20131115,"[(""MISS Bledsoe 25' 3PT Jump Shot"", 36.3), (""MISS Bledsoe 25' 3PT Jump Shot"", 38.5), (""MISS Johnson 26' 3PT Jump Shot"", 28.9), (""Tucker 24' 3PT Jump Shot (15 PTS) (Dragic 10 AST)"", 49.4), (""Johnson 9' Floating Jump Shot (10 PTS)"", 25.9), (""MISS Dragic 14' Turnaround Jump Shot"", 42.9), (""''"", 50.0)]"
+UTAH,20131115,[]
+LAL,20131115,"[(""MISS Meeks 25' 3PT Jump Shot"", 22.0), (""'Meeks  3PT Jump Shot (25 PTS) (Blake 10 AST)'"", 21.4), (""MISS Prince 25' 3PT Jump Shot"", 28.8), (""MISS Prince 24' 3PT Jump Shot"", 29.0), (""MISS Blake 20' Jump Shot"", 31.6), (""Randolph 2' Driving Finger Roll Layup (26 PTS)"", 22.6), (""'MISS Blake  3PT Jump Shot'"", 34.2)]"
+SAC,20131115,[]
+CHA,20131116,[]
+ORL,20131116,[]
+WSH,20131116,"[(""MISS Dellavedova 24' 3PT Jump Shot"", 38.5), (""Thompson 3' Putback Dunk (15 PTS)"", 25.1), (""'Irving Free Throw 1 of 2 (31 PTS)'"", 20.5), (""'Nene Free Throw 1 of 2 (22 PTS)'"", 21.6), (""'Gee REBOUND (Off:0 Def:2)'"", 22.6), (""MISS Nene 25' 3PT Jump Shot"", 50.2), (""''"", 50.0)]"
+NY,20131116,[]
+CHI,20131116,[]
+HOU,20131116,[]
+MIN,20131116,[]
+NO,20131116,[]
+MIL,20131116,[]
+GS,20131116,[]
+LAC,20131116,"[(""Redick 24' 3PT Jump Shot (25 PTS) (Paul 13 AST)"", 20.8)]"
+TOR,20131117,"[(""Gay 2' Driving Layup (25 PTS) (DeRozan 3 AST)"", 48.0), (""''"", 50.0)]"
+SAC,20131117,[]
+LAL,20131117,[]
+BKN,20131118,[]
+CHI,20131118,"[(""Henderson 24' 3PT Jump Shot (14 PTS) (McRoberts 5 AST)"", 21.3), (""Rose 1' Driving Layup (11 PTS)"", 21.2), (""Deng 26' 3PT Jump Shot (21 PTS) (Rose 5 AST)"", 29.2)]"
+OKC,20131118,"[(""MISS Durant 25' 3PT Jump Shot"", 23.8), (""MISS Lawson 24' 3PT Jump Shot"", 27.7), (""MISS Durant 24' 3PT Jump Shot"", 30.0), (""MISS Foye 26' 3PT Jump Shot"", 33.0), (""MISS Westbrook 15' Jump Shot"", 23.2), (""MISS Westbrook 4' Jump Shot"", 23.5), (""Durant 25' 3PT Jump Shot (38 PTS) (Ibaka 4 AST)"", 34.7), (""MISS Hickson 31' 3PT Turnaround Jump Shot"", 94.2)]"
+DAL,20131118,[]
+UTAH,20131118,[]
+LAC,20131118,[]
+WSH,20131119,"[(""MISS Martin 2' Layup"", 21.0), (""MISS Brewer 18' Jump Shot"", 22.3), (""Wall 22' Pullup Jump Shot (14 PTS)"", 23.8), (""Martin 25' 3PT Jump Shot (11 PTS) (Love 4 AST)"", 38.2), (""Webster 26' 3PT Jump Shot (17 PTS) (Wall 16 AST)"", 48.3), (""MISS Martin 15' Jump Shot"", 26.2)]"
+DET,20131119,[]
+MIA,20131119,[]
+HOU,20131119,[]
+SAC,20131119,"[(""Outlaw 15' Turnaround Jump Shot (4 PTS)"", 24.9), (""MISS Dragic 16' Jump Shot"", 33.9), (""MISS Marc Morris 24' 3PT Jump Shot"", 81.3), (""MISS Green 56' 3PT Jump Shot"", 48.7)]"
+CHA,20131120,[]
+CLE,20131120,[]
+NY,20131120,"[(""'Smith  3PT Jump Shot (18 PTS) (Udrih 4 AST)'"", 21.1), (""Hill 25' 3PT Jump Shot (18 PTS) (George 4 AST)"", 21.8), (""Udrih 5' Driving Jump Shot (19 PTS)"", 24.7), (""MISS George 5' Driving Jump Shot"", 27.3), (""'MISS Smith  3PT Jump Shot'"", 28.9), (""MISS Bargnani 25' 3PT Jump Shot"", 29.4), (""MISS Hill 25' 3PT Jump Shot"", 54.7), (""MISS Hill 25' 3PT Jump Shot"", 61.7), (""'Anthony REBOUND (Off:8 Def:9)'"", 20.1), (""'George Free Throw 1 of 3 (24 PTS)'"", 20.2), (""'George Free Throw 2 of 3 (25 PTS)'"", 24.3), (""'George Free Throw 3 of 3 (26 PTS)'"", 26.8), (""MISS Anthony 11' Jump Shot"", 45.0), (""MISS Smith 2' Tip Shot"", 48.0), (""''"", 50.0)]"
+ORL,20131120,[]
+PHI,20131120,[]
+ATL,20131120,[]
+MIL,20131120,[]
+MIN,20131120,[]
+NO,20131120,[]
+SA,20131120,[]
+PHX,20131120,[]
+DAL,20131120,"[(""MISS Parsons 2' Driving Layup"", 21.6), (""'Marion  3PT Jump Shot (13 PTS) (Ellis 9 AST)'"", 46.6), (""MISS Harden 26' 3PT Jump Shot"", 45.8), (""'Harden Free Throw 1 of 2 (23 PTS)'"", 21.4), (""'MISS Harden Free Throw 2 of 2'"", 22.3), (""MISS Harden 28' 3PT Jump Shot"", 40.8)]"
+GS,20131120,"[(""MISS Conley 25' 3PT Jump Shot"", 24.4), (""'MISS Iguodala  3PT Pullup Jump Shot'"", 32.8), (""MISS Randolph 28' 3PT Step Back Jump Shot"", 34.9), (""MISS Prince 18' Turnaround Jump Shot"", 29.8), (""MISS Iguodala 8' Running Jump Shot"", 32.9), (""'Prince REBOUND (Off:0 Def:3)'"", 21.6), (""MISS Gasol 11' Turnaround Jump Shot"", 38.0), (""'Randolph REBOUND (Off:3 Def:8)'"", 22.7), (""'MISS Randolph  Tip Shot'"", 38.7), (""'Bogut REBOUND (Off:3 Def:11)'"", 21.0), (""MISS Iguodala 12' Turnaround Jump Shot"", 48.0), (""''"", 50.0)]"
+OKC,20131121,[]
+DEN,20131121,[]
+CHA,20131122,[]
+PHI,20131122,"[(""Butler 24' 3PT Jump Shot (37 PTS) (Ilyasova 6 AST)"", 24.7), (""Hawes 24' 3PT Jump Shot (23 PTS) (Turner 2 AST)"", 44.3), (""MISS Middleton 51' 3PT Jump Shot"", 50.3), (""''"", 50.0)]"
+TOR,20131122,[]
+BOS,20131122,[]
+DET,20131122,"[(""MISS Carroll 24' 3PT Jump Shot"", 20.4)]"
+MEM,20131122,[]
+MIN,20131122,[]
+NO,20131122,"[(""MISS Evans 2' Layup"", 20.5), (""Davis 2' Tip Shot (17 PTS)"", 20.5), (""Evans 3' Driving Layup (17 PTS) (Holiday 10 AST)"", 27.5), (""Irving 1' Driving Layup (22 PTS)"", 30.6), (""Gordon 24' 3PT Jump Shot (19 PTS) (Holiday 11 AST)"", 51.9), (""MISS Irving 2' Layup"", 26.2)]"
+DAL,20131122,[]
+POR,20131122,"[(""Batum 24' 3PT Jump Shot (17 PTS) (Aldridge 4 AST)"", 20.4), (""Matthews 20' Jump Shot (28 PTS)"", 22.6), (""MISS Gibson 16' Jump Shot"", 27.9), (""MISS Hinrich 26' 3PT Jump Shot"", 47.6), (""MISS Aldridge 16' Jump Shot"", 23.0), (""MISS Batum 24' 3PT Jump Shot"", 29.4), (""MISS Hinrich 2' Layup"", 37.9), (""'Mohammed REBOUND (Off:4 Def:5)'"", 20.6), (""MISS Dunleavy 27' 3PT Jump Shot"", 60.4), (""'Bulls Rebound'"", 20.7), (""MISS Deng 29' 3PT Jump Shot"", 48.7)]"
+LAL,20131122,[]
+LAC,20131123,"[(""MISS Crawford 25' 3PT Jump Shot"", 20.1), (""'Dudley  3PT Jump Shot (11 PTS) (Paul 8 AST)'"", 20.5), (""Paul 25' 3PT Jump Shot (19 PTS)"", 29.0), (""Paul 1' Driving Layup (21 PTS)"", 26.4), (""Griffin 2' Driving Dunk (16 PTS) (Paul 9 AST)"", 30.2), (""MISS Cousins 2' Layup"", 26.1), (""MISS Cousins 16' Jump Shot"", 78.5)]"
+IND,20131123,[]
+WSH,20131123,[]
+ATL,20131123,"[(""'MISS Green  3PT Jump Shot'"", 23.7), (""MISS Carroll 25' 3PT Jump Shot"", 30.1)]"
+MIA,20131123,"[(""James 27' 3PT Jump Shot (18 PTS) (Allen 2 AST)"", 21.5), (""MISS Afflalo 25' 3PT Jump Shot"", 32.5), (""James 18' Pullup Jump Shot (22 PTS)"", 35.5), (""MISS Afflalo 1' Driving Layup"", 36.4), (""MISS Oladipo 12' Fadeaway Jumper"", 42.6)]"
+HOU,20131123,[]
+MIL,20131123,[]
+SA,20131123,[]
+DEN,20131123,"[(""MISS Nowitzki 25' 3PT Jump Shot"", 20.9), (""Nowitzki 13' Fadeaway Jumper (27 PTS)"", 20.5), (""Foye 26' 3PT Jump Shot (17 PTS) (Chandler 3 AST)"", 38.2), (""MISS Ellis 9' Running Jump Shot"", 28.7), (""MISS Foye 25' 3PT Jump Shot"", 29.3), (""MISS Nowitzki 19' Jump Shot"", 37.9), (""'Faried REBOUND (Off:5 Def:9)'"", 20.6), (""MISS Ellis 2' Driving Layup"", 31.6), (""MISS Nowitzki 22' Turnaround Jump Shot"", 42.6)]"
+GS,20131123,[]
+BKN,20131124,[]
+LAC,20131124,[]
+ORL,20131124,[]
+OKC,20131124,[]
+LAL,20131124,[]
+CHA,20131125,[]
+IND,20131125,[]
+DET,20131125,[]
+MIA,20131125,[]
+MEM,20131125,[]
+DAL,20131125,[]
+SA,20131125,[]
+UTAH,20131125,"[(""MISS Snell 25' 3PT Jump Shot"", 20.9), (""MISS Williams 24' 3PT Jump Shot"", 20.9), (""Burke 10' Running Jump Shot (11 PTS)"", 21.6), (""Deng 19' Jump Shot (23 PTS)"", 23.6), (""MISS Hayward 11' Fadeaway Jumper"", 26.4), (""Jefferson 12' Running Jump Shot (10 PTS)"", 24.4), (""MISS Deng 18' Jump Shot"", 33.5), (""'MISS Noah Free Throw 1 of 2'"", 20.5), (""MISS Hayward 15' Fadeaway Jumper"", 39.5), (""'Deng REBOUND (Off:1 Def:8)'"", 21.0), (""MISS Deng 12' Jump Shot"", 43.7), (""MISS Boozer 5' Jump Shot"", 45.0), (""''"", 50.0)]"
+POR,20131125,[]
+TOR,20131126,"[(""MISS Johnson 24' 3PT Jump Shot"", 81.3), (""MISS Novak 3' Running Tip Shot"", 48.0)]"
+WSH,20131126,"[(""MISS Ariza 26' 3PT Jump Shot"", 25.4), (""Gasol 3' Jump Shot (14 PTS) (Farmar 8 AST)"", 20.6), (""MISS Nene 3' Layup"", 22.0), (""Wall 17' Jump Shot (26 PTS)"", 23.0), (""Nene 2' Driving Layup (30 PTS) (Wall 9 AST)"", 21.8), (""MISS Young 24' 3PT Jump Shot"", 32.3), (""MISS Young 28' 3PT Jump Shot"", 33.5)]"
+ATL,20131126,[]
+NO,20131126,"[(""MISS Gordon 24' 3PT Jump Shot"", 26.5), (""MISS O'Neal 5' Jump Shot"", 23.7), (""'MISS Gordon  3PT Jump Shot'"", 86.7)]"
+CHA,20131127,[]
+ORL,20131127,[]
+BOS,20131127,[]
+BKN,20131127,"[(""MISS Young 27' 3PT Jump Shot"", 28.2), (""MISS Anderson 26' 3PT Jump Shot"", 30.7), (""MISS Johnson 3' Layup"", 20.8), (""MISS Young 2' Driving Layup"", 22.5), (""W. Johnson 1' Driving Slam Dunk (4 PTS)"", 23.3), (""MISS Pierce 10' Turnaround Jump Shot"", 22.0), (""MISS Anderson 15' Jump Shot"", 22.7), (""MISS Johnson 2' Driving Layup"", 23.8), (""MISS Garnett 17' Jump Shot"", 26.5), (""MISS Pierce 27' 3PT Jump Shot"", 43.0)]"
+CLE,20131127,[]
+DET,20131127,[]
+HOU,20131127,[]
+MIL,20131127,"[(""'MISS Webster  3PT Jump Shot'"", 20.5), (""MISS Ariza 26' 3PT Jump Shot"", 27.1), (""Webster 24' 3PT Jump Shot (18 PTS)"", 31.6), (""'Ariza  Layup (10 PTS)'"", 31.3), (""MISS Knight 16' Jump Shot"", 26.2), (""MISS Middleton 25' 3PT Jump Shot"", 51.6), (""Mayo 25' 3PT Jump Shot (21 PTS)"", 37.8), (""MISS Wall 5' Jump Shot"", 43.9), (""''"", 50.0)]"
+MIN,20131127,"[(""MISS Love 24' 3PT Jump Shot"", 20.7), (""MISS Love 24' 3PT Jump Shot"", 32.3)]"
+OKC,20131127,[]
+DAL,20131127,"[(""MISS Thompson 24' 3PT Pullup Jump Shot"", 21.2)]"
+PHX,20131127,[]
+LAC,20131127,[]
+CHA,20131129,[]
+ORL,20131129,[]
+TOR,20131129,[]
+ATL,20131129,"[(""MISS Martin 24' 3PT Jump Shot"", 20.7), (""Millsap 24' 3PT Jump Shot (15 PTS) (Teague 5 AST)"", 21.4), (""MISS Ellis 3' Driving Hook Shot"", 22.4), (""MISS Teague 2' Driving Layup"", 32.3), (""MISS Nowitzki 17' Jump Shot"", 23.0), (""'Millsap REBOUND (Off:1 Def:5)'"", 20.5), (""Horford 19' Jump Shot (17 PTS) (Teague 6 AST)"", 58.4), (""MISS Carter 20' Jump Shot"", 78.5)]"
+BOS,20131129,[]
+DET,20131129,"[(""'Shaw. Williams  3PT Jump Shot (20 PTS) (Young 2 AST)'"", 25.2), (""MISS Stuckey 13' Jump Shot"", 22.3), (""Farmar 19' Jump Shot (13 PTS)"", 23.9), (""MISS Stuckey 1' Layup"", 21.6), (""MISS Stuckey 11' Jump Shot"", 31.6)]"
+HOU,20131129,[]
+OKC,20131129,"[(""Curry 15' Jump Bank Shot (30 PTS)"", 23.4), (""MISS Durant 11' Fadeaway Jumper"", 26.4), (""MISS Thompson 8' Running Jump Shot"", 29.7), (""MISS Durant 17' Fadeaway Jumper"", 23.7), (""'MISS Lee Free Throw 1 of 2'"", 21.6), (""MISS Durant 15' Fadeaway Jumper"", 48.0), (""''"", 50.0)]"
+IND,20131129,[]
+PHI,20131129,[]
+DEN,20131129,"[(""MISS Anthony 14' Turnaround Jump Shot"", 42.0)]"
+UTAH,20131129,[]
+SAC,20131129,"[(""MISS Vasquez 26' 3PT Jump Shot"", 23.5), (""MISS Vasquez 25' 3PT Jump Shot"", 26.8), (""MISS McLemore 25' 3PT Jump Shot"", 42.9), (""MISS Crawford 23' Jump Shot"", 48.0), (""''"", 50.0)]"
+WSH,20131130,[]
+CLE,20131130,"[(""MISS Deng 5' Jump Shot"", 29.0), (""MISS Noah 1' Layup"", 29.8), (""MISS Noah 1' Layup"", 29.8), (""MISS Boozer 1' Layup"", 30.7)]"
+MEM,20131130,[]
+DAL,20131130,[]
+SA,20131130,"[(""'MISS Bonner  3PT Jump Shot'"", 25.7), (""Ginobili 26' 3PT Jump Shot (9 PTS) (Bonner 2 AST)"", 34.8), (""Parker 2' Layup (27 PTS) (Duncan 3 AST)"", 20.4), (""MISS Parsons 26' 3PT Jump Shot"", 31.0), (""Harden 26' 3PT Jump Shot (29 PTS)"", 31.6), (""MISS Parker 2' Driving Layup"", 31.3), (""'Jones REBOUND (Off:4 Def:11)'"", 20.8), (""MISS Harden 1' Layup"", 32.6), (""'Beverley REBOUND (Off:3 Def:3)'"", 21.4), (""Beverley 1' Tip Shot (11 PTS)"", 33.0), (""MISS Ginobili 26' 3PT Jump Shot"", 49.0)]"
+PHX,20131130,[]
+MIL,20131130,[]
+TOR,20131201,[]
+LAC,20131201,"[(""MISS Paul 15' Jump Shot"", 25.7)]"
+DET,20131201,[]
+SAC,20131201,"[(""Thomas 25' 3PT Jump Shot (19 PTS) (Cousins 2 AST)"", 21.3), (""MISS Curry 25' 3PT Jump Shot"", 21.1), (""'Thompson  3PT Jump Shot (28 PTS) (Curry 10 AST)'"", 24.1), (""Patterson 26' 3PT Jump Shot (18 PTS) (Salmons 3 AST)"", 32.9), (""MISS Thomas 25' 3PT Jump Shot"", 35.8), (""Curry 19' Jump Shot (34 PTS)"", 26.8), (""Cousins 6' Jump Hook Shot (22 PTS)"", 24.1), (""MISS Curry 10' Jump Shot"", 33.5), (""'Green REBOUND (Off:2 Def:3)'"", 21.8), (""Green 1' Tip Shot (9 PTS)"", 33.5), (""Cousins 5' Jump Hook Shot (24 PTS)"", 28.4), (""'Curry Free Throw 1 of 2 (35 PTS)'"", 20.1), (""MISS Thomas 2' Layup"", 42.6)]"
+MIA,20131201,"[(""Bosh 25' 3PT Jump Shot (19 PTS) (Wade 3 AST)"", 20.8), (""MISS Walker 25' 3PT Jump Shot"", 27.7), (""Bosh 25' 3PT Jump Shot (22 PTS) (Wade 4 AST)"", 38.8), (""MISS McRoberts 6' Driving Jump Shot"", 25.6), (""MISS Jefferson 1' Tip Shot"", 25.8)]"
+OKC,20131201,[]
+NY,20131201,"[(""MISS Anthony 26' 3PT Jump Shot"", 22.1), (""MISS Felton 25' 3PT Jump Shot"", 21.4), (""MISS Hardaway Jr. 24' 3PT Jump Shot"", 33.3), (""MISS Anthony 26' 3PT Jump Shot"", 33.3)]"
+LAL,20131201,"[(""Lillard 26' 3PT Jump Shot (23 PTS) (Batum 9 AST)"", 22.3), (""MISS Meeks 27' 3PT Jump Shot"", 20.5)]"
+WSH,20131202,[]
+CHI,20131202,"[(""MISS Hinrich 25' 3PT Jump Shot"", 23.7), (""MISS Gordon 1' Layup"", 20.2), (""MISS Anderson 25' 3PT Jump Shot"", 30.8), (""MISS Aminu 2' Layup"", 20.8), (""Hinrich 21' Jump Shot (13 PTS)"", 22.8), (""MISS Holiday 2' Driving Layup"", 22.0), (""Gordon 25' 3PT Jump Shot (17 PTS) (Holiday 9 AST)"", 38.2), (""Noah 1' Dunk (11 PTS) (Deng 5 AST)"", 33.3), (""MISS Holiday 13' Jump Shot"", 36.2), (""Holiday 18' Jump Shot (14 PTS)"", 37.8), (""''"", 50.0)]"
+SA,20131202,"[(""Teague 26' 3PT Jump Shot (19 PTS)"", 39.7), (""Duncan 16' Jump Shot (23 PTS) (Ginobili 7 AST)"", 48.0), (""'MISS Millsap  3PT Turnaround Jump Shot'"", 94.2)]"
+UTAH,20131202,[]
+POR,20131202,[]
+PHI,20131203,"[(""MISS Oladipo 25' 3PT Jump Shot"", 36.0), (""Afflalo 26' 3PT Jump Shot (34 PTS)"", 20.2), (""Young 6' Driving Bank Hook Shot (18 PTS) (Carter-Williams 6 AST)"", 23.6), (""Davis 26' 3PT Jump Shot (29 PTS)"", 33.3), (""MISS Turner 2' Layup"", 43.9), (""''"", 50.0)]"
+BOS,20131203,[]
+BKN,20131203,[]
+MIA,20131203,[]
+MEM,20131203,[]
+DAL,20131203,"[(""'MISS Tolliver  3PT Jump Shot'"", 24.2)]"
+SAC,20131203,"[(""MISS Thornton 25' 3PT Jump Shot"", 20.2), (""MISS Thomas 14' Fadeaway Jumper"", 42.6)]"
+GS,20131203,"[(""MISS Green 26' 3PT Jump Shot"", 24.0), (""Curry 27' 3PT Pullup Jump Shot (22 PTS) (Thompson 7 AST)"", 24.4), (""Thompson 26' 3PT Pullup Bank Shot (22 PTS) (Curry 9 AST)"", 27.1), (""MISS Johnson 24' 3PT Jump Shot"", 25.6), (""MISS Lowry 26' 3PT Pullup Jump Shot"", 31.4)]"
+CLE,20131204,[]
+ATL,20131204,[]
+HOU,20131204,[]
+MIL,20131204,[]
+NO,20131204,"[(""Calderon 24' 3PT Jump Shot (12 PTS) (Marion 1 AST)"", 22.3), (""Holiday 25' 3PT Jump Shot (26 PTS)"", 29.1), (""MISS Nowitzki 16' Jump Shot"", 25.5), (""MISS Gordon 5' Jump Shot"", 28.1), (""MISS Aminu 20' Jump Shot"", 36.9), (""'Gordon REBOUND (Off:1 Def:3)'"", 20.2), (""MISS Gordon 3' Layup"", 45.2), (""MISS Anderson 25' 3PT Jump Shot"", 43.0)]"
+UTAH,20131204,[]
+MIN,20140408,[]
+POR,20131204,"[(""MISS Batum 25' 3PT Jump Shot"", 27.7), (""'MISS Durant  3PT Jump Shot'"", 40.1), (""'MISS Matthews  3PT Jump Shot'"", 29.1), (""Batum 24' 3PT Jump Shot (14 PTS) (Lillard 6 AST)"", 29.3)]"
+BKN,20131205,[]
+MEM,20131205,[]
+CHI,20131205,[]
+CHA,20131206,[]
+WSH,20131206,"[(""MISS Knight 27' 3PT Jump Shot"", 28.2), (""Knight 26' 3PT Jump Shot (17 PTS)"", 33.5), (""'MISS Singleton  3PT Jump Shot'"", 49.4), (""''"", 50.0)]"
+ATL,20131206,[]
+BOS,20131206,[]
+NY,20131206,[]
+HOU,20131206,[]
+NO,20131206,[]
+PHX,20131206,[]
+POR,20131206,[]
+SAC,20131206,"[(""'MISS Blake  3PT Jump Shot'"", 30.1), (""'MISS Young  3PT Jump Shot'"", 32.0), (""Gasol 20' Jump Shot (17 PTS) (Young 3 AST)"", 23.5), (""Meeks 24' 3PT Jump Shot (19 PTS) (W. Johnson 2 AST)"", 28.4)]"
+PHI,20131207,[]
+CLE,20131207,[]
+CHI,20131207,[]
+MEM,20131207,[]
+MIN,20131207,[]
+MIL,20131207,[]
+SA,20131207,[]
+UTAH,20131207,"[(""McLemore 25' 3PT Jump Shot (13 PTS) (Thomas 7 AST)"", 40.8), (""MISS Burke 13' Jump Shot"", 48.0), (""''"", 50.0)]"
+POR,20131207,"[(""'Ellis  3PT Jump Shot (18 PTS) (Calderon 6 AST)'"", 27.3), (""MISS Lillard 25' 3PT Jump Shot"", 21.3), (""MISS Williams 25' 3PT Jump Shot"", 35.1), (""Lillard 26' 3PT Jump Shot (32 PTS) (Aldridge 2 AST)"", 44.3), (""Ellis 21' Jump Shot (20 PTS) (Calderon 7 AST)"", 48.0)]"
+NY,20131208,[]
+DET,20131208,[]
+HOU,20131208,[]
+OKC,20131208,[]
+LAL,20131208,[]
+CHA,20131209,[]
+PHI,20131209,[]
+WSH,20131209,"[(""'MISS Ariza  3PT Jump Shot'"", 23.9), (""MISS Hamilton 25' 3PT Jump Shot"", 22.9), (""MISS Chandler 26' 3PT Jump Shot"", 30.8), (""MISS Hamilton 26' 3PT Jump Shot"", 35.6), (""MISS Hamilton 8' Jump Shot"", 23.5), (""MISS Wall 26' 3PT Jump Shot"", 28.7), (""MISS Wall 1' Layup"", 23.4), (""Faried 2' Slam Dunk (6 PTS) (Robinson 2 AST)"", 33.5), (""MISS Wall 1' Layup"", 41.1), (""'Temple REBOUND (Off:1 Def:0)'"", 20.7), (""MISS Temple 2' Layup"", 42.3), (""'WIZARDS Rebound'"", 20.7), (""'MISS Ariza  3PT Jump Shot'"", 71.8)]"
+MEM,20131209,[]
+UTAH,20131209,[]
+SAC,20131209,[]
+CLE,20131210,[]
+IND,20131210,[]
+TOR,20131210,[]
+ATL,20131210,[]
+BKN,20131210,[]
+DET,20131210,[]
+CHI,20131210,"[(""Dunleavy 25' 3PT Jump Shot (24 PTS) (Hinrich 6 AST)"", 20.7), (""MISS Snell 26' 3PT Jump Shot"", 30.8)]"
+LAL,20131210,[]
+CHA,20131211,"[(""MISS McRoberts 25' 3PT Jump Shot"", 21.0)]"
+BOS,20131211,[]
+MEM,20131211,[]
+MIL,20131211,[]
+MIN,20131211,"[(""MISS Turner 25' 3PT Jump Shot"", 20.1)]"
+NO,20131211,"[(""Anderson 26' 3PT Jump Shot (14 PTS) (Aminu 4 AST)"", 25.2), (""Smith 5' Running Hook Shot (8 PTS)"", 21.5), (""MISS Holiday 5' Jump Shot"", 26.3), (""MISS Smith 6' Jump Shot"", 29.1), (""MISS Jennings 26' 3PT Jump Shot"", 42.4), (""'Pistons Rebound'"", 20.6), (""MISS Anderson 26' 3PT Jump Shot"", 44.6), (""'Pistons Rebound'"", 22.1), (""MISS Jennings 22' Jump Shot"", 43.7), (""MISS Jennings 29' 3PT Jump Shot"", 50.3), (""''"", 50.0)]"
+NY,20131211,"[(""MISS Dunleavy 24' 3PT Jump Shot"", 28.3)]"
+SAC,20131211,[]
+GS,20131211,"[(""MISS Thompson 25' 3PT Pullup Jump Shot"", 20.4), (""Green 25' 3PT Pullup Jump Shot (9 PTS) (Curry 10 AST)"", 42.4), (""MISS Curry 3' Driving Layup"", 31.8), (""'Ellis REBOUND (Off:2 Def:2)'"", 21.0), (""MISS Ellis 13' Pullup Jump Shot"", 34.0), (""'Curry REBOUND (Off:0 Def:4)'"", 22.6), (""Curry 19' Pullup Jump Shot (33 PTS)"", 43.7), (""MISS Calderon 49' 3PT Pullup Jump Shot"", 81.3)]"
+BKN,20131212,[]
+POR,20131212,[]
+IND,20131213,"[(""MISS Jefferson 12' Jump Shot"", 20.5), (""MISS Walker 18' Jump Shot"", 23.7), (""MISS Walker 17' Jump Shot"", 24.0), (""MISS Jefferson 4' Jump Shot"", 26.4)]"
+ORL,20131213,[]
+TOR,20131213,[]
+ATL,20131213,"[(""MISS Teague 5' Driving Jump Shot"", 20.2), (""Horford 2' Putback Dunk (28 PTS)"", 20.2), (""Wall 26' 3PT Jump Shot (13 PTS) (Gortat 5 AST)"", 35.7), (""MISS Horford 16' Jump Shot"", 20.9), (""MISS Korver 25' 3PT Jump Shot"", 42.6), (""MISS Mack 2' Layup"", 27.8), (""'Horford Free Throw 1 of 2 (29 PTS)'"", 24.3), (""'Horford Free Throw 2 of 2 (30 PTS)'"", 26.8), (""MISS Wall 20' Fadeaway Jumper"", 48.0), (""''"", 50.0)]"
+BOS,20131213,"[(""'Bradley  3PT Jump Shot (13 PTS) (Crawford 5 AST)'"", 26.7), (""MISS Prigioni 27' 3PT Jump Shot"", 35.3)]"
+DET,20131213,[]
+NO,20131213,[]
+OKC,20131213,[]
+MIL,20131213,"[(""MISS Hinrich 25' 3PT Jump Shot"", 26.8), (""Boozer 17' Jump Shot (14 PTS) (Dunleavy 4 AST)"", 23.5), (""Middleton 12' Jump Shot (10 PTS)"", 33.3), (""Dunleavy 27' 3PT Jump Bank Shot (12 PTS) (Hinrich 8 AST)"", 66.8), (""MISS Mayo 6' Jump Shot"", 93.4)]"
+SA,20131213,"[(""'MISS Diaw  3PT Jump Shot'"", 20.3), (""Ginobili 25' 3PT Jump Shot (16 PTS) (Duncan 7 AST)"", 22.0)]"
+DEN,20131213,"[(""MISS Hamilton 25' 3PT Jump Shot"", 23.8)]"
+PHX,20131213,[]
+GS,20131213,"[(""MISS Curry 28' 3PT Pullup Jump Shot"", 25.5)]"
+CHA,20131214,"[(""MISS Young 29' 3PT Jump Shot"", 26.9), (""MISS Jefferson 3' Jump Shot"", 21.5), (""MISS Walker 25' 3PT Jump Shot"", 28.9), (""MISS Henderson 15' Fadeaway Jumper"", 37.3), (""'Jefferson REBOUND (Off:2 Def:6)'"", 20.5), (""MISS Jefferson 6' Jump Shot"", 48.9), (""MISS Gordon 26' 3PT Jump Shot"", 43.0)]"
+WSH,20131214,[]
+MIA,20131214,"[(""MISS Irving 24' 3PT Jump Shot"", 21.9), (""MISS Clark 25' 3PT Jump Shot"", 23.4)]"
+NY,20131214,[]
+CHI,20131214,[]
+PHI,20131214,[]
+DAL,20131214,[]
+UTAH,20131214,[]
+SAC,20131215,[]
+MEM,20131215,[]
+DET,20131215,"[(""MISS Lillard 27' 3PT Jump Shot"", 23.8), (""Stuckey 15' Pullup Jump Shot (15 PTS)"", 20.2), (""MISS Batum 26' 3PT Jump Shot"", 47.3), (""MISS Stuckey 6' Jump Shot"", 37.4), (""'Lopez REBOUND (Off:5 Def:7)'"", 23.8), (""MISS Lillard 57' 3PT Jump Shot"", 50.3), (""''"", 50.0)]"
+OKC,20131215,"[(""MISS Davis 25' 3PT Jump Shot"", 43.0)]"
+DEN,20131215,[]
+PHX,20131215,"[(""MISS Curry 18' Jump Shot"", 26.2)]"
+IND,20131216,[]
+ATL,20131216,[]
+BOS,20131216,"[(""MISS Barea 25' 3PT Jump Shot"", 20.8), (""Love 25' 3PT Jump Shot (27 PTS) (Barea 11 AST)"", 21.5), (""MISS Shved 25' 3PT Jump Shot"", 26.4), (""Sullinger 25' 3PT Jump Shot (20 PTS) (Crawford 4 AST)"", 27.9), (""MISS Shved 25' 3PT Jump Shot"", 26.2), (""MISS Green 26' 3PT Jump Shot"", 29.4), (""MISS Barea 25' 3PT Jump Shot"", 53.8)]"
+BKN,20131216,[]
+MIA,20131216,[]
+NY,20131216,"[(""Smith 24' 3PT Jump Shot (18 PTS) (Anthony 3 AST)"", 25.0), (""Beal 25' 3PT Jump Shot (16 PTS)"", 20.7), (""MISS Beal 24' 3PT Jump Shot"", 38.6), (""Beal 26' 3PT Jump Shot (19 PTS)"", 32.2), (""Beal 1' Driving Layup (21 PTS)"", 53.3), (""MISS Anthony 25' 3PT Running Jump Shot"", 86.7)]"
+CHI,20131216,"[(""MISS Deng 2' Layup"", 42.0)]"
+LAC,20131216,[]
+CHA,20131217,[]
+CLE,20131217,"[(""Varejao 1' Layup (5 PTS) (Irving 10 AST)"", 32.7), (""Lillard 30' 3PT Step Back Jump Shot (36 PTS)"", 50.3), (""MISS Irving 33' 3PT Jump Shot"", 48.7)]"
+MEM,20131217,[]
+DEN,20131217,[]
+GS,20131217,[]
+MIA,20131218,"[(""Bosh 24' 3PT Jump Shot (15 PTS) (James 6 AST)"", 28.9), (""MISS George 10' Jump Shot"", 26.3), (""Allen 28' 3PT Jump Shot (5 PTS) (James 7 AST)"", 38.4), (""MISS Andersen 18' Jump Shot"", 23.7), (""MISS George 25' 3PT Jump Shot"", 39.7)]"
+ORL,20131218,"[(""MISS Nelson 24' 3PT Jump Shot"", 21.1), (""MISS Harris 16' Jump Shot"", 25.2), (""MISS Nelson 3' Driving Layup"", 37.8)]"
+TOR,20131218,"[(""MISS Vasquez 28' 3PT Jump Shot"", 22.7), (""MISS Lowry 27' 3PT Jump Shot"", 24.8), (""MISS Johnson 5' Driving Hook Shot"", 23.4), (""Patterson 1' Running Tip Shot (4 PTS)"", 23.4), (""MISS Walker 26' 3PT Jump Shot"", 40.1), (""MISS DeRozan 21' Pullup Jump Shot"", 22.4), (""McRoberts 5' Jump Hook Shot (13 PTS) (Henderson 4 AST)"", 33.7), (""MISS DeRozan 4' Jump Shot"", 35.4), (""Lowry 27' 3PT Jump Shot (17 PTS) (Johnson 4 AST)"", 34.2), (""''"", 50.0)]"
+ATL,20131218,[]
+BOS,20131218,"[(""MISS Bass 16' Jump Shot"", 22.3), (""Sullinger 26' 3PT Jump Shot (18 PTS) (Crawford 6 AST)"", 39.9), (""Jennings 25' 3PT Jump Shot (28 PTS)"", 47.0), (""MISS Jennings 25' 3PT Jump Shot"", 28.7), (""'Sullinger REBOUND (Off:3 Def:5)'"", 20.2), (""MISS Green 7' Jump Shot"", 93.4)]"
+BKN,20131218,[]
+MIL,20131218,"[(""MISS Smith 28' 3PT Jump Shot"", 20.6), (""MISS Smith 25' 3PT Jump Shot"", 21.8), (""Knight 25' 3PT Jump Shot (32 PTS)"", 24.9), (""Smith 25' 3PT Jump Shot (14 PTS) (Udrih 3 AST)"", 30.3), (""MISS Knight 29' 3PT Jump Shot"", 35.7), (""Bargnani 27' 3PT Jump Shot (12 PTS) (Udrih 4 AST)"", 27.9), (""MISS Udrih 10' Jump Shot"", 34.6), (""'Udoh REBOUND (Off:2 Def:5)'"", 23.5), (""MISS Henson 19' Jump Shot"", 43.9), (""MISS Middleton 16' Jump Shot"", 48.0), (""''"", 50.0)]"
+MIN,20131218,[]
+DAL,20131218,[]
+PHX,20131218,"[(""'Ginobili  3PT Jump Shot (18 PTS) (Mills 4 AST)'"", 24.1), (""MISS Dragic 25' 3PT Jump Shot"", 23.9)]"
+HOU,20131218,[]
+LAC,20131218,[]
+OKC,20131219,[]
+GS,20131219,"[(""MISS Thompson 27' 3PT Jump Shot"", 20.2), (""MISS Curry 30' 3PT Pullup Jump Shot"", 23.9), (""MISS Curry 3' Jump Shot"", 22.0), (""MISS Mills 26' 3PT Pullup Jump Shot"", 27.7), (""MISS Thompson 14' Turnaround Jump Shot"", 26.7), (""MISS Lee 2' Tip Shot"", 26.9), (""Diaw 1' Slam Dunk (9 PTS) (Splitter 2 AST)"", 22.8), (""Curry 27' 3PT Pullup Jump Shot (30 PTS) (Iguodala 2 AST)"", 33.3), (""MISS Belinelli 15' Pullup Jump Shot"", 41.2), (""MISS Diaw 2' Layup"", 45.0), (""Splitter 1' Tip Shot (4 PTS)"", 45.0), (""MISS Curry 32' 3PT Jump Shot"", 94.2)]"
+PHI,20131220,"[(""MISS Anderson 24' 3PT Jump Shot"", 21.9), (""Young 18' Fadeaway Jumper (22 PTS) (Hawes 6 AST)"", 20.2), (""MISS Hawes 26' 3PT Jump Shot"", 27.7), (""MISS Teletovic 26' 3PT Jump Shot"", 41.5), (""MISS Anderson 2' Layup"", 33.3), (""'Turner REBOUND (Off:0 Def:9)'"", 22.0), (""MISS Carter-Williams 3' Jump Shot"", 41.2), (""MISS D. Williams 19' Jump Shot"", 43.9), (""''"", 50.0)]"
+ATL,20131220,[]
+CLE,20131220,"[(""MISS Knight 6' Jump Shot"", 20.1), (""MISS Irving 1' Reverse Layup"", 21.8), (""MISS Thompson 1' Layup"", 22.2), (""MISS Jack 20' Jump Shot"", 21.6), (""MISS Jack 4' Jump Shot"", 25.5), (""MISS Irving 1' Layup"", 42.0), (""'Thompson  Tip Shot (10 PTS)'"", 42.6), (""MISS Middleton 18' Jump Shot"", 48.0), (""''"", 50.0)]"
+DET,20131220,"[(""Walker 26' 3PT Jump Shot (30 PTS) (Jefferson 2 AST)"", 20.3)]"
+MIA,20131220,[]
+IND,20131220,[]
+DAL,20131220,"[(""Nowitzki 25' 3PT Jump Shot (22 PTS) (Calderon 6 AST)"", 22.6), (""Salmons 25' 3PT Jump Shot (3 PTS)"", 22.8), (""MISS Lowry 26' 3PT Jump Shot"", 27.8), (""MISS DeRozan 19' Jump Shot"", 20.9), (""'Marion  Running Slam Dunk (10 PTS) (Calderon 7 AST)'"", 26.7), (""MISS Ellis 2' Driving Layup"", 32.6), (""'Calderon REBOUND (Off:1 Def:1)'"", 21.4), (""Marion 7' Floating Jump Shot (12 PTS) (Calderon 8 AST)"", 34.5), (""DeRozan 10' Driving Jump Shot (11 PTS)"", 26.8), (""MISS Nowitzki 13' Turnaround Jump Shot"", 48.0), (""MISS Wright 2' Tip Shot"", 48.0), (""''"", 50.0)]"
+DEN,20131220,"[(""MISS Green 25' 3PT Jump Shot"", 21.8), (""MISS Foye 25' 3PT Jump Shot"", 27.7), (""MISS Foye 19' Jump Shot"", 21.0), (""MISS Foye 28' 3PT Jump Shot"", 38.7)]"
+LAL,20131220,[]
+NY,20131221,[]
+BOS,20131221,"[(""MISS Green 24' 3PT Jump Shot"", 23.6)]"
+CHA,20131221,"[(""Burke 24' 3PT Jump Shot (18 PTS)"", 25.9), (""MISS Williams 26' 3PT Jump Shot"", 26.6), (""MISS Sessions 18' Jump Shot"", 25.1), (""MISS Favors 10' Jump Shot"", 22.3), (""MISS Burke 2' Driving Reverse Layup"", 23.7), (""MISS Walker 3' Driving Layup"", 42.3), (""'Jefferson REBOUND (Off:5 Def:5)'"", 20.7), (""'MISS Jefferson  Putback Layup'"", 42.3), (""'Jefferson REBOUND (Off:6 Def:5)'"", 20.1), (""MISS Jefferson 1' Putback Layup"", 45.2), (""'Burke REBOUND (Off:1 Def:2)'"", 20.1), (""MISS Walker 25' 3PT Jump Shot"", 44.3), (""MISS Henderson 26' 3PT Jump Shot"", 48.7)]"
+ORL,20131221,[]
+DET,20131221,[]
+CHI,20131221,[]
+MIL,20131221,[]
+SA,20131221,[]
+PHX,20131221,[]
+POR,20131221,"[(""MISS Batum 24' 3PT Jump Shot"", 23.9), (""'MISS Matthews  3PT Jump Shot'"", 31.3), (""Lillard 29' 3PT Jump Shot (29 PTS)"", 35.5), (""MISS Evans 5' Jump Shot"", 27.2), (""MISS Evans 6' Jump Shot"", 27.5), (""Matthews 1' Driving Layup (18 PTS) (Lopez 2 AST)"", 23.2), (""MISS Anderson 25' 3PT Jump Shot"", 38.7), (""MISS Evans 25' 3PT Jump Shot"", 48.7)]"
+GS,20131221,[]
+LAC,20131221,[]
+IND,20131222,[]
+OKC,20131222,"[(""'MISS Jones  3PT Jump Shot'"", 20.7), (""Durant 25' 3PT Jump Shot (24 PTS) (Westbrook 5 AST)"", 27.9), (""MISS Jackson 25' 3PT Jump Shot"", 40.3), (""MISS Westbrook 3' Driving Layup"", 26.0)]"
+LAC,20131222,"[(""MISS Paul 25' 3PT Jump Shot"", 26.9), (""'Crawford  Slam Dunk (22 PTS)'"", 32.7), (""MISS Pekovic 11' Jump Shot"", 43.9), (""MISS Pekovic 20' Jump Shot"", 48.0), (""''"", 50.0)]"
+CHA,20131223,"[(""Tolliver 25' 3PT Jump Shot (12 PTS) (Walker 8 AST)"", 20.7), (""MISS Butler 27' 3PT Jump Shot"", 21.3), (""MISS Middleton 26' 3PT Jump Shot"", 20.7), (""Walker 13' Jump Shot (18 PTS)"", 22.6), (""MISS Middleton 26' 3PT Jump Shot"", 39.7), (""Mayo 25' 3PT Jump Shot (14 PTS)"", 44.3), (""''"", 50.0)]"
+CLE,20131223,[]
+ORL,20131223,[]
+BKN,20131223,[]
+MIA,20131223,"[(""MISS Allen 25' 3PT Jump Shot"", 23.1), (""Williams 24' 3PT Jump Shot (7 PTS) (Teague 6 AST)"", 26.8), (""'Allen Free Throw 2 of 3 (18 PTS)'"", 22.0), (""'Allen Free Throw 3 of 3 (19 PTS)'"", 23.3), (""MISS Millsap 1' Layup"", 43.7), (""MISS Millsap 5' Jump Shot"", 48.0), (""''"", 50.0)]"
+HOU,20131223,[]
+MEM,20131223,[]
+SA,20131223,[]
+DEN,20131223,"[(""MISS Chandler 25' 3PT Jump Shot"", 32.4)]"
+PHX,20131223,[]
+SAC,20131223,[]
+BKN,20131225,[]
+NY,20131225,[]
+LAL,20131225,[]
+SA,20131225,[]
+GS,20131225,"[(""MISS Thompson 26' 3PT Pullup Jump Shot"", 22.8), (""Curry 26' 3PT Step Back Jump Shot (13 PTS)"", 28.9), (""Curry 1' Driving Reverse Layup (15 PTS)"", 21.1), (""MISS Curry 18' Running Jump Shot"", 24.3), (""MISS Collison 24' 3PT Jump Shot"", 39.8), (""MISS Paul 9' Jump Shot"", 24.7), (""MISS Paul 2' Driving Layup"", 29.0), (""MISS Paul 7' Jump Shot"", 42.6), (""MISS Crawford 28' 3PT Jump Shot"", 94.2)]"
+CLE,20131226,"[(""MISS Teague 28' 3PT Jump Shot"", 23.1), (""MISS Korver 26' 3PT Jump Shot"", 32.5), (""'Horford  Layup (25 PTS) (Teague 11 AST)'"", 22.8), (""MISS Irving 26' 3PT Jump Shot"", 42.5), (""'Varejao REBOUND (Off:3 Def:9)'"", 20.8), (""MISS Irving 1' Driving Layup"", 33.7), (""'Varejao REBOUND (Off:4 Def:9)'"", 22.4), (""MISS Varejao 2' Tip Shot"", 34.0), (""'Millsap REBOUND (Off:0 Def:7)'"", 23.1), (""MISS Teague 4' Running Jump Shot"", 48.0), (""MISS Varejao 26' 3PT Jump Shot"", 50.2), (""''"", 50.0)]"
+HOU,20131226,[]
+DAL,20131226,[]
+POR,20131226,"[(""MISS Crawford 22' Jump Shot"", 22.7), (""MISS Batum 25' 3PT Jump Shot"", 27.8), (""Paul 18' Pullup Jump Shot (30 PTS)"", 26.5), (""MISS Batum 1' Running Layup"", 28.7), (""'Aldridge  Tip Shot (25 PTS)'"", 28.7), (""Paul 15' Pullup Jump Shot (32 PTS)"", 31.6), (""'MISS Aldridge  Layup'"", 33.7), (""Paul 21' Step Back Jump Shot (34 PTS)"", 20.2), (""Batum 26' 3PT Jump Shot (17 PTS) (Aldridge 4 AST)"", 38.7), (""MISS Paul 17' Jump Shot"", 43.9), (""''"", 50.0)]"
+CHA,20131227,"[(""MISS McRoberts 26' 3PT Jump Shot"", 71.6)]"
+ORL,20131227,[]
+BKN,20131227,[]
+NY,20131227,[]
+MIN,20131227,[]
+NO,20131227,[]
+UTAH,20131227,"[(""Meeks 25' 3PT Jump Shot (13 PTS) (Henry 2 AST)"", 22.6), (""MISS Meeks 4' Jump Shot"", 20.3), (""Hayward 25' 3PT Jump Shot (23 PTS) (Burke 7 AST)"", 31.1), (""MISS Hayward 2' Driving Layup"", 45.0), (""Favors 1' Putback Slam Dunk (18 PTS)"", 45.0), (""MISS Meeks 31' 3PT Jump Shot"", 94.2)]"
+SAC,20131227,"[(""MISS Thomas 26' 3PT Jump Shot"", 21.4), (""Gay 14' Turnaround Jump Shot (21 PTS) (Thomas 10 AST)"", 22.9), (""MISS Thomas 17' Jump Shot"", 34.5), (""'James REBOUND (Off:0 Def:8)'"", 23.5), (""MISS James 25' 3PT Jump Shot"", 50.3), (""''"", 50.0)]"
+GS,20131227,[]
+BOS,20131228,"[(""MISS Waiters 3' Layup"", 31.6)]"
+IND,20131228,[]
+TOR,20131228,[]
+WSH,20131228,[]
+ATL,20131228,"[(""Scott 24' 3PT Jump Shot (15 PTS) (Millsap 2 AST)"", 28.9), (""Jefferson 14' Turnaround Jump Shot (19 PTS)"", 25.2), (""'Millsap  Reverse Slam Dunk (27 PTS) (Teague 7 AST)'"", 22.5), (""Walker 21' Jump Shot (8 PTS) (McRoberts 8 AST)"", 27.7), (""Millsap 2' Layup (29 PTS) (Teague 8 AST)"", 24.4), (""MISS Walker 1' Driving Reverse Layup"", 32.4), (""'Jefferson REBOUND (Off:3 Def:17)'"", 21.2), (""Jefferson 1' Putback Layup (21 PTS)"", 32.4), (""MISS Teague 18' Jump Shot"", 26.3), (""Antic 25' 3PT Running Jump Shot (3 PTS) (Korver 3 AST)"", 40.8), (""MISS Henderson 19' Fadeaway Jumper"", 48.0), (""''"", 50.0)]"
+CHI,20131228,[]
+HOU,20131228,"[(""Harden 26' 3PT Jump Shot (15 PTS) (Parsons 4 AST)"", 23.1)]"
+MEM,20131228,[]
+MIL,20131228,[]
+PHX,20131228,[]
+POR,20131228,"[(""Bosh 24' 3PT Jump Shot (32 PTS) (Wade 6 AST)"", 30.4), (""MISS Haslem 2' Layup"", 20.3), (""MISS Wade 3' Layup"", 20.3), (""Bosh 2' Layup (34 PTS)"", 20.3), (""MISS Bosh 11' Jump Shot"", 22.8), (""'Wade  Driving Dunk (16 PTS)'"", 26.1), (""Bosh 25' 3PT Jump Shot (37 PTS) (Wade 7 AST)"", 94.2), (""MISS Aldridge 4' Jump Shot"", 93.4)]"
+LAC,20131228,[]
+CLE,20131229,"[(""MISS Thompson 25' 3PT Jump Shot"", 32.5), (""MISS Waiters 18' Jump Shot"", 23.9), (""Green 26' 3PT Jump Shot (3 PTS) (Iguodala 9 AST)"", 37.4), (""Irving 26' 3PT Jump Shot (27 PTS)"", 35.6), (""MISS Curry 8' Jump Shot"", 48.0), (""''"", 50.0)]"
+ORL,20131229,[]
+OKC,20131229,[]
+SA,20131229,"[(""'Ginobili  3PT Jump Shot (28 PTS) (Parker 7 AST)'"", 21.1)]"
+LAL,20131229,"[(""MISS Young 26' 3PT Jump Shot"", 24.5), (""MISS Shaw. Williams 26' 3PT Jump Shot"", 33.3)]"
+DET,20131230,"[(""MISS Jennings 27' 3PT Jump Shot"", 20.8), (""MISS Ariza 46' 3PT Jump Shot"", 23.0), (""MISS Jennings 26' 3PT Jump Shot"", 25.8)]"
+MEM,20131230,[]
+MIN,20131230,"[(""MISS Pekovic 3' Layup"", 32.7), (""MISS Love 21' Jump Shot"", 48.0)]"
+NO,20131230,"[(""'Williams  3PT Jump Shot (8 PTS) (Lillard 5 AST)'"", 20.8), (""MISS Batum 28' 3PT Jump Shot"", 39.4), (""Holiday 22' Jump Shot (31 PTS)"", 22.2), (""Lillard 27' 3PT Jump Shot (29 PTS)"", 35.0), (""Evans 14' Fadeaway Jumper (20 PTS)"", 43.9), (""MISS Aldridge 12' Jump Shot"", 48.0)]"
+DEN,20131230,"[(""Lawson 26' 3PT Jump Shot (26 PTS)"", 24.7), (""MISS Chandler 16' Jump Shot"", 20.4), (""Beasley 27' 3PT Jump Shot (9 PTS) (James 10 AST)"", 29.3), (""MISS Lawson 25' 3PT Jump Shot"", 43.0)]"
+UTAH,20131230,"[(""MISS Sessions 3' Layup"", 25.2), (""Walker 2' Layup (18 PTS)"", 25.5), (""Favors 1' Dunk (12 PTS) (Hayward 5 AST)"", 27.9), (""MISS Jefferson 4' Turnaround Jump Shot"", 30.9), (""Burke 2' Driving Layup (21 PTS)"", 23.2), (""MISS Jefferson 25' 3PT Jump Shot"", 35.0)]"
+LAC,20131230,[]
+BOS,20131231,"[(""MISS Crawford 26' 3PT Jump Shot"", 21.4), (""Crawford 19' Jump Shot (8 PTS)"", 22.7), (""MISS Teague 5' Jump Shot"", 23.2), (""MISS Olynyk 25' 3PT Jump Shot"", 38.7), (""MISS Humphries 13' Jump Shot"", 25.7), (""MISS Teague 25' 3PT Jump Shot"", 29.1), (""MISS Crawford 25' 3PT Jump Shot"", 51.6), (""'MISS Mack  Layup'"", 23.7), (""MISS Crawford 25' 3PT Jump Shot"", 69.9), (""MISS Crawford 10' Jump Shot"", 93.4)]"
+IND,20131231,[]
+ORL,20131231,[]
+CHI,20131231,[]
+HOU,20131231,"[(""Thomas 25' 3PT Pullup Jump Shot (16 PTS)"", 25.6), (""MISS Thomas 5' Jump Shot"", 20.5), (""MISS Harden 24' 3PT Pullup Jump Shot"", 28.0), (""MISS McLemore 24' 3PT Jump Shot"", 43.6), (""Cousins 8' Fadeaway Jumper (17 PTS)"", 28.2), (""McLemore 1' Layup (13 PTS) (Cousins 2 AST)"", 23.4)]"
+SA,20131231,[]
+OKC,20131231,"[(""Batum 25' 3PT Jump Shot (15 PTS) (Lillard 11 AST)"", 22.9), (""MISS Durant 25' 3PT Jump Shot"", 37.2), (""'Aldridge REBOUND (Off:2 Def:12)'"", 20.1), (""MISS Ibaka 2' Tip Shot"", 32.7), (""MISS Durant 9' Jump Shot"", 37.8)]"
+LAL,20131231,[]
+WSH,20140101,"[(""MISS Carter 26' 3PT Jump Shot"", 20.9), (""'MISS Calderon  3PT Jump Shot'"", 21.2)]"
+TOR,20140101,[]
+MIN,20140101,[]
+DEN,20140101,[]
+LAC,20140101,[]
+CLE,20140102,"[(""'Waiters  Driving Layup (17 PTS)'"", 48.0), (""'MISS Nelson  3PT Jump Shot'"", 50.3), (""''"", 50.0)]"
+MIA,20140102,[]
+CHI,20140102,[]
+OKC,20140102,"[(""D. Williams 24' 3PT Jump Shot (27 PTS) (Livingston 4 AST)"", 32.4), (""MISS Jones 9' Turnaround Jump Shot"", 25.2), (""Ibaka 2' Layup (10 PTS)"", 35.1), (""Johnson 19' Pullup Jump Shot (9 PTS)"", 48.0)]"
+SA,20140102,"[(""Duncan 2' Layup (9 PTS) (Parker 7 AST)"", 20.6), (""Anthony 1' Driving Layup (25 PTS)"", 22.1), (""MISS Parker 1' Layup"", 27.2), (""Shumpert 26' 3PT Jump Shot (25 PTS) (Smith 3 AST)"", 42.5), (""Belinelli 25' 3PT Jump Shot (32 PTS) (Ginobili 12 AST)"", 32.8), (""'MISS Anthony  3PT Jump Shot'"", 45.0), (""'Shumpert REBOUND (Off:2 Def:4)'"", 22.6), (""Shumpert 1' Tip Shot (27 PTS)"", 34.1), (""MISS Belinelli 25' 3PT Jump Shot"", 52.4)]"
+PHX,20140102,[]
+UTAH,20140102,[]
+POR,20140102,[]
+SAC,20140102,[]
+WSH,20140103,[]
+ATL,20140103,"[(""MISS Thompson 21' Fadeaway Jumper"", 21.5), (""Millsap 3' Jump Shot (12 PTS) (Teague 7 AST)"", 20.1), (""MISS Curry 27' 3PT Jump Shot"", 30.9), (""Iguodala 26' 3PT Jump Shot (7 PTS) (Curry 9 AST)"", 94.2)]"
+BOS,20140103,"[(""'MISS Green  3PT Jump Shot'"", 20.3), (""MISS Crawford 25' 3PT Jump Shot"", 26.2), (""Davis 5' Turnaround Hook Shot (23 PTS)"", 22.1), (""MISS Sullinger 6' Jump Shot"", 24.0), (""'MISS Bradley  3PT Jump Shot'"", 39.2), (""MISS Sullinger 8' Jump Shot"", 26.9), (""MISS Green 24' 3PT Jump Shot"", 44.4), (""'Evans  Driving Layup (16 PTS)'"", 23.2), (""MISS Evans 2' Driving Layup"", 23.5), (""MISS Bradley 2' Layup"", 43.6), (""MISS Bass 3' Tip Shot"", 48.9), (""MISS Sullinger 25' 3PT Jump Shot"", 43.0)]"
+HOU,20140103,"[(""MISS Smith 25' 3PT Jump Shot"", 21.6), (""Harden 26' 3PT Jump Shot (35 PTS)"", 23.5), (""MISS Brooks 4' Driving Layup"", 28.9), (""'MISS Udrih  3PT Jump Shot'"", 44.9), (""'Chandler REBOUND (Off:5 Def:6)'"", 22.6), (""MISS Smith 25' 3PT Jump Shot"", 45.4), (""'Brooks REBOUND (Off:1 Def:1)'"", 23.8), (""MISS Shumpert 18' Jump Shot"", 29.8), (""MISS Udrih 14' Running Jump Shot"", 48.0)]"
+DAL,20140103,"[(""Nowitzki 11' Step Back Jump Shot (24 PTS)"", 21.3), (""MISS Nowitzki 17' Step Back Jump Shot"", 24.8)]"
+DEN,20140103,"[(""MISS Miller 25' 3PT Jump Shot"", 44.3)]"
+LAL,20140103,[]
+IND,20140104,[]
+ORL,20140104,[]
+BKN,20140104,[]
+CHI,20140104,[]
+MIN,20140104,"[(""MISS Rubio 14' Fadeaway Jumper"", 23.0), (""MISS Durant 18' Jump Shot"", 24.5), (""Lamb 1' Running Tip Shot (7 PTS)"", 24.5), (""Love 11' Turnaround Hook Shot (28 PTS)"", 22.5), (""MISS Durant 26' 3PT Jump Shot"", 39.3), (""'MISS Ibaka  3PT Jump Shot'"", 40.2), (""MISS Love 12' Jump Shot"", 32.9), (""'Thunder Rebound'"", 21.6), (""'Love  Driving Layup (30 PTS)'"", 26.1), (""'Durant REBOUND (Off:0 Def:7)'"", 22.0), (""Durant 18' Step Back Jump Shot (46 PTS)"", 42.9), (""'MISS Love Free Throw 1 of 3'"", 37.7), (""'MISS Love Free Throw 2 of 3'"", 33.1)]"
+SA,20140104,[]
+PHX,20140104,[]
+POR,20140104,"[(""MISS Lillard 26' 3PT Jump Shot"", 28.9), (""Matthews 10' Jump Shot (12 PTS) (Aldridge 3 AST)"", 20.5), (""Young 5' Running Bank Hook Shot (28 PTS) (Carter-Williams 4 AST)"", 25.6), (""MISS Carter-Williams 5' Running Hook Shot"", 32.0), (""'Young REBOUND (Off:3 Def:2)'"", 21.0), (""Young 1' Tip Shot (30 PTS)"", 32.0), (""MISS Lillard 3' Driving Layup"", 25.8), (""MISS Lillard 2' Driving Layup"", 48.0)]"
+SAC,20140104,[]
+DET,20140105,[]
+CLE,20140105,"[(""MISS Stephenson 25' 3PT Jump Shot"", 27.7), (""MISS Stephenson 7' Floating Jump Shot"", 21.1), (""Hibbert 5' Hook Shot (13 PTS)"", 21.1), (""MISS Waiters 25' 3PT Jump Shot"", 48.6), (""MISS Waiters 3' Running Layup"", 31.6)]"
+MIA,20140105,"[(""'MISS Ross  3PT Jump Shot'"", 25.1), (""MISS James 17' Fadeaway Jumper"", 23.3), (""MISS Johnson 5' Hook Shot"", 35.4), (""MISS Lowry 26' 3PT Jump Shot"", 38.7)]"
+WSH,20140105,[]
+OKC,20140105,[]
+DAL,20140105,[]
+LAL,20140105,[]
+PHI,20140106,[]
+BKN,20140106,"[(""MISS Millsap 3' Layup"", 22.6)]"
+LAC,20140106,[]
+CHA,20140107,[]
+CLE,20140107,[]
+IND,20140107,[]
+MIA,20140107,[]
+NY,20140107,"[(""MISS Jennings 25' 3PT Jump Shot"", 41.9), (""MISS Drummond 4' Jump Shot"", 24.1), (""MISS Smith 17' Jump Shot"", 47.0)]"
+CHI,20140107,[]
+MEM,20140107,"[(""Johnson 25' 3PT Jump Shot (13 PTS)"", 33.9), (""Ginobili 1' Reverse Layup (7 PTS) (Duncan 4 AST)"", 43.7), (""Conley 2' Driving Layup (25 PTS)"", 48.0), (""''"", 50.0)]"
+MIL,20140107,[]
+DAL,20140107,[]
+DEN,20140107,[]
+UTAH,20140107,[]
+SAC,20140107,[]
+SA,20140108,[]
+TOR,20140108,[]
+ATL,20140108,[]
+BKN,20140108,"[(""MISS Teletovic 25' 3PT Jump Shot"", 23.4), (""MISS Thompson 25' 3PT Jump Shot"", 29.7), (""MISS Blatche 9' Fadeaway Jumper"", 22.0), (""MISS Iguodala 25' 3PT Jump Shot"", 34.8), (""MISS Thompson 25' 3PT Jump Shot"", 42.6)]"
+MIN,20140108,"[(""Green 18' Jump Shot (14 PTS) (Mark Morris 2 AST)"", 64.2), (""MISS Martin 8' Jump Shot"", 93.4)]"
+NO,20140108,[]
+HOU,20140108,[]
+POR,20140108,[]
+LAC,20140108,[]
+NY,20140109,[]
+DEN,20140109,[]
+IND,20140110,[]
+PHI,20140110,[]
+ATL,20140110,"[(""MISS Carroll 25' 3PT Jump Shot"", 22.6), (""MISS Teague 26' 3PT Jump Shot"", 24.1), (""Korver 26' 3PT Jump Shot (16 PTS) (Carroll 2 AST)"", 22.3), (""Carroll 24' 3PT Jump Shot (5 PTS) (Millsap 5 AST)"", 31.1), (""MISS Harden 24' 3PT Jump Shot"", 36.8), (""MISS Carroll 24' 3PT Jump Shot"", 28.7), (""'MISS Harden  Driving Layup'"", 29.5), (""MISS Millsap 18' Jump Shot"", 23.7)]"
+MEM,20140110,"[(""MISS Frye 24' 3PT Jump Shot"", 23.7), (""Conley 24' 3PT Step Back Jump Shot (27 PTS)"", 25.4), (""MISS Marc Morris 24' 3PT Jump Shot"", 24.1)]"
+MIN,20140110,[]
+NO,20140110,[]
+BKN,20140110,"[(""Cole 26' 3PT Jump Shot (16 PTS) (Bosh 1 AST)"", 30.9), (""Pierce 25' 3PT Jump Shot (20 PTS) (Johnson 4 AST)"", 32.2), (""James 11' Running Jump Shot (35 PTS)"", 24.6), (""Johnson 9' Jump Bank Shot (28 PTS)"", 27.2), (""MISS Johnson 15' Jump Shot"", 35.8), (""'Livingston REBOUND (Off:3 Def:7)'"", 24.2), (""MISS Pierce 25' 3PT Step Back Jump Shot"", 49.4), (""''"", 50.0)]"
+MIL,20140110,"[(""MISS Mayo 25' 3PT Jump Shot"", 20.8)]"
+UTAH,20140110,[]
+SAC,20140110,[]
+GS,20140110,"[(""Green 26' 3PT Jump Shot (22 PTS) (Crawford 7 AST)"", 20.5), (""'MISS Curry  3PT Pullup Jump Shot'"", 26.8), (""'MISS Bradley  3PT Jump Shot'"", 36.3), (""Iguodala 4' Fadeaway Jumper (22 PTS)"", 20.4), (""MISS Green 16' Pullup Jump Shot"", 21.7), (""MISS Curry 19' Pullup Jump Shot"", 23.8), (""Green 5' Running Jump Shot (24 PTS)"", 29.0), (""Curry 23' Pullup Jump Shot (19 PTS)"", 43.7), (""MISS Wallace 28' 3PT Jump Shot"", 94.2)]"
+LAC,20140110,[]
+TOR,20140111,[]
+WSH,20140111,"[(""Harden 15' Jump Shot (24 PTS)"", 21.3)]"
+DET,20140111,"[(""'Tucker  3PT Jump Shot (17 PTS) (Barbosa 4 AST)'"", 31.9), (""Smith 26' 3PT Jump Shot (23 PTS) (Bynum 1 AST)"", 44.7), (""MISS Barbosa 24' 3PT Jump Shot"", 34.6), (""'Green Free Throw 1 of 3 (13 PTS)'"", 20.8), (""'Green Free Throw 2 of 3 (14 PTS)'"", 25.2), (""'Green Free Throw 3 of 3 (15 PTS)'"", 28.2), (""Smith 1' Driving Layup (25 PTS)"", 43.9), (""MISS Green 26' 3PT Jump Shot"", 94.2)]"
+PHI,20140111,[]
+CHI,20140111,[]
+OKC,20140111,[]
+DAL,20140111,"[(""MISS Gordon 25' 3PT Jump Shot"", 22.4)]"
+DEN,20140111,[]
+POR,20140111,[]
+SAC,20140112,[]
+MEM,20140112,[]
+SA,20140112,[]
+TOR,20140113,[]
+BOS,20140113,[]
+NY,20140113,"[(""MISS Green 24' 3PT Jump Shot"", 26.2), (""MISS Anthony 15' Jump Shot"", 22.2), (""MISS Dragic 24' 3PT Jump Shot"", 28.1), (""Felton 24' 3PT Jump Shot (19 PTS) (Anthony 4 AST)"", 44.7), (""MISS Green 5' Turnaround Fadeaway Shot"", 25.3), (""'Barbosa Free Throw 1 of 2 (20 PTS)'"", 34.0), (""'Barbosa Free Throw 2 of 2 (21 PTS)'"", 42.5), (""MISS Smith 21' Turnaround Jump Shot"", 48.0), (""''"", 50.0)]"
+CHI,20140113,[]
+NO,20140113,"[(""Belinelli 25' 3PT Jump Shot (12 PTS) (Leonard 3 AST)"", 21.2), (""'Leonard  3PT Jump Shot (13 PTS) (Ginobili 2 AST)'"", 25.9), (""MISS Davis 14' Jump Shot"", 22.9)]"
+DAL,20140113,[]
+UTAH,20140113,[]
+CHA,20140114,[]
+IND,20140114,[]
+MEM,20140114,"[(""'MISS Ibaka  3PT Jump Shot'"", 34.6), (""MISS Jackson 58' 3PT Jump Shot"", 48.7)]"
+LAL,20140114,"[(""MISS Young 26' 3PT Jump Shot"", 35.6)]"
+ORL,20140115,"[(""MISS Nelson 25' 3PT Jump Shot"", 20.3), (""Augustin 26' 3PT Jump Shot (15 PTS)"", 28.5), (""Nelson 21' Step Back Jump Shot (28 PTS)"", 29.0), (""''"", 50.0)]"
+PHI,20140115,"[(""Hawes 26' 3PT Jump Shot (17 PTS) (Carter-Williams 6 AST)"", 26.4), (""Turner 1' Running Reverse Layup (23 PTS) (Hawes 7 AST)"", 20.3), (""MISS Henderson 16' Jump Shot"", 23.6), (""Walker 18' Pullup Jump Shot (26 PTS)"", 27.0), (""Young 24' 3PT Jump Shot (11 PTS) (Carter-Williams 7 AST)"", 49.3), (""MISS Walker 25' 3PT Jump Shot"", 44.3)]"
+WSH,20140115,[]
+BOS,20140115,[]
+MIL,20140115,"[(""MISS Sanders 27' 3PT Jump Shot"", 43.0)]"
+MIN,20140115,"[(""MISS Barea 33' 3PT Jump Shot"", 48.7)]"
+NO,20140115,"[(""Harden 22' Step Back Jump Shot (26 PTS)"", 33.5), (""MISS Smith 17' Jump Shot"", 28.4), (""MISS Miller 26' 3PT Jump Shot"", 43.0)]"
+SA,20140115,[]
+PHX,20140115,[]
+POR,20140115,"[(""Waiters 24' 3PT Jump Shot (18 PTS) (Deng 2 AST)"", 20.9), (""Aldridge 26' 3PT Jump Shot (26 PTS)"", 23.3), (""MISS Deng 24' 3PT Jump Shot"", 28.3)]"
+GS,20140115,"[(""MISS Curry 27' 3PT Pullup Jump Shot"", 25.3), (""Hickson 8' Pullup Jump Shot (11 PTS) (Lawson 11 AST)"", 27.0), (""Hickson 1' Slam Dunk (13 PTS)"", 22.7)]"
+LAC,20140115,"[(""MISS Nowitzki 16' Step Back Jump Shot"", 23.5), (""'Crawford Free Throw 1 of 2 (15 PTS)'"", 25.9), (""'Crawford Free Throw 2 of 2 (16 PTS)'"", 23.4), (""MISS Calderon 26' 3PT Jump Shot"", 78.8)]"
+IND,20140116,[]
+ATL,20140116,[]
+HOU,20140116,[]
+NY,20140117,[]
+ORL,20140117,[]
+PHI,20140117,[]
+TOR,20140117,"[(""MISS Barea 25' 3PT Jump Shot"", 20.4)]"
+WSH,20140117,"[(""MISS Butler 26' 3PT Jump Shot"", 27.2), (""MISS Butler 27' 3PT Jump Shot"", 30.7), (""MISS Butler 25' 3PT Jump Shot"", 48.7)]"
+BOS,20140117,"[(""Marshall 24' 3PT Jump Shot (19 PTS) (W. Johnson 3 AST)"", 38.6), (""MISS Rondo 18' Jump Shot"", 27.7), (""MISS Bradley 8' Floating Jump Shot"", 34.9), (""MISS Rondo 25' 3PT Jump Shot"", 44.3)]"
+DET,20140117,[]
+MEM,20140117,"[(""MISS Thomas 25' 3PT Jump Shot"", 24.9), (""MISS Gay 3' Driving Jump Shot"", 23.2), (""MISS Lee 1' Layup"", 20.3), (""MISS Gay 2' Layup"", 28.0), (""MISS Thompson 3' Layup"", 28.5), (""MISS Gasol 19' Jump Shot"", 22.6), (""'Kings Rebound'"", 20.6)]"
+SA,20140117,[]
+DEN,20140117,[]
+PHX,20140117,[]
+OKC,20140117,[]
+CHA,20140118,"[(""MISS Sessions 25' 3PT Jump Shot"", 20.4), (""MISS James 28' 3PT Jump Shot"", 24.8), (""MISS Allen 25' 3PT Jump Shot"", 29.2), (""'MISS Bosh  3PT Jump Shot'"", 31.7), (""MISS Haslem 1' Dunk"", 23.9), (""MISS Jefferson 16' Jump Shot"", 26.1), (""'MISS Chalmers  3PT Jump Shot'"", 41.7), (""'Jefferson REBOUND (Off:0 Def:13)'"", 20.3), (""MISS Sessions 17' Jump Shot"", 34.3), (""'James REBOUND (Off:2 Def:6)'"", 23.3), (""MISS James 18' Jump Shot"", 43.9), (""''"", 50.0)]"
+IND,20140118,[]
+WSH,20140118,[]
+CHI,20140118,[]
+HOU,20140118,[]
+MIN,20140118,[]
+NO,20140118,[]
+DAL,20140118,[]
+TOR,20140119,"[(""Young 24' 3PT Jump Shot (22 PTS) (Marshall 11 AST)"", 20.2), (""Lowry 25' 3PT Jump Shot (19 PTS) (DeRozan 6 AST)"", 20.5)]"
+ORL,20140119,"[(""Rondo 16' Jump Shot (6 PTS) (Green 3 AST)"", 24.9), (""Afflalo 2' Driving Layup (20 PTS) (Nelson 10 AST)"", 22.5), (""MISS Rondo 18' Pullup Jump Shot"", 29.3), (""Green 1' Layup (22 PTS) (Wallace 1 AST)"", 25.5), (""'Oladipo REBOUND (Off:1 Def:5)'"", 21.6), (""MISS Nelson 25' 3PT Jump Shot"", 46.7), (""'MAGIC Rebound'"", 23.3)]"
+OKC,20140119,[]
+SA,20140119,[]
+PHX,20140119,[]
+CLE,20140120,"[(""MISS Irving 25' 3PT Jump Shot"", 24.3)]"
+DET,20140120,[]
+CHA,20140120,"[(""'MISS Vasquez  3PT Jump Shot'"", 33.5)]"
+WSH,20140120,[]
+NY,20140120,[]
+MEM,20140120,"[(""MISS Conley 26' 3PT Step Back Jump Shot"", 20.2)]"
+ATL,20140120,"[(""MISS Bosh 25' 3PT Jump Shot"", 20.4)]"
+CHI,20140120,"[(""Augustin 26' 3PT Jump Shot (22 PTS)"", 30.8), (""Butler 2' Reverse Layup (13 PTS) (Noah 6 AST)"", 32.8), (""MISS Young 21' Jump Shot"", 26.1), (""'Young Free Throw 1 of 3 (24 PTS)'"", 20.8), (""'Young Free Throw 2 of 3 (25 PTS)'"", 25.2), (""'Young Free Throw 3 of 3 (26 PTS)'"", 28.2), (""MISS Noah 7' Jump Shot"", 43.9), (""''"", 50.0)]"
+HOU,20140120,[]
+GS,20140120,[]
+BKN,20140121,[]
+MIA,20140121,"[(""'MISS Green  3PT Jump Shot'"", 22.0), (""'MISS Johnson  3PT Jump Shot'"", 28.9), (""Allen 16' Fadeaway Jumper (7 PTS)"", 21.6)]"
+NO,20140121,[]
+OKC,20140121,"[(""Durant 24' 3PT Pullup Jump Shot (40 PTS)"", 22.2)]"
+UTAH,20140121,[]
+CHA,20140122,"[(""MISS Griffin 2' Layup"", 24.1), (""Crawford 18' Jump Shot (20 PTS) (Dudley 2 AST)"", 22.7), (""MISS Sessions 19' Jump Shot"", 30.0), (""MISS Crawford 2' Driving Layup"", 32.2), (""'Jefferson REBOUND (Off:3 Def:7)'"", 21.2), (""MISS Sessions 9' Jump Shot"", 34.2), (""'Henderson REBOUND (Off:1 Def:6)'"", 22.8), (""'Henderson  Dunk (13 PTS)'"", 34.2), (""MISS Crawford 1' Layup"", 26.8), (""'MISS Griffin  Layup'"", 27.4)]"
+CLE,20140122,[]
+ORL,20140122,"[(""Oladipo 14' Running Jump Shot (24 PTS)"", 23.6), (""MISS Korver 26' 3PT Jump Shot"", 40.5), (""Nelson 3' Driving Layup (17 PTS)"", 22.7), (""MISS Nelson 11' Running Jump Shot"", 23.6), (""'Antic Free Throw 1 of 2 (7 PTS)'"", 21.9), (""MISS Davis 13' Fadeaway Jumper"", 43.6), (""'Hawks Rebound'"", 20.5), (""MISS Nelson 26' 3PT Step Back Jump Shot"", 48.7)]"
+TOR,20140122,"[(""Johnson 26' 3PT Jump Shot (7 PTS) (Vasquez 7 AST)"", 22.0)]"
+WSH,20140122,"[(""MISS Pressey 10' Jump Shot"", 21.1), (""'Ariza  3PT Jump Shot (14 PTS) (Beal 4 AST)'"", 33.5), (""Green 27' 3PT Fadeaway Jumper (34 PTS)"", 30.1), (""MISS Nene 3' Jump Shot"", 26.8), (""MISS Wall 9' Jump Shot"", 28.7), (""MISS Humphries 10' Jump Shot"", 33.0), (""'Nene REBOUND (Off:3 Def:6)'"", 21.6), (""MISS Nene 16' Jump Shot"", 38.0), (""'Green REBOUND (Off:0 Def:7)'"", 23.3), (""MISS Green 29' 3PT Jump Shot"", 49.4), (""MISS Nene 20' Jump Shot"", 48.0), (""''"", 50.0)]"
+NY,20140122,"[(""MISS Smith 25' 3PT Jump Shot"", 20.1)]"
+HOU,20140122,[]
+MIL,20140122,"[(""'MISS Jennings  3PT Jump Shot'"", 27.1), (""MISS Stuckey 25' 3PT Jump Shot"", 48.7)]"
+PHX,20140122,[]
+SA,20140122,[]
+MIA,20140123,[]
+POR,20140123,"[(""MISS Batum 25' 3PT Jump Shot"", 27.2), (""Mozgov 3' Hook Shot (8 PTS) (Foye 5 AST)"", 23.9), (""Foye 3' Running Layup (14 PTS)"", 27.5), (""'MISS Matthews  3PT Jump Shot'"", 48.0), (""MISS Lawson 19' Pullup Jump Shot"", 34.7), (""MISS Foye 27' 3PT Jump Shot"", 33.3)]"
+ORL,20140124,[]
+PHI,20140124,[]
+ATL,20140124,[]
+BOS,20140124,[]
+BKN,20140124,[]
+CLE,20140124,[]
+DET,20140124,"[(""MISS Davis 25' 3PT Jump Shot"", 26.8), (""Morrow 26' 3PT Jump Shot (19 PTS) (Roberts 2 AST)"", 20.6), (""MISS Roberts 11' Jump Shot"", 24.6), (""Davis 1' Tip Shot (14 PTS)"", 25.0), (""MISS Caldwell-Pope 24' 3PT Jump Shot"", 43.1), (""MISS Withey 4' Jump Shot"", 23.3), (""MISS Jennings 25' 3PT Jump Shot"", 49.4), (""Smith 2' Layup (13 PTS)"", 26.4), (""Gordon 2' Layup (15 PTS)"", 43.9), (""MISS Jennings 50' 3PT Jump Shot"", 94.2)]"
+NY,20140124,[]
+CHI,20140124,[]
+HOU,20140124,"[(""MISS Beverley 24' 3PT Jump Shot"", 22.4), (""'MISS Beverley  3PT Jump Shot'"", 26.0), (""Parsons 28' 3PT Jump Shot (34 PTS) (Beverley 2 AST)"", 20.8), (""MISS Parsons 30' 3PT Jump Shot"", 40.1), (""MISS Beverley 2' Layup"", 26.2), (""MISS Johnson 29' 3PT Jump Shot"", 29.3), (""MISS Parsons 8' Running Jump Shot"", 33.7), (""MISS Howard 1' Tip Shot"", 34.0), (""MISS Beverley 24' 3PT Jump Shot"", 96.0)]"
+PHX,20140124,"[(""Beal 25' 3PT Jump Shot (13 PTS) (Wall 12 AST)"", 30.5)]"
+SAC,20140124,"[(""MISS Thomas 25' 3PT Jump Shot"", 24.2), (""MISS G. Hill 25' 3PT Jump Shot"", 32.6), (""Thomas 25' 3PT Jump Shot (32 PTS)"", 34.5), (""MISS Thomas 6' Jump Shot"", 23.5), (""MISS George 26' 3PT Jump Shot"", 48.4), (""MISS Stephenson 7' Jump Shot"", 26.3), (""MISS Thomas 18' Jump Shot"", 48.0), (""MISS Stephenson 69' 3PT Jump Shot"", 50.3), (""''"", 50.0)]"
+GS,20140124,"[(""Iguodala 24' 3PT Jump Shot (14 PTS) (Curry 15 AST)"", 21.4), (""MISS Pekovic 7' Jump Shot"", 21.8), (""MISS Love 26' 3PT Jump Shot"", 29.4), (""'Iguodala Free Throw 1 of 2 (15 PTS)'"", 21.2), (""Martin 20' Jump Shot (26 PTS) (Love 8 AST)"", 48.9), (""MISS Barnes 22' Jump Shot"", 78.5)]"
+CHA,20140125,[]
+TOR,20140125,[]
+PHI,20140125,[]
+MEM,20140125,[]
+MIL,20140125,[]
+DEN,20140125,[]
+UTAH,20140125,"[(""'MISS Beal  3PT Jump Shot'"", 33.3), (""MISS Ariza 25' 3PT Jump Shot"", 35.0), (""MISS Wall 33' 3PT Jump Shot"", 48.7)]"
+POR,20140125,[]
+MIA,20140126,[]
+NY,20140126,[]
+NO,20140126,[]
+CLE,20140126,[]
+BOS,20140126,[]
+DAL,20140126,[]
+GS,20140126,[]
+SAC,20140126,[]
+PHI,20140127,[]
+BKN,20140127,"[(""'Pierce  3PT Jump Shot (27 PTS) (D. Williams 10 AST)'"", 22.9), (""Pierce 25' 3PT Jump Shot (30 PTS) (D. Williams 11 AST)"", 23.8), (""MISS Garnett 16' Jump Shot"", 22.0), (""'MISS Patterson  3PT Jump Shot'"", 48.3), (""Patterson 12' Jump Shot (15 PTS) (Lowry 7 AST)"", 53.3), (""MISS Pierce 29' 3PT Jump Shot"", 96.0)]"
+CHI,20140127,[]
+MIL,20140127,[]
+OKC,20140127,"[(""MISS Jackson 24' 3PT Jump Shot"", 21.4), (""MISS Millsap 8' Turnaround Jump Shot"", 22.4), (""MISS Durant 17' Jump Shot"", 23.7), (""MISS Mack 7' Jump Shot"", 26.0), (""'MISS Scott  3PT Jump Shot'"", 40.8), (""Durant 16' Step Back Jump Shot (39 PTS)"", 33.9), (""Millsap 1' Driving Layup (23 PTS)"", 26.3), (""Durant 12' Pullup Jump Shot (41 PTS)"", 43.9)]"
+UTAH,20140127,[]
+CLE,20140128,[]
+DET,20140128,[]
+NY,20140128,[]
+HOU,20140128,[]
+POR,20140128,[]
+GS,20140128,"[(""MISS Beal 25' 3PT Pullup Jump Shot"", 34.2), (""Wall 26' 3PT Pullup Jump Shot (15 PTS) (Ariza 2 AST)"", 34.5), (""MISS Iguodala 25' 3PT Pullup Jump Shot"", 30.6), (""MISS Curry 26' 3PT Jump Shot"", 32.6), (""MISS Curry 27' 3PT Pullup Jump Shot"", 44.3)]"
+LAL,20140128,[]
+MIA,20140129,[]
+TOR,20140129,[]
+ATL,20140408,"[(""'MISS Antic  3PT Jump Shot'"", 23.2)]"
+BOS,20140129,"[(""MISS Carter-Williams 24' 3PT Jump Shot"", 32.0), (""MISS Bayless 25' 3PT Jump Shot"", 26.8), (""MISS Sullinger 14' Jump Shot"", 21.4), (""MISS Green 14' Fadeaway Jumper"", 30.2), (""'Sullinger REBOUND (Off:8 Def:9)'"", 20.1), (""MISS Sullinger 1' Layup"", 30.4), (""'Humphries REBOUND (Off:3 Def:6)'"", 20.1), (""'Humphries  Tip Shot (13 PTS)'"", 30.7), (""MISS Humphries 16' Jump Shot"", 21.1), (""'Carter-Williams REBOUND (Off:0 Def:5)'"", 20.1), (""Turner 7' Fadeaway Jumper (16 PTS)"", 93.4)]"
+MIL,20140129,[]
+MIN,20140129,[]
+DAL,20140129,"[(""MISS Calderon 25' 3PT Jump Shot"", 69.1), (""MISS Calderon 24' 3PT Jump Shot"", 94.2)]"
+DEN,20140129,"[(""'Chandler  3PT Jump Shot (8 PTS) (Mozgov 1 AST)'"", 21.7), (""MISS Fournier 25' 3PT Jump Shot"", 32.9), (""MISS Mozgov 6' Jump Shot"", 21.3), (""Foye 23' Jump Shot (33 PTS)"", 22.5), (""MISS Jefferson 6' Turnaround Jump Shot"", 27.5), (""MISS Chandler 3' Reverse Layup"", 30.9), (""Jefferson 10' Fadeaway Jumper (34 PTS)"", 23.6), (""MISS Fournier 6' Jump Shot"", 42.0), (""MISS Mozgov 4' Jump Shot"", 42.0), (""MISS Mozgov 79' 3PT Jump Shot"", 48.7)]"
+SA,20140129,[]
+SAC,20140129,[]
+LAC,20140129,"[(""MISS Ariza 25' 3PT Jump Shot"", 24.3)]"
+IND,20140130,"[(""MISS George 24' 3PT Jump Shot"", 20.2)]"
+NY,20140130,[]
+GS,20140130,[]
+ORL,20140131,[]
+PHI,20140131,[]
+MIN,20140131,"[(""MISS Barea 25' 3PT Jump Shot"", 34.3), (""Randolph 17' Jump Shot (24 PTS)"", 20.2), (""MISS Love 25' 3PT Jump Shot"", 30.4)]"
+BKN,20140131,[]
+DAL,20140131,[]
+DEN,20140131,[]
+LAL,20140131,[]
+UTAH,20140131,[]
+IND,20140201,"[(""MISS Pierce 26' 3PT Jump Shot"", 30.5), (""'MISS Pierce  3PT Jump Shot'"", 39.7)]"
+WSH,20140201,[]
+ATL,20140201,[]
+DET,20140201,[]
+HOU,20140201,[]
+MEM,20140201,[]
+NO,20140201,[]
+SA,20140201,"[(""MISS Thomas 25' 3PT Jump Shot"", 21.0), (""'MISS Mills  3PT Jump Shot'"", 24.2), (""MISS Thomas 28' 3PT Jump Shot"", 26.6), (""Thomas 25' 3PT Jump Shot (24 PTS) (Gay 6 AST)"", 30.0), (""Parker 24' 3PT Jump Shot (17 PTS) (Bonner 1 AST)"", 38.9), (""'Thompson REBOUND (Off:0 Def:7)'"", 20.5), (""MISS Gay 15' Jump Shot"", 78.5)]"
+NY,20140201,[]
+PHX,20140201,[]
+POR,20140201,"[(""MISS DeRozan 14' Jump Shot"", 23.2), (""MISS DeRozan 2' Layup"", 24.3), (""MISS Lowry 22' Jump Shot"", 27.0), (""MISS Aldridge 8' Turnaround Jump Shot"", 22.9), (""'DeRozan Free Throw 1 of 2 (35 PTS)'"", 21.4), (""Lillard 6' Running Bank Shot (21 PTS)"", 43.6)]"
+LAC,20140201,[]
+BOS,20140202,[]
+IND,20140203,[]
+WSH,20140203,[]
+BKN,20140203,[]
+MIA,20140203,[]
+MIL,20140203,"[(""MISS Felton 26' 3PT Jump Shot"", 20.2), (""MISS Knight 27' 3PT Jump Shot"", 22.5), (""Middleton 25' 3PT Jump Shot (17 PTS) (Knight 7 AST)"", 25.2), (""Anthony 25' 3PT Jump Shot (33 PTS) (Felton 5 AST)"", 24.0), (""MISS Middleton 26' 3PT Jump Shot"", 30.7), (""MISS Ilyasova 1' Tip Shot"", 20.6), (""'Pachulia  Hook Shot (12 PTS)'"", 21.4), (""MISS Anthony 11' Turnaround Jump Shot"", 20.1), (""MISS Smith 26' 3PT Jump Shot"", 42.4), (""'Knight  Layup (22 PTS) (Pachulia 2 AST)'"", 23.7), (""Anthony 25' 3PT Jump Shot (36 PTS) (Felton 7 AST)"", 33.3), (""Knight 26' 3PT Jump Shot (25 PTS)"", 47.4), (""MISS Anthony 27' 3PT Jump Shot"", 48.7)]"
+NO,20140203,"[(""MISS Roberts 25' 3PT Jump Shot"", 20.7)]"
+OKC,20140203,[]
+DAL,20140203,[]
+DEN,20140203,"[(""'MISS Redick  3PT Jump Shot'"", 29.0), (""MISS Chandler 24' 3PT Jump Shot"", 34.0), (""Griffin 1' Dunk (35 PTS) (Crawford 5 AST)"", 23.6), (""MISS Crawford 12' Running Jump Shot"", 32.0), (""MISS Lawson 20' Jump Shot"", 22.6), (""'Griffin REBOUND (Off:6 Def:5)'"", 20.5), (""Barnes 25' 3PT Jump Shot (10 PTS) (Redick 4 AST)"", 69.9), (""Foye 30' 3PT Fadeaway Jumper (14 PTS) (Hickson 5 AST)"", 94.2)]"
+UTAH,20140203,[]
+SAC,20140203,[]
+ATL,20140204,[]
+MIN,20140204,[]
+PHX,20140204,[]
+GS,20140204,[]
+CLE,20140205,[]
+PHI,20140205,[]
+WSH,20140205,"[(""Duncan 4' Floating Jump Shot (29 PTS) (Mills 3 AST)"", 22.9), (""MISS Beal 13' Jump Shot"", 28.1), (""MISS Wall 39' 3PT Jump Shot"", 44.6), (""'WIZARDS Rebound'"", 22.0), (""MISS Belinelli 5' Jump Shot"", 42.0), (""MISS Mills 12' Jump Shot"", 48.0), (""MISS Splitter 13' Jump Shot"", 48.0), (""''"", 50.0)]"
+NY,20140205,[]
+HOU,20140205,[]
+MEM,20140205,[]
+NO,20140205,[]
+OKC,20140205,[]
+ORL,20140205,[]
+DEN,20140205,[]
+SAC,20140205,[]
+LAC,20140205,[]
+BKN,20140206,[]
+GS,20140206,[]
+IND,20140207,"[(""Matthews 24' 3PT Step Back Jump Shot (12 PTS)"", 23.3), (""Matthews 13' Jump Shot (17 PTS) (Batum 3 AST)"", 22.6), (""George 24' 3PT Jump Shot (13 PTS)"", 35.0), (""Matthews 17' Turnaround Jump Shot (19 PTS) (Batum 4 AST)"", 26.4), (""MISS George 2' Driving Layup"", 28.3), (""MISS Matthews 25' 3PT Jump Shot"", 29.2), (""MISS Lillard 25' 3PT Jump Shot"", 29.4), (""MISS George 26' 3PT Jump Shot"", 34.2), (""G. Hill 25' 3PT Jump Shot (32 PTS) (Hibbert 2 AST)"", 36.3), (""MISS Batum 21' Jump Shot"", 48.0), (""''"", 50.0)]"
+ORL,20140207,"[(""MISS Jackson 25' 3PT Jump Shot"", 24.1), (""MISS Durant 25' 3PT Pullup Jump Shot"", 28.1), (""MISS Vucevic 2' Driving Layup"", 20.4), (""'Sefolosha  3PT Jump Shot (8 PTS) (Durant 12 AST)'"", 31.5), (""MISS Durant 17' Fadeaway Jumper"", 22.9), (""MISS Afflalo 13' Floating Jump Shot"", 34.2), (""MISS Vucevic 1' Tip Shot"", 34.4), (""Harris 2' Dunk (18 PTS) (Harkless 3 AST)"", 93.4)]"
+PHI,20140207,[]
+WSH,20140207,[]
+BOS,20140207,[]
+DET,20140207,[]
+NY,20140207,[]
+DAL,20140207,[]
+NO,20140207,[]
+LAC,20140207,[]
+CHA,20140208,[]
+ATL,20140208,"[(""MISS Williams 26' 3PT Jump Shot"", 44.3)]"
+DET,20140208,[]
+MIN,20140208,[]
+MIL,20140208,[]
+PHX,20140208,[]
+UTAH,20140208,[]
+OKC,20140209,[]
+LAL,20140209,[]
+BOS,20140209,[]
+BKN,20140209,[]
+CLE,20140209,"[(""MISS Irving 21' Step Back Jump Shot"", 24.5), (""Irving 2' Layup (24 PTS) (Varejao 5 AST)"", 26.5), (""'MISS Irving Free Throw 1 of 1'"", 20.4), (""'Irving REBOUND (Off:1 Def:3)'"", 24.2), (""MISS Waiters 33' 3PT Jump Shot"", 50.2), (""''"", 50.0)]"
+ORL,20140209,"[(""MISS G. Hill 25' 3PT Jump Shot"", 21.3), (""MISS George 26' 3PT Jump Shot"", 48.2), (""MISS George 18' Pullup Jump Shot"", 93.4)]"
+WSH,20140209,[]
+LAC,20140209,[]
+IND,20140210,[]
+TOR,20140210,[]
+DET,20140210,[]
+MIL,20140210,[]
+MIN,20140210,[]
+GS,20140210,[]
+CHA,20140211,[]
+CLE,20140211,[]
+CHI,20140211,[]
+MEM,20140211,"[(""MISS Beal 21' Jump Shot"", 28.4), (""MISS Wall 26' 3PT Jump Shot"", 48.7)]"
+PHX,20140211,[]
+POR,20140211,"[(""MISS Matthews 9' Step Back Jump Shot"", 21.3), (""Lopez 1' Tip Shot (17 PTS)"", 21.3), (""'Lamb  3PT Jump Shot (19 PTS) (Jackson 5 AST)'"", 33.7), (""MISS Aldridge 17' Jump Shot"", 24.8), (""MISS Durant 2' Driving Layup"", 22.2), (""MISS Lillard 25' 3PT Jump Shot"", 47.3), (""MISS Durant 20' Step Back Jump Shot"", 23.5), (""MISS Aldridge 20' Jump Shot"", 76.5), (""'MISS Lillard  3PT Jump Shot'"", 48.7)]"
+LAL,20140211,[]
+IND,20140212,[]
+ORL,20140212,"[(""'MISS Prince  3PT Jump Shot'"", 22.5), (""Nelson 1' Driving Layup (8 PTS) (Vucevic 3 AST)"", 20.1), (""Randolph 19' Jump Shot (18 PTS)"", 22.4), (""MISS Oladipo 3' Driving Layup"", 24.0), (""MISS Randolph 6' Jump Bank Shot"", 21.4), (""MISS Davis 7' Jump Shot"", 30.6), (""MISS Nelson 28' 3PT Jump Shot"", 49.4)]"
+TOR,20140212,[]
+BOS,20140212,[]
+BKN,20140212,[]
+DET,20140212,"[(""'MISS Deng  3PT Jump Shot'"", 24.4), (""Smith 1' Dunk (18 PTS)"", 20.9), (""'MISS Clark  3PT Jump Shot'"", 36.8), (""'Thompson  Dunk (23 PTS)'"", 23.4), (""MISS Smith 4' Jump Shot"", 25.9), (""'MISS Irving  Layup'"", 21.8), (""Thompson 1' Putback Dunk (25 PTS)"", 21.8), (""Irving 26' 3PT Jump Shot (19 PTS)"", 29.2)]"
+NY,20140212,"[(""MISS Fredette 25' 3PT Jump Shot"", 20.2), (""MISS Gay 24' 3PT Jump Shot"", 40.4), (""Gay 16' Pullup Jump Shot (17 PTS)"", 26.3), (""MISS Anthony 16' Jump Shot"", 43.9), (""''"", 50.0)]"
+HOU,20140212,"[(""MISS Beal 26' 3PT Jump Shot"", 22.6), (""MISS Parsons 25' 3PT Jump Shot"", 41.4), (""Harden 2' Driving Layup (35 PTS) (Parsons 6 AST)"", 93.4), (""MISS Seraphin 21' Turnaround Jump Shot"", 93.4)]"
+MIL,20140212,"[(""Wolters 25' 3PT Jump Shot (14 PTS) (Knight 8 AST)"", 20.6), (""MISS Ilyasova 3' Layup"", 27.0)]"
+MIN,20140212,[]
+UTAH,20140212,"[(""Burks 2' Driving Layup (18 PTS)"", 21.1)]"
+GS,20140212,"[(""MISS James 30' 3PT Jump Shot"", 22.4), (""'Chalmers  3PT Pullup Jump Shot (12 PTS) (Allen 3 AST)'"", 22.8), (""MISS Curry 2' Driving Layup"", 22.6), (""Iguodala 18' Turnaround Jump Shot (9 PTS)"", 24.6), (""James 25' 3PT Pullup Jump Shot (32 PTS)"", 43.3), (""Curry 15' Pullup Jump Shot (26 PTS)"", 24.1), (""Curry 6' Running Bank Shot (28 PTS)"", 40.0), (""James 27' 3PT Step Back Jump Shot (36 PTS)"", 94.2)]"
+LAC,20140212,"[(""MISS Batum 26' 3PT Jump Shot"", 26.0), (""Jordan 3' Alley Oop Dunk (14 PTS) (Barnes 3 AST)"", 20.3), (""MISS Batum 27' 3PT Jump Shot"", 33.2), (""MISS Batum 27' 3PT Jump Shot"", 33.3)]"
+CHI,20140213,[]
+LAL,20140213,"[(""MISS Blake 26' 3PT Jump Shot"", 24.6), (""'MISS Shaw. Williams  3PT Jump Shot'"", 27.3), (""MISS Shaw. Williams 24' 3PT Jump Shot"", 31.6)]"
+IND,20140218,[]
+PHI,20140218,[]
+WSH,20140218,[]
+DET,20140218,[]
+MEM,20140218,"[(""Conley 7' Jump Shot (20 PTS)"", 25.1), (""Hardaway Jr. 26' 3PT Jump Shot (23 PTS) (Prigioni 10 AST)"", 42.0), (""Miller 27' 3PT Jump Shot (19 PTS) (Randolph 3 AST)"", 43.4), (""'MISS Smith  3PT Jump Shot'"", 53.8), (""MISS Hardaway Jr. 24' 3PT Step Back Jump Shot"", 34.6), (""MISS Prigioni 24' 3PT Jump Shot"", 38.7)]"
+MIL,20140218,"[(""MISS Nelson 25' 3PT Jump Shot"", 27.0), (""MISS Nelson 26' 3PT Jump Shot"", 36.9), (""Vucevic 14' Jump Shot (19 PTS) (Nelson 13 AST)"", 29.3), (""Wolters 27' 3PT Jump Shot (15 PTS)"", 52.5), (""MISS Afflalo 25' 3PT Jump Shot"", 35.6)]"
+DAL,20140218,[]
+DEN,20140218,"[(""MISS Green 26' 3PT Jump Shot"", 20.8), (""MISS Dragic 25' 3PT Jump Shot"", 21.2), (""MISS Frye 19' Jump Shot"", 32.7), (""Mark Morris 3' Putback Layup (13 PTS)"", 35.1), (""MISS Chandler 14' Fadeaway Jumper"", 48.0), (""''"", 50.0)]"
+LAC,20140218,[]
+CHA,20140219,[]
+CLE,20140219,[]
+TOR,20140219,"[(""MISS DeRozan 17' Jump Shot"", 23.2), (""MISS DeRozan 13' Jump Shot"", 76.5), (""MISS DeRozan 43' 3PT Running Bank Shot"", 94.2)]"
+ATL,20140219,[]
+MIN,20140219,[]
+NO,20140219,"[(""MISS Babbitt 27' 3PT Jump Shot"", 20.6), (""MISS Gordon 27' 3PT Jump Shot"", 35.9), (""Anthony 12' Fadeaway Jumper (40 PTS)"", 20.8)]"
+PHX,20140219,[]
+UTAH,20140219,[]
+POR,20140219,"[(""Belinelli 25' 3PT Jump Shot (18 PTS)"", 34.0)]"
+SAC,20140219,[]
+LAL,20140219,[]
+MIL,20140220,[]
+OKC,20140220,[]
+GS,20140220,"[(""MISS Parsons 26' 3PT Pullup Jump Shot"", 24.1), (""Parsons 26' 3PT Pullup Jump Shot (19 PTS) (Howard 3 AST)"", 30.4), (""Lee 5' Running Jump Shot (26 PTS) (Thompson 1 AST)"", 21.6), (""MISS Parsons 25' 3PT Pullup Jump Shot"", 36.2), (""MISS O'Neal 15' Pullup Jump Shot"", 20.5), (""Harden 3' Driving Layup (32 PTS) (Lin 3 AST)"", 25.6), (""Lee 7' Floating Jump Shot (28 PTS) (Iguodala 5 AST)"", 23.3), (""MISS Lin 18' Jump Shot"", 32.2), (""'Rockets Rebound'"", 21.2), (""Harden 23' Step Back Jump Shot (35 PTS)"", 41.2), (""Curry 4' Floating Jump Shot (18 PTS) (Iguodala 6 AST)"", 37.8), (""MISS Harden 27' 3PT Jump Shot"", 49.4), (""''"", 50.0)]"
+CHA,20140221,"[(""'MISS Evans  3PT Jump Shot'"", 20.3), (""Roberts 27' 3PT Jump Shot (18 PTS)"", 28.9), (""MISS Jefferson 1' Layup"", 24.5), (""MISS Evans 2' Layup"", 27.7), (""MISS Gordon 14' Jump Shot"", 35.4), (""MISS Gordon 3' Jump Shot"", 26.6), (""'Gordon Free Throw 1 of 2 (14 PTS)'"", 20.2), (""'MISS Gordon Free Throw 2 of 2'"", 20.6), (""'McRoberts REBOUND (Off:1 Def:3)'"", 20.1), (""MISS Roberts 39' 3PT Jump Shot"", 44.3)]"
+ORL,20140221,"[(""Felton 24' 3PT Jump Shot (11 PTS) (Smith 4 AST)"", 21.6), (""Hardaway Jr. 25' 3PT Jump Shot (15 PTS) (Anthony 4 AST)"", 22.6), (""Afflalo 15' Step Back Jump Shot (27 PTS)"", 24.6), (""MISS Vucevic 9' Running Jump Shot"", 48.0), (""''"", 50.0), (""'winProb swing: 14.6%'"", 92.4)]"
+PHI,20140221,[]
+TOR,20140221,[]
+DET,20140221,"[(""MISS Smith 26' 3PT Jump Shot"", 28.2), (""Singler 24' 3PT Jump Shot (15 PTS) (Smith 4 AST)"", 31.7), (""MISS Scott 24' 3PT Jump Shot"", 29.1)]"
+CHI,20140221,[]
+MEM,20140221,[]
+PHX,20140221,[]
+POR,20140221,[]
+LAL,20140221,[]
+CHA,20140222,"[(""MISS Walker 2' Layup"", 21.6), (""Conley 18' Jump Shot (16 PTS)"", 29.3), (""MISS Conley 16' Jump Shot"", 34.2), (""MISS Conley 30' 3PT Jump Shot"", 37.8), (""MISS Conley 26' 3PT Jump Shot"", 44.3)]"
+WSH,20140222,"[(""MISS Davis 19' Jump Shot"", 21.9), (""MISS Ariza 6' Jump Shot"", 24.0), (""MISS Roberts 14' Jump Shot"", 23.2), (""Wall 1' Driving Finger Roll Layup (10 PTS)"", 34.9), (""'Davis Free Throw 1 of 2 (25 PTS)'"", 29.1), (""'Davis Free Throw 2 of 2 (26 PTS)'"", 26.9), (""Nene 1' Driving Slam Dunk (30 PTS) (Wall 12 AST)"", 93.4), (""MISS Roberts 78' 3PT Jump Shot"", 96.0)]"
+ATL,20140222,[]
+DET,20140222,[]
+MIL,20140222,[]
+UTAH,20140222,[]
+SAC,20140222,[]
+GS,20140222,"[(""MISS Pierce 26' 3PT Pullup Jump Shot"", 21.0), (""MISS D. Williams 26' 3PT Jump Shot"", 25.5), (""MISS Johnson 25' 3PT Jump Shot"", 32.5), (""MISS Johnson 11' Jump Shot"", 22.7)]"
+OKC,20140223,"[(""Westbrook 25' 3PT Pullup Jump Shot (13 PTS)"", 20.3), (""MISS Paul 25' 3PT Jump Shot"", 23.4), (""Durant 25' 3PT Jump Shot (40 PTS) (Westbrook 6 AST)"", 25.4), (""Crawford 24' 3PT Jump Shot (34 PTS) (Paul 12 AST)"", 27.7)]"
+MIA,20140223,[]
+CLE,20140223,[]
+TOR,20140223,[]
+DEN,20140223,[]
+PHX,20140223,"[(""MISS Green 26' 3PT Jump Shot"", 34.6), (""Tucker 1' Layup (9 PTS)"", 23.8), (""MISS Beverley 7' Jump Shot"", 22.9), (""Harden 3' Layup (23 PTS)"", 23.1), (""Mark Morris 1' Driving Layup (21 PTS)"", 29.5), (""Beverley 24' 3PT Jump Shot (18 PTS) (Harden 7 AST)"", 46.3), (""MISS Green 11' Jump Shot"", 36.2), (""MISS Dragic 25' 3PT Jump Shot"", 48.7)]"
+LAL,20140223,[]
+POR,20140223,[]
+PHI,20140224,[]
+DET,20140224,"[(""MISS Jennings 27' 3PT Jump Shot"", 22.9)]"
+NY,20140224,"[(""MISS Hardaway Jr. 24' 3PT Jump Shot"", 24.7), (""Anthony 26' 3PT Jump Shot (44 PTS) (Felton 7 AST)"", 31.9), (""MISS Carter 24' 3PT Jump Shot"", 43.3), (""'Smith REBOUND (Off:1 Def:3)'"", 21.2), (""MISS Smith 22' Jump Shot"", 37.4), (""'KNICKS Rebound'"", 23.3), (""Nowitzki 19' Jump Shot (15 PTS)"", 48.0)]"
+NO,20140224,[]
+UTAH,20140224,[]
+CLE,20140225,"[(""MISS Deng 25' 3PT Jump Shot"", 23.3), (""Ross 26' 3PT Jump Shot (19 PTS) (DeRozan 6 AST)"", 23.5), (""MISS Lowry 25' 3PT Jump Shot"", 26.8), (""MISS Irving 6' Floating Jump Shot"", 22.3)]"
+IND,20140225,[]
+WSH,20140225,[]
+ATL,20140225,"[(""MISS Augustin 25' 3PT Jump Shot"", 20.8), (""Carroll 1' Running Layup (10 PTS) (Teague 7 AST)"", 22.1), (""Dunleavy 2' Driving Layup (22 PTS)"", 23.6), (""Carroll 26' 3PT Jump Shot (13 PTS)"", 41.5), (""MISS Scott 25' 3PT Jump Shot"", 51.9)]"
+DEN,20140225,[]
+PHX,20140225,"[(""MISS Frye 25' 3PT Jump Shot"", 26.9)]"
+SAC,20140225,[]
+PHI,20140226,[]
+BOS,20140226,[]
+CHI,20140226,[]
+DAL,20140226,[]
+MEM,20140226,[]
+OKC,20140226,"[(""MISS Durant 24' 3PT Jump Shot"", 21.5), (""Irving 25' 3PT Jump Shot (28 PTS) (Jack 4 AST)"", 20.4)]"
+SA,20140226,[]
+UTAH,20140226,[]
+POR,20140226,[]
+LAC,20140226,[]
+IND,20140227,[]
+TOR,20140227,"[(""'Patterson  3PT Jump Shot (5 PTS) (Vasquez 6 AST)'"", 27.9), (""Gortat 2' Running Layup (20 PTS) (Wall 4 AST)"", 24.9), (""Vasquez 12' Driving Jump Shot (19 PTS)"", 23.0), (""MISS Beal 24' 3PT Jump Shot"", 42.9), (""'Lowry REBOUND (Off:1 Def:4)'"", 21.0), (""Vasquez 1' Driving Layup (21 PTS) (Lowry 10 AST)"", 32.8), (""'MISS Harrington  3PT Jump Shot'"", 49.4), (""MISS Beal 18' Pullup Jump Shot"", 33.9), (""Gortat 3' Layup (22 PTS)"", 35.1), (""MISS Lowry 7' Driving Hook Shot"", 48.0), (""''"", 50.0)]"
+MIA,20140227,[]
+DEN,20140227,[]
+CLE,20140228,[]
+OKC,20140228,[]
+NY,20140228,[]
+DAL,20140228,[]
+SA,20140228,"[(""MISS Neal 24' 3PT Jump Shot"", 23.2), (""MISS Mills 25' 3PT Jump Shot"", 29.9), (""Duncan 15' Jump Shot (15 PTS) (Diaw 7 AST)"", 22.4)]"
+LAL,20140228,[]
+PHX,20140228,[]
+MIA,20140301,[]
+PHI,20140301,[]
+HOU,20140301,[]
+BOS,20140301,"[(""MISS Rondo 25' 3PT Jump Shot"", 20.7)]"
+MIL,20140301,[]
+MEM,20140301,[]
+POR,20140301,[]
+SAC,20140301,[]
+LAC,20140301,[]
+CHI,20140302,[]
+TOR,20140302,"[(""MISS Curry 25' 3PT Step Back Jump Shot"", 24.1), (""MISS Thompson 25' 3PT Jump Shot"", 24.6)]"
+IND,20140302,"[(""MISS Hayward 26' 3PT Jump Shot"", 48.7)]"
+ORL,20140302,[]
+OKC,20140302,[]
+SA,20140302,[]
+PHX,20140302,[]
+WSH,20140303,[]
+BKN,20140303,[]
+DET,20140303,[]
+MIA,20140303,[]
+MIL,20140303,[]
+DEN,20140303,[]
+POR,20140303,"[(""'MISS Matthews  3PT Jump Shot'"", 32.3), (""Matthews 13' Fadeaway Jumper (7 PTS) (Lillard 5 AST)"", 22.3), (""MISS Brooks 20' Jump Shot"", 28.5), (""'MISS Matthews  3PT Jump Shot'"", 27.2), (""'Bazemore REBOUND (Off:0 Def:7)'"", 20.1), (""W. Johnson 1' Alley Oop Dunk (14 PTS) (Bazemore 2 AST)"", 53.3), (""MISS Lillard 25' 3PT Jump Shot"", 96.0)]"
+SAC,20140303,[]
+CLE,20140304,[]
+IND,20140304,"[(""MISS Iguodala 6' Jump Shot"", 21.2), (""Lee 1' Putback Layup (11 PTS)"", 21.2), (""MISS O'Neal 3' Reverse Layup"", 29.3), (""MISS George 26' 3PT Step Back Jump Shot"", 45.0), (""'Curry REBOUND (Off:1 Def:7)'"", 23.1), (""Thompson 12' Turnaround Fadeaway (25 PTS) (Green 3 AST)"", 48.0), (""MISS George 29' 3PT Jump Shot"", 94.2)]"
+HOU,20140304,"[(""MISS James 28' 3PT Step Back Jump Shot"", 48.7)]"
+OKC,20140304,[]
+PHX,20140304,[]
+LAL,20140304,"[(""'MISS Bazemore  3PT Jump Shot'"", 21.4)]"
+CHA,20140305,[]
+ORL,20140305,[]
+WSH,20140305,[]
+BOS,20140305,[]
+BKN,20140305,[]
+DET,20140305,[]
+MIL,20140305,[]
+MIN,20140305,[]
+DEN,20140305,[]
+POR,20140305,[]
+SA,20140306,[]
+PHX,20140306,"[(""MISS Mark Morris 25' 3PT Jump Shot"", 21.0), (""MISS Green 24' 3PT Jump Shot"", 21.2), (""MISS Green 26' 3PT Jump Shot"", 22.2), (""MISS Westbrook 24' 3PT Jump Shot"", 30.0), (""Dragic 1' Driving Reverse Layup (20 PTS)"", 20.5), (""MISS Butler 24' 3PT Jump Shot"", 32.3), (""MISS Westbrook 20' Pullup Jump Shot"", 20.9)]"
+LAL,20140306,[]
+CHI,20140307,"[(""MISS Augustin 25' 3PT Jump Shot"", 20.4)]"
+CHA,20140307,[]
+TOR,20140307,[]
+BOS,20140307,[]
+NY,20140307,[]
+MIN,20140307,[]
+NO,20140307,[]
+DAL,20140307,"[(""MISS Aldridge 16' Turnaround Fadeaway Shot"", 23.8), (""MISS Dalembert 1' Layup"", 25.6), (""MISS Aldridge 3' Jump Shot"", 27.7), (""MISS Ellis 2' Layup"", 28.7), (""MISS Aldridge 3' Jump Shot"", 32.4), (""'Harris REBOUND (Off:0 Def:3)'"", 21.2), (""Harris 7' Jump Bank Shot (11 PTS)"", 34.0)]"
+DEN,20140307,[]
+HOU,20140307,[]
+GS,20140307,[]
+CLE,20140308,[]
+PHI,20140308,"[(""'Burks  3PT Jump Shot (19 PTS) (Burke 8 AST)'"", 26.3), (""MISS Young 25' 3PT Jump Shot"", 24.8)]"
+MEM,20140308,[]
+MIL,20140308,[]
+SA,20140308,[]
+LAC,20140308,"[(""MISS Griffin 22' Jump Shot"", 25.6), (""MISS Teague 3' Driving Layup"", 27.0), (""Paul 3' Driving Layup (19 PTS)"", 28.1), (""MISS Millsap 7' Jump Shot"", 24.8), (""'MISS Teague Free Throw 1 of 2'"", 34.0)]"
+CHI,20140309,"[(""Bosh 26' 3PT Jump Shot (15 PTS) (James 8 AST)"", 23.3), (""MISS Wade 24' 3PT Jump Shot"", 32.0), (""James 3' Layup (15 PTS)"", 22.3), (""Hinrich 3' Layup (11 PTS) (Noah 6 AST)"", 26.3), (""MISS James 3' Layup"", 48.0), (""''"", 50.0)]"
+LAL,20140309,"[(""MISS Westbrook 26' 3PT Jump Shot"", 33.0)]"
+NO,20140309,"[(""MISS Davis 8' Jump Bank Shot"", 31.6), (""Morrow 15' Pullup Jump Shot (11 PTS)"", 48.0), (""MISS Brooks 68' 3PT Jump Shot"", 50.3), (""''"", 50.0)]"
+BOS,20140309,[]
+BKN,20140309,[]
+HOU,20140309,"[(""Lin 25' 3PT Jump Shot (19 PTS) (Harden 5 AST)"", 35.7), (""Lillard 2' Driving Reverse Layup (18 PTS)"", 25.4), (""MISS Harden 2' Layup"", 28.9), (""MISS Matthews 24' 3PT Jump Shot"", 29.4), (""Harden 24' 3PT Jump Shot (38 PTS) (Lin 1 AST)"", 36.3), (""MISS Beverley 26' 3PT Running Jump Shot"", 50.2), (""''"", 50.0)]"
+MIN,20140309,[]
+DAL,20140309,[]
+GS,20140309,[]
+CHA,20140310,[]
+BKN,20140310,"[(""MISS Ross 24' 3PT Jump Shot"", 21.4), (""MISS Johnson 24' 3PT Jump Shot"", 24.1), (""MISS DeRozan 24' 3PT Jump Shot"", 33.8), (""Pierce 25' 3PT Jump Shot (14 PTS) (D. Williams 5 AST)"", 36.2), (""MISS D. Williams 2' Driving Layup"", 23.3), (""MISS Lowry 28' 3PT Jump Shot"", 35.0)]"
+MIA,20140310,[]
+NY,20140310,[]
+MIL,20140310,[]
+UTAH,20140310,"[(""'Burke  3PT Jump Shot (15 PTS) (Favors 1 AST)'"", 21.2), (""Carroll 24' 3PT Jump Shot (11 PTS) (Antic 3 AST)"", 24.9), (""MISS Williams 26' 3PT Jump Shot"", 23.5), (""MISS Williams 24' 3PT Jump Shot"", 26.3)]"
+LAC,20140310,[]
+IND,20140311,[]
+DET,20140311,[]
+CHI,20140311,[]
+MEM,20140311,[]
+MIN,20140311,[]
+OKC,20140311,[]
+GS,20140311,[]
+MIA,20140312,"[(""MISS Allen 25' 3PT Jump Shot"", 30.3), (""Pierce 1' Driving Layup (29 PTS)"", 22.2), (""MISS Bosh 25' 3PT Jump Shot"", 34.7), (""MISS Wade 14' Turnaround Jump Shot"", 23.4)]"
+ORL,20140312,[]
+PHI,20140312,[]
+TOR,20140312,[]
+WSH,20140312,[]
+BOS,20140312,[]
+NO,20140312,"[(""Allen 2' Driving Layup (13 PTS)"", 21.8), (""'MISS Rivers  3PT Jump Shot'"", 38.6), (""MISS Gasol 3' Layup"", 32.0), (""'Davis REBOUND (Off:2 Def:8)'"", 21.1), (""MISS Morrow 26' 3PT Jump Shot"", 45.8), (""'Allen REBOUND (Off:1 Def:3)'"", 24.3), (""Conley 7' Floating Jump Shot (16 PTS)"", 43.9), (""MISS Rivers 65' 3PT Jump Shot"", 94.2)]"
+UTAH,20140312,"[(""MISS Burks 24' 3PT Jump Shot"", 20.5)]"
+SA,20140312,[]
+PHX,20140312,[]
+LAC,20140312,[]
+CHI,20140313,[]
+ATL,20140313,"[(""MISS Korver 25' 3PT Jump Shot"", 27.9), (""Korver 26' 3PT Jump Shot (11 PTS) (Brand 2 AST)"", 28.4)]"
+OKC,20140313,[]
+CHA,20140314,[]
+ORL,20140314,"[(""MISS Wall 27' 3PT Jump Shot"", 23.5), (""Wall 27' 3PT Jump Shot (17 PTS) (Ariza 5 AST)"", 35.0), (""MISS Oladipo 28' 3PT Jump Shot"", 50.2), (""''"", 50.0)]"
+PHI,20140314,[]
+TOR,20140314,[]
+BOS,20140314,"[(""MISS Green 25' 3PT Jump Shot"", 29.5), (""'MISS Mark Morris  Layup'"", 22.2), (""MISS Rondo 21' Jump Shot"", 24.4), (""MISS Bledsoe 21' Jump Shot"", 27.8), (""Len 1' Tip Shot (5 PTS)"", 28.0), (""MISS Green 24' 3PT Jump Shot"", 32.7)]"
+MIA,20140314,[]
+NO,20140314,[]
+SA,20140314,[]
+UTAH,20140314,[]
+GS,20140314,[]
+NY,20140315,[]
+WSH,20140315,"[(""MISS Ariza 26' 3PT Jump Shot"", 22.7), (""Gooden 26' 3PT Jump Shot (21 PTS)"", 26.0)]"
+ATL,20140315,"[(""Teague 24' 3PT Jump Shot (12 PTS)"", 20.9), (""'MISS Chandler  3PT Jump Shot'"", 22.3), (""MISS Brooks 25' 3PT Jump Shot"", 28.8), (""Teague 20' Jump Shot (14 PTS)"", 21.7), (""MISS Fournier 25' 3PT Jump Shot"", 33.6), (""MISS Lawson 9' Driving Jump Shot"", 21.8), (""Faried 4' Layup (24 PTS) (Lawson 11 AST)"", 22.8), (""Antic 20' Jump Shot (16 PTS)"", 31.3), (""MISS Chandler 25' 3PT Jump Shot"", 51.9)]"
+DET,20140315,"[(""MISS G. Hill 25' 3PT Jump Shot"", 20.6), (""MISS George 24' 3PT Jump Shot"", 27.2), (""Stephenson 27' 3PT Jump Shot (11 PTS) (George 5 AST)"", 27.5), (""Smith 1' Driving Layup (21 PTS)"", 23.9), (""MISS Monroe 4' Jump Shot"", 28.5), (""Hibbert 12' Jump Shot (12 PTS) (George 6 AST)"", 32.6), (""Smith 2' Layup (23 PTS) (Jennings 11 AST)"", 26.3), (""MISS George 16' Jump Shot"", 45.0), (""MISS Jennings 55' 3PT Jump Shot"", 50.2), (""''"", 50.0)]"
+PHI,20140315,[]
+CHI,20140315,[]
+MIL,20140316,[]
+TOR,20140316,[]
+MIA,20140316,"[(""MISS Lin 25' 3PT Jump Shot"", 23.7), (""'Allen  3PT Jump Shot (24 PTS)'"", 22.2), (""MISS Beverley 28' 3PT Jump Shot"", 20.1)]"
+NO,20140316,"[(""Davis 19' Jump Shot (38 PTS) (Gordon 8 AST)"", 22.6), (""MISS Rivers 2' Layup"", 23.4), (""'Green Free Throw 1 of 3 (32 PTS)'"", 20.8), (""'Green Free Throw 2 of 3 (33 PTS)'"", 25.2), (""'Green Free Throw 3 of 3 (34 PTS)'"", 28.2), (""Davis 17' Turnaround Jump Shot (40 PTS) (Evans 4 AST)"", 43.9), (""Humphries 20' Turnaround Jump Shot (16 PTS) (Rondo 13 AST)"", 48.0), (""''"", 50.0)]"
+MIN,20140316,"[(""MISS Williams 25' 3PT Jump Shot"", 24.1), (""MISS Acy 14' Jump Shot"", 23.7), (""MISS Martin 1' Layup"", 26.1), (""Love 25' 3PT Jump Shot (26 PTS) (Brewer 2 AST)"", 41.3), (""MISS Gay 24' 3PT Jump Shot"", 33.3), (""MISS Thomas 26' 3PT Jump Shot"", 33.3)]"
+OKC,20140316,[]
+SA,20140316,[]
+POR,20140316,"[(""Batum 25' 3PT Jump Shot (22 PTS) (Lopez 4 AST)"", 20.1), (""Williams 25' 3PT Jump Shot (12 PTS) (Matthews 3 AST)"", 23.0), (""'MISS Matthews  3PT Jump Shot'"", 26.2), (""MISS Batum 25' 3PT Jump Shot"", 28.8), (""'MISS Matthews  3PT Jump Shot'"", 32.8), (""MISS Curry 15' Pullup Jump Shot"", 24.2), (""'MISS Thompson  3PT Jump Shot'"", 36.0), (""MISS Lillard 2' Driving Layup"", 26.8), (""Thompson 25' 3PT Jump Shot (24 PTS) (Curry 5 AST)"", 39.5), (""'Lillard Free Throw 1 of 2 (25 PTS)'"", 22.3), (""Thompson 24' 3PT Jump Shot (27 PTS) (Barnes 3 AST)"", 61.7), (""MISS Lillard 2' Layup"", 33.9), (""'Batum Free Throw 1 of 2 (23 PTS)'"", 24.3), (""'MISS Batum Free Throw 2 of 2'"", 26.8), (""MISS Batum 27' 3PT Jump Shot"", 96.0)]"
+LAC,20140316,[]
+CHA,20140317,[]
+IND,20140317,"[(""MISS Carter-Williams 24' 3PT Jump Shot"", 24.9)]"
+BKN,20140317,[]
+CHI,20140317,[]
+HOU,20140317,[]
+DAL,20140317,[]
+DEN,20140317,[]
+CLE,20140318,"[(""Bosh 26' 3PT Jump Shot (18 PTS) (Chalmers 9 AST)"", 22.5)]"
+ATL,20140318,"[(""MISS Carroll 25' 3PT Jump Shot"", 20.1), (""Korver 25' 3PT Jump Shot (13 PTS) (Millsap 8 AST)"", 38.8), (""Lowry 2' Driving Layup (18 PTS)"", 31.6), (""MISS Millsap 17' Jump Shot"", 48.0), (""''"", 50.0)]"
+POR,20140318,"[(""Lillard 25' 3PT Jump Shot (8 PTS) (Lopez 2 AST)"", 26.4), (""MISS Pachulia 5' Running Jump Shot"", 24.0), (""Ilyasova 1' Layup (12 PTS)"", 24.0), (""'Sessions Free Throw 2 of 2 (22 PTS)'"", 20.4), (""MISS Lillard 1' Driving Layup"", 40.0), (""'Lopez REBOUND (Off:7 Def:6)'"", 20.8), (""'MISS Lopez  Tip Shot'"", 41.1), (""'Sessions REBOUND (Off:0 Def:5)'"", 20.5), (""Lillard 2' Driving Layup (10 PTS)"", 36.4), (""MISS Sessions 26' 3PT Jump Shot"", 50.3), (""''"", 50.0)]"
+SAC,20140318,"[(""Gay 10' Running Hook Shot (18 PTS)"", 35.1), (""MISS Beal 21' Jump Shot"", 43.9), (""''"", 50.0)]"
+GS,20140318,[]
+PHI,20140319,[]
+BOS,20140319,"[(""'MISS Bosh  3PT Jump Shot'"", 21.1), (""Green 25' 3PT Jump Shot (13 PTS) (Sullinger 3 AST)"", 26.6), (""MISS Chalmers 25' 3PT Jump Shot"", 32.4)]"
+BKN,20140319,"[(""MISS Walker 26' 3PT Jump Shot"", 31.4)]"
+MEM,20140319,[]
+NO,20140319,"[(""MISS Gordon 24' 3PT Jump Shot"", 22.9), (""Vasquez 6' Floating Jump Shot (10 PTS)"", 21.0)]"
+NY,20140319,[]
+DAL,20140319,"[(""Ellis 25' 3PT Jump Shot (16 PTS)"", 22.7), (""MISS Martin 24' 3PT Jump Shot"", 31.2), (""MISS Nowitzki 25' 3PT Jump Shot"", 32.4), (""Ellis 27' 3PT Jump Shot (19 PTS)"", 37.5), (""MISS Rubio 25' 3PT Jump Shot"", 38.2), (""MISS Nowitzki 25' 3PT Jump Shot"", 43.8), (""'Martin REBOUND (Off:1 Def:1)'"", 21.5), (""MISS Martin 22' Jump Shot"", 38.0), (""'Brewer REBOUND (Off:1 Def:1)'"", 21.9), (""'MISS Hummel  3PT Jump Shot'"", 47.4), (""MISS Harris 46' 3PT Jump Shot"", 50.2), (""''"", 50.0)]"
+DEN,20140319,[]
+PHX,20140319,[]
+LAL,20140319,[]
+CLE,20140320,[]
+HOU,20140320,[]
+POR,20140320,[]
+GS,20140320,[]
+IND,20140321,[]
+PHI,20140321,"[(""MISS Carter-Williams 25' 3PT Jump Shot"", 48.7)]"
+TOR,20140321,"[(""Vasquez 27' 3PT Jump Shot (17 PTS) (Johnson 4 AST)"", 31.9), (""MISS Valanciunas 15' Jump Shot"", 24.4), (""MISS Durant 8' Pullup Jump Shot"", 26.8), (""Durant 26' 3PT Jump Shot (39 PTS) (Butler 2 AST)"", 38.7), (""MISS Lowry 5' Driving Jump Shot"", 26.5), (""Johnson 2' Layup (21 PTS)"", 26.6), (""''"", 50.0)]"
+ATL,20140321,[]
+BKN,20140321,[]
+MIA,20140321,"[(""MISS Allen 25' 3PT Jump Shot"", 20.1), (""MISS Allen 24' 3PT Jump Shot"", 32.2), (""Wade 4' Jump Shot (12 PTS)"", 20.2), (""MISS Miller 25' 3PT Jump Shot"", 41.9)]"
+DAL,20140321,[]
+PHX,20140321,"[(""Bledsoe 25' 3PT Jump Shot (18 PTS) (Mark Morris 3 AST)"", 22.7)]"
+SAC,20140321,[]
+LAL,20140321,[]
+CHA,20140322,[]
+CLE,20140322,[]
+CHI,20140322,[]
+MEM,20140322,[]
+NO,20140322,[]
+UTAH,20140322,"[(""Burke 25' 3PT Jump Shot (14 PTS) (Favors 3 AST)"", 24.9), (""Hayward 16' Step Back Jump Shot (12 PTS)"", 20.5), (""MISS Vucevic 5' Jump Shot"", 22.1), (""'Harkless  Dunk (15 PTS)'"", 22.6), (""MISS Jefferson 24' 3PT Jump Shot"", 40.2), (""Oladipo 18' Jump Shot (17 PTS)"", 33.3), (""'Burke  3PT Jump Shot (17 PTS) (Hayward 6 AST)'"", 81.3), (""MISS Afflalo 26' 3PT Jump Shot"", 96.0)]"
+GS,20140322,[]
+LAC,20140322,[]
+TOR,20140323,"[(""Millsap 26' 3PT Jump Shot (17 PTS) (Teague 5 AST)"", 21.0), (""MISS Ross 24' 3PT Jump Shot"", 26.2), (""MISS Millsap 24' 3PT Jump Shot"", 27.2), (""MISS Teague 25' 3PT Jump Shot"", 30.1)]"
+MIN,20140323,"[(""MISS Marc Morris 25' 3PT Jump Shot"", 20.3), (""MISS Bledsoe 25' 3PT Jump Shot"", 31.7), (""MISS Green 28' 3PT Jump Shot"", 32.4), (""Tucker 6' Jump Shot (17 PTS) (Dragic 4 AST)"", 22.6), (""Bledsoe 2' Driving Layup (18 PTS) (Dragic 5 AST)"", 29.3), (""MISS Love 24' 3PT Jump Shot"", 45.8)]"
+DEN,20140323,[]
+SAC,20140323,[]
+DAL,20140323,"[(""MISS Pierce 24' 3PT Jump Shot"", 26.2), (""Johnson 1' Driving Layup (16 PTS)"", 30.7), (""MISS Ellis 26' 3PT Jump Shot"", 50.2), (""''"", 50.0)]"
+NY,20140323,"[(""'MISS Hardaway Jr.  3PT Jump Shot'"", 21.0), (""Waiters 24' 3PT Jump Shot (22 PTS) (Varejao 1 AST)"", 21.3)]"
+LAL,20140323,[]
+CHA,20140324,[]
+ATL,20140324,[]
+MIA,20140324,"[(""James 1' Driving Layup (32 PTS)"", 37.4), (""MISS Lillard 1' Driving Layup"", 42.0)]"
+CHI,20140324,[]
+MEM,20140324,[]
+NO,20140324,"[(""MISS Johnson 25' 3PT Jump Shot"", 20.3), (""MISS Morrow 2' Layup"", 20.6), (""Morrow 1' Putback Layup (2 PTS)"", 20.8), (""Morrow 25' 3PT Jump Shot (5 PTS) (Evans 5 AST)"", 34.4), (""MISS Johnson 27' 3PT Jump Shot"", 30.2), (""Pierce 25' 3PT Jump Shot (20 PTS) (Johnson 4 AST)"", 33.4), (""MISS Morrow 19' Jump Shot"", 48.0), (""''"", 50.0)]"
+OKC,20140324,[]
+SA,20140324,[]
+UTAH,20140324,[]
+LAC,20140324,[]
+CLE,20140325,"[(""MISS DeRozan 24' 3PT Jump Shot"", 20.2), (""MISS Novak 25' 3PT Jump Shot"", 21.1)]"
+ORL,20140325,[]
+DAL,20140325,"[(""MISS Ibaka 18' Jump Shot"", 20.5), (""MISS Ellis 26' 3PT Jump Shot"", 27.7), (""Nowitzki 16' Fadeaway Jumper (25 PTS)"", 20.6), (""Fisher 25' 3PT Jump Shot (13 PTS) (Westbrook 8 AST)"", 31.0), (""Durant 25' 3PT Jump Shot (37 PTS)"", 42.5), (""MISS Nowitzki 25' 3PT Jump Shot"", 33.2), (""Calderon 24' 3PT Jump Shot (19 PTS) (Wright 2 AST)"", 33.3), (""MISS Westbrook 19' Jump Shot"", 45.0), (""MISS Nowitzki 35' 3PT Turnaround Jump Shot"", 50.2), (""''"", 50.0)]"
+LAL,20140325,[]
+CHA,20140326,"[(""MISS Teletovic 26' 3PT Jump Shot"", 21.7), (""D. Williams 1' Driving Layup (27 PTS) (Livingston 5 AST)"", 23.1), (""Walker 17' Fadeaway Jumper (18 PTS)"", 32.0), (""D. Williams 21' Jump Shot (29 PTS) (Livingston 6 AST)"", 26.1), (""''"", 50.0)]"
+WSH,20140326,[]
+BOS,20140326,[]
+DET,20140326,"[(""MISS Smith 18' Jump Shot"", 23.7), (""Waiters 19' Jump Shot (18 PTS) (Deng 4 AST)"", 93.4)]"
+MIN,20140326,[]
+NO,20140326,"[(""'MISS Crawford  3PT Jump Shot'"", 31.0), (""'MISS Griffin Free Throw 1 of 1'"", 21.4), (""MISS Crawford 27' 3PT Jump Shot"", 94.2)]"
+IND,20140326,"[(""Turner 2' Driving Layup (8 PTS)"", 23.5), (""MISS James 28' 3PT Jump Shot"", 40.1), (""West 27' 3PT Jump Shot (13 PTS) (Turner 1 AST)"", 29.2), (""MISS Bosh 22' Jump Shot"", 93.4)]"
+SA,20140326,[]
+SAC,20140326,[]
+UTAH,20140326,"[(""'Miller  3PT Jump Shot (8 PTS) (Gasol 3 AST)'"", 21.9), (""MISS Conley 25' 3PT Jump Shot"", 25.7), (""Randolph 19' Jump Shot (20 PTS) (Gasol 4 AST)"", 20.4)]"
+ATL,20140327,[]
+HOU,20140327,[]
+MIL,20140327,"[(""MISS Young 26' 3PT Jump Shot"", 21.0), (""MISS Young 27' 3PT Jump Shot"", 48.7)]"
+DAL,20140327,"[(""MISS Barnes 24' 3PT Jump Shot"", 24.5), (""MISS Paul 25' 3PT Jump Shot"", 29.6), (""Griffin 4' Driving Bank Shot (16 PTS) (Paul 9 AST)"", 21.8), (""MISS Ellis 23' Jump Shot"", 26.6), (""MISS Paul 2' Driving Layup"", 28.0), (""'Griffin  Driving Finger Roll Layup (18 PTS)'"", 32.6), (""MISS Ellis 18' Jump Shot"", 27.0)]"
+ORL,20140328,"[(""MISS McRoberts 27' 3PT Jump Bank Shot"", 35.2), (""Henderson 1' Putback Layup (12 PTS)"", 20.6), (""McRoberts 2' Driving Layup (24 PTS)"", 29.1), (""MISS Vucevic 5' Running Jump Shot"", 32.3), (""Walker 7' Fadeaway Jumper (20 PTS)"", 22.1), (""Afflalo 27' 3PT Jump Shot (13 PTS)"", 37.0), (""MISS Walker 17' Jump Shot"", 48.0), (""''"", 50.0)]"
+TOR,20140328,"[(""Bayless 24' 3PT Jump Shot (20 PTS) (Rondo 8 AST)"", 21.0), (""MISS Lowry 26' 3PT Jump Shot"", 22.1), (""MISS Green 16' Fadeaway Jumper"", 28.5), (""MISS DeRozan 2' Driving Layup"", 29.5), (""DeRozan 10' Fadeaway Jumper (30 PTS)"", 32.6), (""Rondo 2' Driving Layup (11 PTS)"", 26.0), (""MISS Lowry 2' Layup"", 40.3), (""'Johnson REBOUND (Off:2 Def:6)'"", 21.0), (""Johnson 2' Putback Layup (8 PTS)"", 40.3), (""MISS Sullinger 25' 3PT Running Bank Shot"", 94.2)]"
+WSH,20140328,[]
+BKN,20140328,[]
+DET,20140328,[]
+CHI,20140328,[]
+MIN,20140328,[]
+NO,20140328,"[(""'MISS Williams  3PT Jump Shot'"", 21.3), (""MISS Jefferson 27' 3PT Jump Shot"", 20.8)]"
+OKC,20140328,[]
+DEN,20140328,[]
+PHX,20140328,[]
+GS,20140328,"[(""MISS Allen 26' 3PT Jump Shot"", 33.5), (""MISS Allen 16' Jump Shot"", 23.2), (""Curry 26' 3PT Step Back Jump Shot (31 PTS)"", 35.3), (""MISS Conley 25' 3PT Pullup Jump Shot"", 30.9)]"
+PHI,20140329,[]
+HOU,20140329,[]
+WSH,20140329,"[(""MISS Teague 4' Jump Shot"", 29.0), (""MISS Teague 1' Layup"", 31.6)]"
+DAL,20140329,"[(""MISS Nowitzki 24' 3PT Jump Shot"", 24.4), (""'MISS Ellis  3PT Jump Shot'"", 25.9), (""MISS Outlaw 26' 3PT Pullup Jump Shot"", 48.7)]"
+MIL,20140329,[]
+SA,20140329,[]
+OKC,20140330,[]
+CLE,20140330,[]
+BKN,20140330,[]
+ORL,20140330,[]
+BOS,20140330,"[(""'Green  3PT Turnaround Jump Shot (16 PTS)'"", 25.0), (""MISS Bass 18' Jump Shot"", 23.0), (""Augustin 26' 3PT Jump Shot (27 PTS)"", 35.5), (""MISS Green 25' 3PT Jump Shot"", 32.1)]"
+GS,20140330,"[(""'Curry  3PT Pullup Jump Shot (32 PTS) (Iguodala 5 AST)'"", 23.0), (""MISS Curry 27' 3PT Pullup Jump Shot"", 29.4), (""MISS Curry 17' Fadeaway Jumper"", 20.1), (""Thompson 26' 3PT Pullup Jump Shot (15 PTS) (Iguodala 6 AST)"", 21.1), (""MISS Curry 26' 3PT Pullup Jump Shot"", 33.2)]"
+POR,20140330,[]
+LAL,20140330,[]
+CHA,20140331,[]
+IND,20140331,[]
+ATL,20140331,"[(""MISS Williams 25' 3PT Jump Shot"", 22.2), (""'Young  3PT Jump Shot (23 PTS) (Anderson 4 AST)'"", 23.5)]"
+DET,20140331,"[(""MISS Knight 27' 3PT Jump Shot"", 20.2)]"
+MIA,20140331,[]
+CHI,20140331,[]
+MIN,20140331,[]
+NO,20140331,[]
+DEN,20140331,"[(""MISS Foye 31' 3PT Jump Shot"", 25.3), (""'MISS Lawson  3PT Jump Shot'"", 28.2), (""MISS Mozgov 26' 3PT Jump Shot"", 39.7)]"
+UTAH,20140331,[]
+BKN,20140401,[]
+DAL,20140401,"[(""Iguodala 25' 3PT Jump Shot (12 PTS) (Curry 9 AST)"", 21.1), (""Ellis 19' Jump Shot (27 PTS)"", 20.7), (""Thompson 25' 3PT Jump Shot (24 PTS) (Speights 1 AST)"", 31.4), (""MISS Ellis 18' Jump Shot"", 31.1), (""'Speights REBOUND (Off:2 Def:7)'"", 20.6), (""'MISS Speights  Dunk'"", 33.5), (""'Iguodala REBOUND (Off:2 Def:6)'"", 22.0), (""MISS Curry 23' Jump Shot"", 42.9), (""MISS Green 2' Tip Shot"", 43.9), (""''"", 50.0)]"
+LAL,20140401,[]
+IND,20140402,"[(""George 35' 3PT Jump Shot (24 PTS) (Hibbert 3 AST)"", 21.1), (""MISS Jennings 26' 3PT Jump Shot"", 25.8)]"
+NY,20140402,[]
+ORL,20140402,[]
+PHI,20140402,[]
+TOR,20140402,[]
+WSH,20140402,[]
+ATL,20140402,[]
+MIA,20140402,[]
+MIN,20140402,[]
+SA,20140402,[]
+DEN,20140402,[]
+PHX,20140402,"[(""'MISS Frye  3PT Jump Shot'"", 22.3), (""MISS Frye 25' 3PT Jump Shot"", 28.9), (""Paul 32' 3PT Jump Shot (20 PTS) (Barnes 1 AST)"", 34.5), (""MISS Bledsoe 5' Jump Shot"", 29.8)]"
+SAC,20140402,[]
+OKC,20140403,[]
+LAC,20140403,"[(""'MISS Redick  3PT Jump Shot'"", 41.2), (""MISS Collison 24' 3PT Jump Shot"", 48.2)]"
+MEM,20140404,[]
+CHA,20140404,[]
+TOR,20140404,"[(""MISS Patterson 27' 3PT Jump Shot"", 20.4)]"
+ATL,20140404,[]
+BOS,20140404,[]
+BKN,20140404,[]
+MIA,20140404,"[(""'MISS Chalmers Free Throw 1 of 2'"", 34.2), (""'Chalmers Free Throw 2 of 2 (19 PTS)'"", 33.4), (""MISS Love 25' 3PT Jump Shot"", 49.4), (""''"", 50.0)]"
+NY,20140404,"[(""MISS Ariza 25' 3PT Jump Shot"", 21.7), (""MISS Beal 24' 3PT Jump Shot"", 26.2), (""Felton 24' 3PT Jump Shot (9 PTS) (Anthony 5 AST)"", 46.6), (""Beal 20' Jump Shot (28 PTS)"", 35.9), (""MISS Smith 25' 3PT Jump Shot"", 86.5)]"
+CHI,20140404,[]
+UTAH,20140404,"[(""MISS Miller 24' 3PT Jump Shot"", 36.3)]"
+HOU,20140404,"[(""'Durant  3PT Jump Shot (25 PTS) (Butler 2 AST)'"", 21.0), (""MISS Harden 8' Running Jump Shot"", 23.4), (""MISS Durant 26' 3PT Pullup Jump Shot"", 33.2)]"
+POR,20140404,[]
+GS,20140404,[]
+LAL,20140404,[]
+ORL,20140405,"[(""Oladipo 24' 3PT Jump Shot (14 PTS) (Nelson 11 AST)"", 20.7), (""MISS Hummel 24' 3PT Jump Shot"", 21.3)]"
+WSH,20140405,[]
+CLE,20140405,"[(""MISS Douglas-Roberts 25' 3PT Jump Shot"", 23.2), (""MISS Varejao 1' Layup"", 20.6), (""MISS Henderson 9' Jump Shot"", 26.8), (""Zeller 1' Layup (12 PTS)"", 26.9), (""Irving 1' Driving Layup (35 PTS)"", 28.9), (""Walker 27' 3PT Jump Shot (17 PTS)"", 51.6), (""Irving 17' Jump Shot (37 PTS)"", 26.2), (""MISS Walker 23' Jump Shot"", 48.0), (""''"", 50.0)]"
+DET,20140405,"[(""Bayless 26' 3PT Jump Shot (25 PTS)"", 20.7), (""MISS Pressey 2' Driving Layup"", 23.2), (""MISS Sullinger 4' Jump Shot"", 26.1), (""MISS Sullinger 1' Layup"", 26.8), (""MISS Jennings 26' 3PT Jump Shot"", 38.8), (""MISS Green 6' Jump Shot"", 24.1), (""MISS Bayless 26' 3PT Jump Shot"", 64.6)]"
+PHI,20140405,"[(""Teletovic 25' 3PT Jump Shot (3 PTS) (D. Williams 9 AST)"", 29.2)]"
+MIL,20140405,[]
+MIA,20140406,[]
+LAC,20140406,[]
+SAC,20140406,"[(""MISS Cousins 16' Jump Shot"", 48.0)]"
+IND,20140406,[]
+HOU,20140406,"[(""Harden 25' 3PT Pullup Jump Shot (30 PTS) (Parsons 3 AST)"", 37.0), (""MISS Foye 11' Fadeaway Jumper"", 48.0), (""''"", 50.0), (""'winProb swing: 0.3%'"", 99.9)]"
+SA,20140406,[]
+GS,20140406,[]
+PHX,20140406,"[(""'MISS Tucker  3PT Jump Shot'"", 20.2), (""MISS Westbrook 28' 3PT Pullup Jump Shot"", 33.7), (""MISS Westbrook 4' Running Jump Shot"", 23.9), (""MISS Ibaka 15' Jump Shot"", 25.4)]"
+POR,20140406,[]
+MIA,20140408,"[(""'Thornton  3PT Jump Shot (16 PTS) (D. Williams 5 AST)'"", 35.6), (""MISS Bosh 24' 3PT Jump Shot"", 35.8), (""Plumlee 2' Layup (8 PTS) (D. Williams 6 AST)"", 23.2), (""MISS Johnson 26' 3PT Jump Shot"", 26.2), (""MISS James 1' Dunk"", 76.5)]"
+UTAH,20140408,[]
+SAC,20140408,[]
+LAL,20140408,[]
+CLE,20140409,[]
+ORL,20140409,"[(""MISS Johnson 24' 3PT Step Back Jump Shot"", 20.2), (""MISS D. Williams 26' 3PT Jump Shot"", 23.3), (""MISS Johnson 26' 3PT Jump Shot"", 35.6)]"
+TOR,20140409,[]
+WSH,20140409,"[(""Walker 26' 3PT Step Back Jump Shot (12 PTS)"", 23.8), (""'MISS Beal  3PT Jump Shot'"", 30.9), (""Jefferson 15' Jump Shot (16 PTS) (Neal 4 AST)"", 22.7), (""Wall 18' Pullup Jump Shot (13 PTS)"", 23.5), (""MISS Walker 22' Jump Shot"", 33.0), (""'Wall REBOUND (Off:1 Def:10)'"", 21.6), (""Gortat 3' Jump Shot (27 PTS) (Wall 11 AST)"", 38.7), (""Jefferson 2' Reverse Layup (18 PTS) (Walker 12 AST)"", 37.8), (""''"", 50.0)]"
+ATL,20140409,"[(""MISS Teague 24' 3PT Jump Shot"", 20.3), (""Korver 25' 3PT Jump Shot (14 PTS) (Teague 6 AST)"", 20.9), (""Sullinger 24' 3PT Jump Shot (15 PTS) (Rondo 12 AST)"", 23.2), (""'Korver  3PT Jump Shot (17 PTS) (Teague 7 AST)'"", 22.9)]"
+MEM,20140409,[]
+MIL,20140409,"[(""MISS Knight 25' 3PT Jump Shot"", 34.3), (""MISS Sessions 5' Jump Shot"", 22.6), (""Knight 18' Jump Shot (25 PTS)"", 25.2), (""Turner 1' Layup (23 PTS)"", 32.8), (""MISS Knight 2' Layup"", 26.2), (""'Middleton Free Throw 1 of 3 (14 PTS)'"", 20.8), (""'Middleton Free Throw 2 of 3 (15 PTS)'"", 25.1), (""'Middleton Free Throw 3 of 3 (16 PTS)'"", 28.2), (""Copeland 2' Layup (18 PTS)"", 43.9)]"
+MIN,20140409,[]
+NO,20140409,"[(""Evans 24' 3PT Jump Shot (9 PTS) (Rivers 8 AST)"", 21.4), (""Bledsoe 18' Jump Shot (16 PTS)"", 20.5), (""Mark Morris 20' Jump Shot (10 PTS) (Bledsoe 6 AST)"", 20.9), (""MISS Evans 25' 3PT Jump Shot"", 33.3)]"
+DEN,20140409,[]
+POR,20140409,"[(""MISS Aldridge 3' Jump Shot"", 22.3), (""Cousins 17' Jump Shot (28 PTS) (McCallum 8 AST)"", 23.4), (""MISS Aldridge 1' Layup"", 22.4), (""MISS Lillard 27' 3PT Jump Shot"", 43.9), (""MISS Cousins 1' Layup"", 33.0), (""'Matthews REBOUND (Off:0 Def:4)'"", 21.6), (""Wright 24' 3PT Jump Shot (3 PTS) (Lillard 10 AST)"", 62.5), (""MISS McCallum 21' Jump Shot"", 93.4)]"
+LAC,20140409,[]
+DAL,20140410,[]
+GS,20140410,"[(""MISS Curry 26' 3PT Step Back Jump Shot"", 22.4), (""MISS Foye 26' 3PT Pullup Jump Shot"", 27.0), (""'Foye  3PT Pullup Jump Shot (20 PTS) (Brooks 7 AST)'"", 32.2), (""MISS Thompson 15' Step Back Jump Shot"", 20.2), (""MISS Fournier 26' 3PT Jump Shot"", 28.2), (""'Mozgov REBOUND (Off:9 Def:20)'"", 20.7), (""MISS Mozgov 2' Tip Shot"", 22.1), (""'Curry REBOUND (Off:0 Def:7)'"", 20.8), (""Curry 6' Floating Jump Shot (24 PTS)"", 55.8), (""Faried 8' Turnaround Hook Shot (18 PTS) (Foye 7 AST)"", 78.5), (""MISS Curry 30' 3PT Jump Shot"", 96.0)]"
+ORL,20140411,[]
+TOR,20140411,[]
+BOS,20140411,"[(""MISS McRoberts 27' 3PT Jump Shot"", 20.8), (""Sullinger 25' 3PT Jump Shot (18 PTS) (Green 3 AST)"", 23.5), (""MISS Douglas-Roberts 25' 3PT Jump Shot"", 24.2), (""MISS Sullinger 28' 3PT Jump Shot"", 21.8), (""MISS Pargo 25' 3PT Jump Shot"", 48.7)]"
+BKN,20140411,"[(""MISS Thornton 25' 3PT Jump Shot"", 34.0), (""MISS Pierce 26' 3PT Jump Shot"", 31.6)]"
+MIA,20140411,[]
+CHI,20140411,[]
+MEM,20140411,[]
+MIN,20140411,"[(""MISS Rubio 20' Jump Shot"", 22.0), (""MISS Lin 12' Step Back Jump Shot"", 21.4), (""Harden 26' 3PT Jump Shot (33 PTS) (Parsons 7 AST)"", 33.3), (""Dieng 6' Jump Shot (12 PTS) (Rubio 10 AST)"", 42.9)]"
+OKC,20140411,[]
+MIL,20140411,"[(""'MISS Hawes  3PT Jump Shot'"", 21.8), (""MISS Jack 25' 3PT Jump Shot"", 22.2), (""MISS Irving 28' 3PT Jump Shot"", 21.3)]"
+SA,20140411,"[(""Leonard 25' 3PT Jump Shot (18 PTS) (Diaw 5 AST)"", 20.4), (""MISS Green 26' 3PT Jump Shot"", 20.5), (""MISS Green 26' 3PT Jump Shot"", 21.0)]"
+UTAH,20140411,[]
+LAL,20140411,[]
+LAC,20140412,[]
+CHA,20140412,[]
+WSH,20140412,[]
+ATL,20140412,[]
+CLE,20140412,[]
+HOU,20140412,"[(""'Beverley  3PT Jump Shot (20 PTS) (Harden 13 AST)'"", 21.1), (""MISS Rivers 25' 3PT Jump Shot"", 28.4), (""Harden 2' Driving Layup (31 PTS)"", 27.0), (""MISS Babbitt 9' Jump Bank Shot"", 29.9), (""Lin 1' Driving Finger Roll Layup (16 PTS)"", 23.6)]"
+DAL,20140412,"[(""MISS Carter 24' 3PT Jump Shot"", 29.3), (""MISS Green 10' Jump Shot"", 34.9), (""MISS Bledsoe 2' Driving Layup"", 28.4), (""MISS Mark Morris 25' 3PT Jump Shot"", 43.0)]"
+DEN,20140412,[]
+NY,20140413,[]
+DET,20140413,[]
+BKN,20140413,[]
+IND,20140413,"[(""MISS Durant 26' 3PT Jump Shot"", 22.1), (""Westbrook 27' 3PT Jump Shot (21 PTS)"", 22.7), (""MISS Stephenson 26' 3PT Jump Shot"", 28.4), (""George 27' 3PT Jump Shot (20 PTS) (Stephenson 10 AST)"", 29.7), (""MISS Westbrook 27' 3PT Jump Shot"", 30.2), (""MISS Durant 28' 3PT Jump Shot"", 31.6)]"
+POR,20140413,"[(""Thompson 27' 3PT Jump Shot (14 PTS) (Curry 3 AST)"", 20.4), (""Curry 1' Driving Layup (44 PTS)"", 21.6), (""MISS Curry 25' 3PT Jump Shot"", 40.1), (""Thompson 23' Jump Shot (16 PTS) (Lee 2 AST)"", 31.3), (""MISS Aldridge 5' Hook Shot"", 35.4), (""'Aldridge Free Throw 1 of 2 (23 PTS)'"", 21.6), (""MISS Curry 4' Running Jump Shot"", 41.1), (""'Matthews REBOUND (Off:0 Def:2)'"", 20.7), (""Green 25' 3PT Step Back Jump Shot (3 PTS) (Curry 4 AST)"", 40.8), (""'MISS Matthews  3PT Jump Shot'"", 49.4), (""''"", 50.0)]"
+SAC,20140413,[]
+LAL,20140413,[]
+PHI,20140414,[]
+TOR,20140414,[]
+WSH,20140414,[]
+ATL,20140414,"[(""MISS Scott 26' 3PT Jump Shot"", 21.4), (""Mack 16' Jump Shot (13 PTS)"", 21.7), (""Jefferson 5' Jump Shot (27 PTS) (Neal 2 AST)"", 27.0), (""MISS Scott 16' Jump Shot"", 24.6), (""Williams 16' Jump Shot (13 PTS)"", 42.0), (""Douglas-Roberts 6' Jump Shot (5 PTS) (McRoberts 4 AST)"", 48.0)]"
+CHI,20140414,[]
+HOU,20140414,"[(""'MISS Beverley  3PT Jump Shot'"", 21.9)]"
+NO,20140414,[]
+UTAH,20140414,[]
+PHX,20140414,"[(""MISS Bledsoe 26' 3PT Jump Shot"", 21.6), (""Miller 25' 3PT Jump Shot (21 PTS) (Conley 7 AST)"", 22.9), (""Conley 20' Jump Shot (10 PTS)"", 21.3), (""MISS Bledsoe 3' Jump Shot"", 23.7), (""Plumlee 2' Tip Shot (12 PTS)"", 23.9), (""Conley 26' 3PT Jump Shot (13 PTS) (Randolph 2 AST)"", 41.1)]"
+GS,20140414,[]
+BKN,20140415,[]
+LAC,20140415,[]
+MEM,20140416,"[(""'Miller  3PT Jump Shot (3 PTS) (Lee 3 AST)'"", 22.2), (""MISS Harris 25' 3PT Jump Shot"", 24.4), (""MISS Lee 24' 3PT Jump Shot"", 26.3), (""Randolph 3' Layup (25 PTS)"", 20.4), (""Ellis 26' 3PT Jump Shot (11 PTS) (Harris 10 AST)"", 33.9), (""MISS Randolph 18' Jump Shot"", 43.7), (""''"", 50.0)]"
+MIL,20140416,[]
+MIN,20140416,"[(""MISS Favors 12' Jump Shot"", 30.2), (""'Hummel REBOUND (Off:2 Def:5)'"", 20.3), (""MISS Martin 25' 3PT Jump Shot"", 44.2), (""'Favors REBOUND (Off:2 Def:5)'"", 21.8), (""MISS Love 19' Jump Shot"", 48.0), (""''"", 50.0)]"
+NO,20140416,[]
+OKC,20140416,"[(""MISS Caldwell-Pope 2' Layup"", 22.4), (""MISS Westbrook 3' Layup"", 32.0), (""MISS Durant 1' Putback Layup"", 32.3), (""Durant 1' Driving Dunk (42 PTS) (Westbrook 8 AST)"", 38.5), (""MISS Jennings 31' 3PT Jump Shot"", 86.7)]"
+SA,20140416,[]
+BOS,20140416,[]
+CHA,20140416,"[(""'Hinrich  3PT Jump Shot (11 PTS) (Butler 4 AST)'"", 24.1), (""'MISS McRoberts  3PT Jump Shot'"", 26.0), (""MISS Gibson 17' Jump Shot"", 34.3), (""'Walker REBOUND (Off:0 Def:6)'"", 23.3), (""MISS Walker 18' Step Back Jump Shot"", 43.9), (""''"", 50.0)]"
+CLE,20140416,[]
+MIA,20140416,[]
+NY,20140416,"[(""De Colo 25' 3PT Jump Shot (12 PTS) (Novak 1 AST)"", 24.9), (""MISS Buycks 26' 3PT Jump Shot"", 31.7), (""'MISS Novak  3PT Jump Shot'"", 33.6), (""MISS Smith 2' Driving Layup"", 24.0), (""Aldrich 1' Putback Dunk (13 PTS)"", 24.1), (""MISS De Colo 26' 3PT Jump Shot"", 37.4), (""MISS Buycks 19' Jump Shot"", 24.5), (""MISS Buycks 25' 3PT Jump Shot"", 62.5)]"
+ORL,20140416,[]
+POR,20140416,"[(""MISS Crawford 25' 3PT Jump Shot"", 22.6), (""MISS Barnes 25' 3PT Jump Shot"", 23.2)]"
+SAC,20140416,[]
+DEN,20140416,"[(""Crawford 28' 3PT Jump Shot (38 PTS) (Blake 15 AST)"", 23.3), (""MISS Foye 26' 3PT Jump Shot"", 30.6), (""MISS Foye 2' Driving Finger Roll Layup"", 20.1), (""MISS Foye 28' 3PT Jump Shot"", 36.3)]"

@@ -30,6 +30,6 @@ def clean(year):
     source.close()
     dest.close()
 
-for year in range(2006, 2018):
+for year in range(2017, 2018):
 
     clean(str(year))
