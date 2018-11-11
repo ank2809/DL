@@ -3,26 +3,33 @@ from csv import QUOTE_MINIMAL
 
 def clean(year):
 
-    source = open('data/' + year + '/' + year + '_box_scores.csv')
-    dest = open('data/' + year + '/' + year + '_boxscores.csv', 'w', newline='')
+    source = open('data/' + year + '/' + year + '_play_by_play.csv')
+    dest = open('data/' + year + '/' + year + '_playbyplay.csv', 'w', newline='')
     cleaner = writer(dest, delimiter=',', quotechar='"', quoting=QUOTE_MINIMAL)
-    cleaner.writerow(['gameid', 'date', 'away_team', 'home_team', 'box_score'])
+    cleaner.writerow(['gameid', 'home_team', 'away_team', 'date', 'excitement_score', 'comeback_score', 'mvp', 'lvp', 'play_by_play'])
 
     for line in source:
 
         current = 0
         row = []
-        for i in range(4):
+        b = True
+        for i in range(8):
 
-            next = line.index(',', current)
-            row.append(line[current:next])
-            current = next + 1
+            try:
+                next = line.index(',', current)
+                row.append(line[current:next])
+                current = next + 1
+            except ValueError:
+                b = False
+                break
 
-        row.append(line[current:len(line)-1])
-        cleaner.writerow(row)
+        if b:
+            row.append(line[current:len(line)-1])
+            cleaner.writerow(row)
 
     source.close()
     dest.close()
 
-for i in range(2006, 2017):
-    clean(str(i))
+for year in range(2014, 2015):
+
+    clean(str(year))
