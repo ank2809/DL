@@ -4,7 +4,7 @@ from csv import QUOTE_MINIMAL
 def clean(year):
 
     source = open('data/' + year + '/' + year + '_play_by_play.csv')
-    dest = open('data/' + year + '/' + year + '_playbyplay_new.csv', 'w', newline='')
+    dest = open('data/' + year + '/' + year + '_playbyplay.csv', 'w', newline='')
     cleaner = writer(dest, delimiter=',', quotechar='"', quoting=QUOTE_MINIMAL)
     cleaner.writerow(['home_team', 'away_team', 'date', 'excitement_score', 'comeback_score', 'mvp', 'lvp', 'play_by_play'])
 
