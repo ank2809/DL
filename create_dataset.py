@@ -3,16 +3,15 @@ from pandas import read_csv
 def read(year):
 
     reader = read_csv('data/' + year + '/' + year + '_article_box.csv', delimiter=',')
-    play_by_play = read_csv('data/' + year + '/' + year + '_playbyplay.csv', delimiter=',')
+    play_by_play = read_csv('data/' + year + '/' + year + '_playbyplay.csv', index_col=False)
     imp = dict()
     for i in range(len(play_by_play)):
 
-        playlist = play_by_play['home_team'][i]
-        print(playlist)
+        playlist = play_by_play['play_by_play'][i+1].replace('\"','')
         play_max = None
         prob_max = 0
         ind = 1
-        break
+        print(playlist)
         while ind < len(playlist):
 
             comma = playlist.index(',', ind)
@@ -24,7 +23,7 @@ def read(year):
             ind = percent + 4
             break
         break
-        imp[(play_by_play['home_team'][i], play_by_play['date'][i])]
+        imp[(play_by_play['home_team'][i], play_by_play['date'][i])] = play_max
 
 
 read('2017')
