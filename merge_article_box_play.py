@@ -1,7 +1,7 @@
 from pandas import read_csv
 
 
-for year in range(2006, 2013):
+for year in range(2006, 2014):
     path = 'data/{}/{}_article_box.csv'.format(year, year)
 
     art_box = read_csv(path)

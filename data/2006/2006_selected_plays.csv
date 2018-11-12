@@ -5,15 +5,15 @@ PHI,20061101,[]
 CHA,20061101,[]
 ORL,20061101,[]
 BOS,20061101,"[(""MISS Pierce 19' Jump Shot"", 20.3), (""MISS West 25' 3PT Jump Shot"", 30.7)]"
-NJ,20061101,[]
+NJN,20061101,[]
 DET,20061101,[]
 CLE,20061101,"[(""James 25' 3PT Jump Shot (22 PTS)"", 21.8), (""Arenas 25' 3PT Jump Shot (7 PTS)"", 20.4), (""MISS James 25' 3PT Jump Shot"", 23.6), (""MISS James 1' Layup"", 20.4), (""Jamison 9' Jump Hook Shot (19 PTS)"", 22.1), (""Hughes 1' Driving Dunk (27 PTS) (Snow 4 AST)"", 20.4), (""'MISS Hayes  3PT Jump Shot'"", 36.2), (""MISS Hayes 15' Jump Shot"", 25.8), (""James 1' Driving Finger Roll (26 PTS)"", 29.1), (""MISS Hayes 25' 3PT Jump Shot"", 62.5), (""MISS Jamison 25' 3PT Jump Shot"", 43.0)]"
 MEM,20061101,"[(""MISS Atkins 25' 3PT Jump Shot"", 25.1), (""'Gay  Layup (15 PTS)'"", 26.2), (""MISS Francis 20' Jump Bank Shot"", 30.9), (""'Atkins REBOUND (Off:0 Def:2)'"", 20.8), (""'MISS Lowry  Driving Layup'"", 34.3), (""'Lee REBOUND (Off:2 Def:6)'"", 23.5), (""MISS Crawford 26' 3PT Jump Shot"", 50.3), (""''"", 50.0)]"
 MIN,20061101,[]
-UTAH,20061101,[]
+UTA,20061101,[]
 SEA,20061101,"[(""Allen 25' 3PT Jump Shot (22 PTS) (Ridnour 13 AST)"", 27.4), (""MISS Ridnour 14' Jump Shot"", 27.7), (""MISS Jack 25' 3PT Jump Shot"", 42.7), (""'Udoka REBOUND (Off:1 Def:0)'"", 21.0), (""'Udoka REBOUND (Off:2 Def:0)'"", 20.2), (""MISS Allen 25' 3PT Jump Shot"", 66.8), (""MISS Wilkins 9' Jump Shot"", 42.0)]"
-PHX,20061101,[]
-GS,20061101,[]
+PHO,20061101,[]
+GSW,20061101,[]
 DAL,20061102,"[(""Bowen 24' 3PT Jump Shot (13 PTS) (Ginobili 5 AST)"", 25.0), (""MISS Nowitzki 19' Jump Shot"", 20.4), (""MISS Terry 24' 3PT Jump Shot"", 38.1)]"
 LAC,20061102,"[(""Thomas 28' 3PT Jump Shot (18 PTS) (Cassell 5 AST)"", 20.6), (""MISS Cassell 26' 3PT Jump Shot"", 36.2), (""MISS Smith 25' 3PT Jump Shot"", 27.8), (""Ross 16' Jump Shot (4 PTS) (Thomas 3 AST)"", 26.6), (""Smith 27' 3PT Jump Shot (19 PTS) (Miller 7 AST)"", 45.0), (""Thomas 27' 3PT Jump Shot (21 PTS) (Cassell 6 AST)"", 45.8), (""'MISS Miller  Layup'"", 34.9), (""'Smith  Driving Dunk (21 PTS)'"", 37.3), (""'Cassell Free Throw 1 of 2 (34 PTS)'"", 25.3), (""'Cassell Free Throw 2 of 2 (35 PTS)'"", 22.8), (""'MISS Miller  Layup'"", 53.3), (""MISS Boykins 20' Jump Shot"", 93.4)]"
 TOR,20061103,[]
@@ -23,136 +23,136 @@ BOS,20061103,[]
 ATL,20061103,[]
 MIA,20061103,"[(""Posey 24' 3PT Jump Shot (8 PTS) (Wade 5 AST)"", 25.8)]"
 MEM,20061103,[]
-SA,20061103,[]
+SAS,20061103,[]
 CHI,20061103,"[(""MISS World Peace 24' 3PT Jump Shot"", 33.4), (""Martin 18' Jump Shot (30 PTS) (Bibby 9 AST)"", 53.3)]"
 DEN,20061103,"[(""'MISS Anthony  3PT Jump Shot'"", 22.5), (""Blount 16' Fadeaway Jumper (10 PTS)"", 23.7), (""MISS Anthony 24' 3PT Jump Shot"", 33.7), (""MISS Anthony 26' 3PT Jump Shot"", 43.0), (""MISS Anthony 32' 3PT Jump Shot"", 48.7)]"
-PHX,20061103,"[(""MISS Bell 26' 3PT Jump Shot"", 21.1), (""MISS D. Williams 25' 3PT Jump Shot"", 23.7), (""'Harpring  Reverse Layup (14 PTS)'"", 21.2), (""'Harpring  Layup (16 PTS) (Kirilenko 3 AST)'"", 23.3), (""'Harpring REBOUND (Off:1 Def:3)'"", 20.3), (""'Boozer  Dunk (21 PTS)'"", 33.0), (""'MISS Barbosa  Layup'"", 27.0)]"
+PHO,20061103,"[(""MISS Bell 26' 3PT Jump Shot"", 21.1), (""MISS D. Williams 25' 3PT Jump Shot"", 23.7), (""'Harpring  Reverse Layup (14 PTS)'"", 21.2), (""'Harpring  Layup (16 PTS) (Kirilenko 3 AST)'"", 23.3), (""'Harpring REBOUND (Off:1 Def:3)'"", 20.3), (""'Boozer  Dunk (21 PTS)'"", 33.0), (""'MISS Barbosa  Layup'"", 27.0)]"
 LAL,20061103,"[(""Lewis 9' Jump Shot (23 PTS)"", 20.1), (""'Parker  Driving Finger Roll (11 PTS) (Bryant 6 AST)'"", 24.3), (""MISS Allen 7' Jump Shot"", 23.2), (""'MISS Wilcox  Tip Shot'"", 23.4), (""MISS Allen 25' 3PT Jump Shot"", 33.3)]"
-GS,20061103,[]
-WSH,20061104,[]
+GSW,20061103,[]
+WAS,20061104,[]
 CHA,20061104,[]
-NY,20061104,[]
+NYK,20061104,[]
 DET,20061104,[]
 MIL,20061104,[]
 HOU,20061104,[]
-UTAH,20061104,[]
+UTA,20061104,[]
 POR,20061104,"[(""Davis 25' 3PT Jump Shot (16 PTS) (James 7 AST)"", 23.2), (""MISS Roy 25' 3PT Jump Shot"", 32.2), (""'MISS James  Driving Layup'"", 23.5), (""Dixon 24' 3PT Jump Shot (10 PTS) (Roy 8 AST)"", 69.9), (""MISS Garnett 8' Jump Shot"", 48.0)]"
 LAC,20061104,[]
 TOR,20061105,[]
 PHI,20061105,[]
 ATL,20061105,[]
-NO,20061105,[]
+NOK,20061105,[]
 SEA,20061105,[]
 ORL,20061106,"[(""'MISS Jamison  3PT Jump Shot'"", 41.7), (""MISS Butler 20' Jump Shot"", 26.6), (""'MISS Thomas  Layup'"", 27.8), (""MISS Arenas 27' 3PT Jump Shot"", 48.7)]"
-NY,20061106,"[(""MISS Marbury 25' 3PT Jump Shot"", 22.3)]"
+NYK,20061106,"[(""MISS Marbury 25' 3PT Jump Shot"", 22.3)]"
 CHI,20061106,[]
 DAL,20061106,"[(""MISS Stackhouse 24' 3PT Jump Shot"", 40.8)]"
-UTAH,20061106,"[(""MISS Okur 9' Jump Shot"", 22.1), (""'MISS Hamilton  Layup'"", 42.6)]"
+UTA,20061106,"[(""MISS Okur 9' Jump Shot"", 22.1), (""'MISS Hamilton  Layup'"", 42.6)]"
 SAC,20061106,[]
 LAC,20061106,[]
 CLE,20061107,"[(""Johnson 27' 3PT Jump Shot (18 PTS) (Lue 9 AST)"", 26.2), (""MISS Gooden 26' 3PT Jump Shot"", 34.0), (""Childress 2' Layup (4 PTS) (Lue 10 AST)"", 25.6), (""MISS James 25' 3PT Jump Shot"", 40.5), (""Hughes 26' 3PT Jump Shot (17 PTS) (James 6 AST)"", 45.0), (""MISS Smith 16' Jump Shot"", 39.2), (""'Gooden REBOUND (Off:4 Def:7)'"", 20.7), (""Lue 1' Driving Layup (16 PTS)"", 48.0), (""''"", 50.0)]"
 IND,20061107,[]
 MIA,20061107,"[(""MISS Wade 25' 3PT Jump Shot"", 28.7), (""Posey 24' 3PT Jump Shot (6 PTS) (Wade 6 AST)"", 49.7), (""MISS Wilkins 24' 3PT Jump Shot"", 48.7)]"
 MEM,20061107,[]
-NO,20061107,"[(""MISS Dunleavy 24' 3PT Jump Shot"", 22.5), (""MISS Stojakovic 25' 3PT Jump Shot"", 26.4), (""'Stojakovic  Layup (15 PTS) (Paul 11 AST)'"", 20.2), (""MISS Davis 25' 3PT Jump Shot"", 34.7), (""MISS Davis 25' 3PT Jump Shot"", 42.4), (""MISS Roberson 26' 3PT Jump Shot"", 36.3)]"
+NOK,20061107,"[(""MISS Dunleavy 24' 3PT Jump Shot"", 22.5), (""MISS Stojakovic 25' 3PT Jump Shot"", 26.4), (""'Stojakovic  Layup (15 PTS) (Paul 11 AST)'"", 20.2), (""MISS Davis 25' 3PT Jump Shot"", 34.7), (""MISS Davis 25' 3PT Jump Shot"", 42.4), (""MISS Roberson 26' 3PT Jump Shot"", 36.3)]"
 LAL,20061107,[]
 TOR,20061108,"[(""Jones 19' Jump Shot (13 PTS) (Ford 7 AST)"", 23.0), (""MISS Webber 16' Jump Bank Shot"", 25.2), (""Bosh 5' Jump Hook Shot (26 PTS)"", 27.5), (""Iverson 18' Jump Shot (35 PTS)"", 24.6), (""'Ford  Reverse Layup (11 PTS)'"", 32.0), (""Webber 7' Jump Hook Shot (14 PTS) (Iverson 10 AST)"", 25.9), (""Bosh 32' 3PT Jump Shot (29 PTS)"", 48.3), (""MISS Iguodala 24' 3PT Jump Shot"", 94.2)]"
-WSH,20061108,[]
+WAS,20061108,[]
 ORL,20061108,"[(""Allen 26' 3PT Jump Shot (21 PTS)"", 21.3), (""MISS Lewis 14' Jump Shot"", 29.5), (""MISS Hill 20' Jump Shot"", 23.6), (""'Lewis  Layup (16 PTS) (Ridnour 6 AST)'"", 55.8), (""Turkoglu 22' Jump Shot (18 PTS)"", 93.4)]"
 BOS,20061108,"[(""MISS May 2' Layup"", 27.4), (""MISS Wallace 4' Jump Shot"", 28.4), (""Wallace 3' Layup (8 PTS)"", 29.8), (""MISS Pierce 22' Jump Shot"", 48.0), (""''"", 50.0)]"
-NJ,20061108,"[(""'Wright  3PT Jump Shot (15 PTS) (Jefferson 4 AST)'"", 20.1), (""MISS Okur 27' 3PT Jump Shot"", 21.6), (""MISS Okur 26' 3PT Jump Shot"", 32.7)]"
+NJN,20061108,"[(""'Wright  3PT Jump Shot (15 PTS) (Jefferson 4 AST)'"", 20.1), (""MISS Okur 27' 3PT Jump Shot"", 21.6), (""MISS Okur 26' 3PT Jump Shot"", 32.7)]"
 MIL,20061108,[]
-SA,20061108,"[(""Parker 1' Driving Layup (24 PTS)"", 24.9), (""Duncan 2' Layup (23 PTS) (Oberto 2 AST)"", 20.7), (""'Bell Free Throw 1 of 2 (17 PTS)'"", 39.9), (""'MISS Bell Free Throw 2 of 2'"", 37.4), (""MISS Duncan 40' 3PT Turnaround Jump Shot"", 50.2), (""''"", 50.0)]"
+SAS,20061108,"[(""Parker 1' Driving Layup (24 PTS)"", 24.9), (""Duncan 2' Layup (23 PTS) (Oberto 2 AST)"", 20.7), (""'Bell Free Throw 1 of 2 (17 PTS)'"", 39.9), (""'MISS Bell Free Throw 2 of 2'"", 37.4), (""MISS Duncan 40' 3PT Turnaround Jump Shot"", 50.2), (""''"", 50.0)]"
 DEN,20061108,"[(""'Marbury  3PT Jump Shot (10 PTS) (Curry 1 AST)'"", 32.3), (""MISS Boykins 24' 3PT Jump Shot"", 44.2), (""'Smith REBOUND (Off:1 Def:1)'"", 21.8), (""Crawford 26' 3PT Jump Shot (35 PTS)"", 49.3), (""'MISS Smith  Tip Shot'"", 48.0)]"
 POR,20061108,[]
 LAC,20061108,[]
 SAC,20061108,[]
 CLE,20061109,[]
-PHX,20061109,"[(""Nash 8' Jump Shot (20 PTS)"", 20.3), (""MISS George 15' Jump Shot"", 25.4), (""MISS Nash 13' Jump Shot"", 23.4)]"
-GS,20061109,[]
+PHO,20061109,"[(""Nash 8' Jump Shot (20 PTS)"", 20.3), (""MISS George 15' Jump Shot"", 25.4), (""MISS Nash 13' Jump Shot"", 23.4)]"
+GSW,20061109,[]
 TOR,20061110,[]
 PHI,20061110,"[(""MISS Green 26' 3PT Jump Shot"", 33.2)]"
-WSH,20061110,"[(""MISS Redd 24' 3PT Jump Shot"", 22.5), (""MISS Butler 24' 3PT Jump Shot"", 32.2), (""'Jamison  Layup (22 PTS)'"", 22.0), (""MISS Villanueva 5' Jump Shot"", 21.5)]"
+WAS,20061110,"[(""MISS Redd 24' 3PT Jump Shot"", 22.5), (""MISS Butler 24' 3PT Jump Shot"", 32.2), (""'Jamison  Layup (22 PTS)'"", 22.0), (""MISS Villanueva 5' Jump Shot"", 21.5)]"
 CHA,20061110,[]
 IND,20061110,[]
 BOS,20061110,[]
-NJ,20061110,"[(""Payton 25' 3PT Jump Shot (14 PTS) (Haslem 2 AST)"", 20.8)]"
+NJN,20061110,"[(""Payton 25' 3PT Jump Shot (14 PTS) (Haslem 2 AST)"", 20.8)]"
 HOU,20061110,[]
 POR,20061110,"[(""MISS Stojakovic 27' 3PT Jump Shot"", 21.2), (""MISS Paul 12' Jump Shot"", 20.5), (""MISS Dixon 9' Jump Shot"", 23.6), (""'MISS Paul  Layup'"", 47.0), (""Stojakovic 25' 3PT Jump Shot (21 PTS) (Mason 2 AST)"", 38.7)]"
 LAL,20061110,[]
 ATL,20061111,"[(""MISS Smith 27' 3PT Jump Shot"", 22.0), (""MISS Allen 25' 3PT Jump Shot"", 26.2), (""MISS Smith 27' 3PT Jump Shot"", 29.6), (""MISS Pachulia 1' Layup"", 22.7), (""'Allen  Layup (27 PTS)'"", 23.2), (""MISS Smith 5' Jump Shot"", 22.2), (""MISS Johnson 27' 3PT Jump Shot"", 47.8), (""'Childress  Tip Shot (15 PTS)'"", 26.1), (""MISS Ridnour 29' 3PT Jump Shot"", 47.4), (""MISS Johnson 24' 3PT Jump Shot"", 50.2), (""''"", 50.0)]"
 CLE,20061111,"[(""MISS Pierce 24' 3PT Jump Shot"", 37.0), (""MISS Pierce 29' 3PT Jump Shot"", 96.0)]"
-SA,20061111,[]
+SAS,20061111,[]
 MIN,20061111,[]
 CHI,20061111,"[(""'MISS Hinrich  3PT Jump Shot'"", 28.9), (""Hinrich 26' 3PT Jump Shot (20 PTS) (Duhon 2 AST)"", 28.8)]"
 MIL,20061111,"[(""Redd 27' 3PT Jump Shot (57 PTS) (Williams 8 AST)"", 37.8), (""'Harpring  Layup (17 PTS) (D. Williams 15 AST)'"", 43.9), (""MISS Redd 27' 3PT Jump Shot"", 94.2)]"
-PHX,20061111,[]
-GS,20061111,[]
+PHO,20061111,[]
+GSW,20061111,[]
 LAC,20061112,[]
-WSH,20061112,"[(""MISS Carter 26' 3PT Jump Shot"", 20.6), (""MISS Daniels 1' Layup"", 22.4), (""'Kidd REBOUND (Off:0 Def:11)'"", 20.8), (""Carter 26' 3PT Jump Shot (28 PTS) (Nachbar 1 AST)"", 48.7), (""''"", 50.0)]"
+WAS,20061112,"[(""MISS Carter 26' 3PT Jump Shot"", 20.6), (""MISS Daniels 1' Layup"", 22.4), (""'Kidd REBOUND (Off:0 Def:11)'"", 20.8), (""Carter 26' 3PT Jump Shot (28 PTS) (Nachbar 1 AST)"", 48.7), (""''"", 50.0)]"
 CHA,20061112,[]
 MIA,20061112,[]
 SAC,20061112,[]
 POR,20061112,"[(""MISS Dixon 24' 3PT Jump Shot"", 21.0)]"
 LAL,20061112,[]
 BOS,20061113,"[(""MISS Turkoglu 25' 3PT Jump Shot"", 22.8), (""Hill 2' Driving Layup (18 PTS)"", 23.5), (""MISS West 23' Jump Shot"", 25.1)]"
-NJ,20061113,[]
-NY,20061113,"[(""Hughes 21' Jump Shot (14 PTS)"", 20.3), (""MISS Marbury 24' 3PT Jump Shot"", 30.9)]"
+NJN,20061113,[]
+NYK,20061113,"[(""Hughes 21' Jump Shot (14 PTS)"", 20.3), (""MISS Marbury 24' 3PT Jump Shot"", 30.9)]"
 ATL,20061114,"[(""Ilyasova 27' 3PT Jump Shot (5 PTS)"", 22.8), (""MISS Williams 28' 3PT Jump Shot"", 30.0), (""Johnson 5' Jump Shot (27 PTS)"", 22.4), (""Redd 2' Layup (24 PTS)"", 20.7), (""Johnson 8' Jump Shot (29 PTS)"", 25.8), (""Lue 27' 3PT Jump Shot (29 PTS)"", 49.0), (""MISS Ilyasova 27' 3PT Jump Shot"", 46.1), (""Redd 6' Jump Shot (29 PTS)"", 26.1), (""MISS Lue 7' Jump Shot"", 38.5), (""'HAWKS Rebound'"", 20.7), (""MISS Johnson 12' Jump Shot"", 53.3)]"
 MIA,20061114,[]
-NO,20061114,[]
+NOK,20061114,[]
 MIN,20061114,[]
 HOU,20061114,[]
 DAL,20061114,[]
-UTAH,20061114,[]
-GS,20061114,[]
+UTA,20061114,[]
+GSW,20061114,[]
 ORL,20061115,[]
 CLE,20061115,[]
 BOS,20061115,[]
-NJ,20061115,[]
-NY,20061115,[]
+NJN,20061115,[]
+NYK,20061115,[]
 DET,20061115,"[(""Butler 24' 3PT Jump Shot (5 PTS) (Paul 13 AST)"", 24.0), (""MISS Hunter 26' 3PT Jump Shot"", 25.4), (""Billups 15' Fadeaway Jumper (27 PTS)"", 20.7), (""MISS Wallace 11' Running Jump Shot"", 23.8), (""'MISS Armstrong  Layup'"", 25.6), (""MISS Wallace 25' 3PT Jump Shot"", 44.9), (""'Butler REBOUND (Off:0 Def:2)'"", 22.8)]"
-SA,20061115,"[(""MISS Morrison 4' Running Jump Shot"", 32.0), (""'SPURS Rebound'"", 21.1), (""MISS Knight 18' Jump Shot"", 39.5), (""MISS Finley 27' 3PT Jump Shot"", 49.4), (""''"", 50.0)]"
+SAS,20061115,"[(""MISS Morrison 4' Running Jump Shot"", 32.0), (""'SPURS Rebound'"", 21.1), (""MISS Knight 18' Jump Shot"", 39.5), (""MISS Finley 27' 3PT Jump Shot"", 49.4), (""''"", 50.0)]"
 SAC,20061115,"[(""MISS Stoudamire 25' 3PT Jump Shot"", 34.0)]"
 SEA,20061115,[]
 HOU,20061116,[]
-GS,20061116,[]
+GSW,20061116,[]
 IND,20061117,[]
 BOS,20061117,[]
 MIA,20061117,[]
 CLE,20061117,[]
 DET,20061117,[]
 MEM,20061117,[]
-SA,20061117,[]
-PHX,20061117,[]
+SAS,20061117,[]
+PHO,20061117,[]
 LAL,20061117,"[(""MISS Bryant 26' 3PT Jump Shot"", 26.0)]"
 SEA,20061117,[]
-WSH,20061118,[]
+WAS,20061118,[]
 ATL,20061118,"[(""MISS Stoudamire 28' 3PT Jump Shot"", 26.3), (""MISS Walker 24' 3PT Jump Shot"", 29.2), (""MISS Stoudamire 19' Jump Shot"", 22.3), (""MISS Wade 17' Jump Shot"", 23.5), (""MISS Walker 27' 3PT Jump Shot"", 39.5), (""MISS Wade 18' Jump Shot"", 31.1), (""'Williams REBOUND (Off:1 Def:1)'"", 20.8), (""MISS Walker 28' 3PT Jump Shot"", 44.9), (""'Williams REBOUND (Off:2 Def:1)'"", 22.8), (""MISS Walker 28' 3PT Jump Shot"", 50.3), (""''"", 50.0)]"
 ORL,20061118,[]
-NJ,20061118,[]
-NY,20061118,"[(""MISS Marbury 26' 3PT Jump Shot"", 21.6)]"
+NJN,20061118,[]
+NYK,20061118,"[(""MISS Marbury 26' 3PT Jump Shot"", 21.6)]"
 DET,20061118,[]
 MIN,20061118,"[(""MISS Butler 25' 3PT Jump Shot"", 20.8), (""MISS Jaric 24' 3PT Jump Shot"", 33.8), (""MISS Pargo 25' 3PT Jump Shot"", 28.6), (""'MISS Garnett  Layup'"", 30.9), (""'Jaric  Tip Shot (7 PTS)'"", 31.1), (""Paul 4' Running Jump Shot (31 PTS)"", 33.5), (""'James Free Throw 1 of 2 (1 PTS)'"", 20.9), (""'Paul  Layup (33 PTS)'"", 36.5), (""'MISS Jaric  Layup'"", 48.9), (""James 25' 3PT Jump Shot (5 PTS) (Garnett 5 AST)"", 43.0), (""Stojakovic 25' 3PT Jump Shot (20 PTS) (Mason 2 AST)"", 50.3), (""MISS Garnett 30' 3PT Jump Shot"", 48.7)]"
 MIL,20061118,"[(""MISS Jackson 27' 3PT Jump Shot"", 21.2), (""MISS Bell 26' 3PT Jump Shot"", 23.0)]"
 DAL,20061118,[]
 DEN,20061118,[]
-UTAH,20061118,"[(""'MISS Barbosa  Layup'"", 43.9), (""MISS Fisher 25' 3PT Jump Shot"", 50.2), (""''"", 50.0)]"
+UTA,20061118,"[(""'MISS Barbosa  Layup'"", 43.9), (""MISS Fisher 25' 3PT Jump Shot"", 50.2), (""''"", 50.0)]"
 LAC,20061118,"[(""MISS Maggette 25' 3PT Jump Shot"", 22.0), (""'Iverson  Driving Layup (27 PTS)'"", 23.3), (""MISS Brand 14' Jump Shot"", 32.8), (""'76ers Rebound'"", 21.4), (""MISS Maggette 28' 3PT Jump Shot"", 50.2), (""''"", 50.0)]"
-GS,20061118,[]
+GSW,20061118,[]
 LAL,20061119,[]
 SAC,20061119,[]
 CHA,20061120,"[(""'Buckner  3PT Jump Shot (3 PTS) (Harris 6 AST)'"", 20.3), (""MISS Morrison 25' 3PT Jump Shot"", 20.9), (""Terry 25' 3PT Jump Shot (13 PTS) (Buckner 1 AST)"", 27.4)]"
-NY,20061120,[]
+NYK,20061120,[]
 MEM,20061120,"[(""Miller 25' 3PT Jump Shot (8 PTS) (Lowry 6 AST)"", 22.0)]"
-UTAH,20061120,"[(""MISS Garbajosa 24' 3PT Jump Shot"", 32.4), (""MISS Ford 25' 3PT Jump Shot"", 34.6), (""MISS Jones 25' 3PT Jump Shot"", 39.7)]"
+UTA,20061120,"[(""MISS Garbajosa 24' 3PT Jump Shot"", 32.4), (""MISS Ford 25' 3PT Jump Shot"", 34.6), (""MISS Jones 25' 3PT Jump Shot"", 39.7)]"
 POR,20061120,[]
 SEA,20061120,"[(""Ridnour 25' 3PT Jump Shot (7 PTS) (Lewis 4 AST)"", 20.5)]"
-GS,20061120,"[(""MISS Dunleavy 25' 3PT Jump Shot"", 21.5), (""'Pietrus  3PT Jump Shot (24 PTS) (Ellis 7 AST)'"", 39.4), (""'Marion  Dunk (18 PTS) (Nash 15 AST)'"", 22.7), (""MISS Ellis 2' Layup"", 27.8), (""MISS Bell 27' 3PT Jump Shot"", 41.0), (""'MISS Roberson  3PT Jump Shot'"", 44.7), (""'Biedrins REBOUND (Off:3 Def:12)'"", 22.3), (""Nash 27' 3PT Jump Shot (19 PTS)"", 49.0), (""MISS Richardson 27' 3PT Jump Shot"", 48.7)]"
+GSW,20061120,"[(""MISS Dunleavy 25' 3PT Jump Shot"", 21.5), (""'Pietrus  3PT Jump Shot (24 PTS) (Ellis 7 AST)'"", 39.4), (""'Marion  Dunk (18 PTS) (Nash 15 AST)'"", 22.7), (""MISS Ellis 2' Layup"", 27.8), (""MISS Bell 27' 3PT Jump Shot"", 41.0), (""'MISS Roberson  3PT Jump Shot'"", 44.7), (""'Biedrins REBOUND (Off:3 Def:12)'"", 22.3), (""Nash 27' 3PT Jump Shot (19 PTS)"", 49.0), (""MISS Richardson 27' 3PT Jump Shot"", 48.7)]"
 PHI,20061121,[]
 CLE,20061121,"[(""MISS Cardinal 25' 3PT Jump Shot"", 44.3)]"
 IND,20061121,"[(""MISS Gadzuric 2' Layup"", 22.9), (""Tinsley 10' Jump Bank Shot (17 PTS)"", 33.7), (""MISS Redd 12' Jump Shot"", 39.2), (""O'Neal REBOUND (Off:2 Def:10)"", 20.8), (""MISS Williams 25' 3PT Jump Shot"", 37.0), (""MISS Ilyasova 25' 3PT Jump Shot"", 39.7)]"
-NO,20061121,[]
+NOK,20061121,[]
 DAL,20061121,[]
 DEN,20061121,[]
 LAL,20061121,[]
@@ -160,15 +160,15 @@ TOR,20061122,[]
 CHA,20061122,[]
 ORL,20061122,[]
 DET,20061122,"[(""MISS Johnson 26' 3PT Jump Shot"", 20.6)]"
-SA,20061122,[]
+SAS,20061122,[]
 MIL,20061122,"[(""Green 25' 3PT Jump Shot (24 PTS)"", 20.3), (""'MISS Iguodala  3PT Jump Shot'"", 33.9), (""MISS Redd 15' Jump Shot"", 23.8), (""'MISS Iguodala  Layup'"", 29.0)]"
 MIN,20061122,[]
 HOU,20061122,"[(""MISS Alston 27' 3PT Jump Shot"", 21.7), (""MISS Jamison 28' 3PT Jump Shot"", 21.3), (""Alston 27' 3PT Jump Shot (12 PTS) (McGrady 8 AST)"", 22.9)]"
-PHX,20061122,[]
+PHO,20061122,[]
 SAC,20061122,"[(""Okur 24' 3PT Jump Shot (8 PTS) (D. Williams 12 AST)"", 35.0), (""MISS Abdur-Rahim 8' Jump Hook Shot"", 21.3)]"
 POR,20061122,"[(""MISS Carter 25' 3PT Jump Shot"", 23.5), (""MISS Carter 25' 3PT Jump Shot"", 40.8), (""'MISS Jefferson  3PT Jump Shot'"", 48.7)]"
 LAC,20061122,[]
-GS,20061122,"[(""'MISS Pietrus  3PT Jump Shot'"", 36.3), (""MISS Ellis 26' 3PT Jump Shot"", 40.8), (""'MISS Dunleavy  3PT Turnaround Jump Shot'"", 48.7)]"
+GSW,20061122,"[(""'MISS Pietrus  3PT Jump Shot'"", 36.3), (""MISS Ellis 26' 3PT Jump Shot"", 40.8), (""'MISS Dunleavy  3PT Turnaround Jump Shot'"", 48.7)]"
 BOS,20061124,[]
 PHI,20061124,[]
 ATL,20061124,[]
@@ -176,23 +176,23 @@ MIA,20061124,"[(""MISS Wade 10' Jump Shot"", 20.4), (""MISS Nelson 19' Jump Shot
 DET,20061124,[]
 IND,20061124,[]
 MEM,20061124,[]
-NO,20061124,[]
-SA,20061124,"[(""MISS Horry 26' 3PT Jump Shot"", 38.7), (""MISS Finley 27' 3PT Jump Shot"", 48.7)]"
+NOK,20061124,[]
+SAS,20061124,"[(""MISS Horry 26' 3PT Jump Shot"", 38.7), (""MISS Finley 27' 3PT Jump Shot"", 48.7)]"
 DEN,20061124,[]
-UTAH,20061124,"[(""MISS Bryant 25' 3PT Jump Shot"", 22.3), (""'MISS Walton  3PT Jump Shot'"", 23.8), (""MISS D. Williams 24' 3PT Jump Shot"", 25.4), (""MISS Harpring 24' 3PT Jump Shot"", 27.8), (""MISS Odom 24' 3PT Jump Shot"", 34.6), (""MISS D. Williams 21' Jump Shot"", 20.2), (""D. Williams 20' Jump Shot (10 PTS)"", 20.3), (""D. Williams 24' 3PT Jump Shot (13 PTS) (Okur 2 AST)"", 38.2)]"
-PHX,20061124,[]
+UTA,20061124,"[(""MISS Bryant 25' 3PT Jump Shot"", 22.3), (""'MISS Walton  3PT Jump Shot'"", 23.8), (""MISS D. Williams 24' 3PT Jump Shot"", 25.4), (""MISS Harpring 24' 3PT Jump Shot"", 27.8), (""MISS Odom 24' 3PT Jump Shot"", 34.6), (""MISS D. Williams 21' Jump Shot"", 20.2), (""D. Williams 20' Jump Shot (10 PTS)"", 20.3), (""D. Williams 24' 3PT Jump Shot (13 PTS) (Okur 2 AST)"", 38.2)]"
+PHO,20061124,[]
 SEA,20061124,[]
-WSH,20061125,[]
+WAS,20061125,[]
 CHA,20061125,[]
 ORL,20061125,[]
-NY,20061125,[]
+NYK,20061125,[]
 CLE,20061125,[]
 MIN,20061125,[]
 HOU,20061125,[]
 DAL,20061125,[]
 MIL,20061125,[]
 SAC,20061125,[]
-GS,20061125,[]
+GSW,20061125,[]
 TOR,20061126,[]
 DEN,20061126,[]
 POR,20061126,[]
@@ -200,11 +200,11 @@ SEA,20061126,[]
 LAL,20061126,[]
 MIA,20061127,[]
 DAL,20061127,"[(""MISS Howard 26' 3PT Jump Shot"", 29.7), (""MISS Garnett 20' Jump Shot"", 21.6), (""'MISS Blount  Layup'"", 21.9), (""MISS Nowitzki 18' Jump Shot"", 22.8), (""MISS Foye 9' Fadeaway Jumper"", 24.4), (""'Howard  Layup (13 PTS) (Terry 3 AST)'"", 26.1), (""MISS Foye 10' Jump Shot"", 23.5), (""'MISS Davis  Driving Layup'"", 27.4)]"
-UTAH,20061127,[]
-GS,20061127,[]
-WSH,20061128,"[(""MISS Butler 25' 3PT Jump Shot"", 23.2), (""MISS Smith 26' 3PT Jump Shot"", 24.9), (""MISS Jamison 5' Jump Shot"", 20.9), (""Butler 1' Driving Layup (20 PTS) (Daniels 4 AST)"", 26.4), (""MISS Smith 24' 3PT Jump Shot"", 59.3), (""'Hawks Rebound'"", 20.7), (""MISS Johnson 20' Jump Shot"", 76.5)]"
-NJ,20061128,"[(""MISS Kidd 25' 3PT Jump Shot"", 20.9), (""'MISS Carter  Driving Layup'"", 23.5), (""MISS Carter 24' 3PT Jump Shot"", 51.0)]"
-NO,20061128,[]
+UTA,20061127,[]
+GSW,20061127,[]
+WAS,20061128,"[(""MISS Butler 25' 3PT Jump Shot"", 23.2), (""MISS Smith 26' 3PT Jump Shot"", 24.9), (""MISS Jamison 5' Jump Shot"", 20.9), (""Butler 1' Driving Layup (20 PTS) (Daniels 4 AST)"", 26.4), (""MISS Smith 24' 3PT Jump Shot"", 59.3), (""'Hawks Rebound'"", 20.7), (""MISS Johnson 20' Jump Shot"", 76.5)]"
+NJN,20061128,"[(""MISS Kidd 25' 3PT Jump Shot"", 20.9), (""'MISS Carter  Driving Layup'"", 23.5), (""MISS Carter 24' 3PT Jump Shot"", 51.0)]"
+NOK,20061128,[]
 CHI,20061128,[]
 HOU,20061128,"[(""Battier 25' 3PT Jump Shot (14 PTS) (Alston 6 AST)"", 21.7), (""Battier 25' 3PT Jump Shot (17 PTS) (Alston 7 AST)"", 22.1)]"
 DEN,20061128,[]
@@ -215,61 +215,61 @@ ATL,20061129,[]
 CLE,20061129,"[(""MISS Jones 25' 3PT Jump Shot"", 25.1), (""Crawford 24' 3PT Jump Shot (11 PTS) (Francis 7 AST)"", 27.1), (""Jones 25' 3PT Jump Shot (6 PTS)"", 21.1), (""James 1' Driving Layup (27 PTS)"", 22.7), (""Curry 1' Slam Dunk (23 PTS) (Crawford 3 AST)"", 29.8), (""MISS Marshall 25' 3PT Jump Shot"", 43.0)]"
 BOS,20061129,"[(""MISS Krstic 2' Layup"", 20.3), (""Pierce 16' Jump Shot (31 PTS) (Gomes 6 AST)"", 22.6), (""Jefferson 25' 3PT Jump Shot (18 PTS) (Kidd 9 AST)"", 36.9), (""MISS Telfair 19' Jump Shot"", 28.2), (""MISS Carter 4' Jump Shot"", 23.4), (""MISS Pierce 24' 3PT Jump Shot"", 53.1)]"
 DAL,20061129,[]
-UTAH,20061129,[]
-PHX,20061129,[]
+UTA,20061129,[]
+PHO,20061129,[]
 SEA,20061129,[]
 LAC,20061129,[]
-GS,20061129,"[(""MISS Jackson 26' 3PT Jump Shot"", 21.3), (""MISS Davis 12' Turnaround Jump Shot"", 21.5), (""'Tinsley REBOUND (Off:2 Def:6)'"", 20.1), (""'MISS Granger  3PT Jump Shot'"", 86.5), (""Jackson 26' 3PT Jump Shot (13 PTS)"", 86.7)]"
+GSW,20061129,"[(""MISS Jackson 26' 3PT Jump Shot"", 21.3), (""MISS Davis 12' Turnaround Jump Shot"", 21.5), (""'Tinsley REBOUND (Off:2 Def:6)'"", 20.1), (""'MISS Granger  3PT Jump Shot'"", 86.5), (""Jackson 26' 3PT Jump Shot (13 PTS)"", 86.7)]"
 MIA,20061130,"[(""Posey 26' 3PT Jump Shot (9 PTS)"", 20.9), (""MISS Hamilton 19' Turnaround Jump Shot"", 20.4), (""MISS Wade 18' Fadeaway Jumper"", 26.6), (""MISS Prince 5' Hook Shot"", 22.4), (""MISS Billups 17' Jump Shot"", 23.7), (""MISS Wade 19' Jump Shot"", 76.5)]"
 LAL,20061130,[]
 TOR,20061201,"[(""MISS Szczerbiak 25' 3PT Jump Shot"", 22.5)]"
-WSH,20061201,[]
+WAS,20061201,[]
 ATL,20061201,[]
 DET,20061201,[]
-NO,20061201,[]
+NOK,20061201,[]
 MIN,20061201,[]
 DAL,20061201,[]
-PHX,20061201,[]
+PHO,20061201,[]
 POR,20061201,"[(""'MISS Milicic  Layup'"", 20.2), (""MISS Randolph 19' Jump Shot"", 22.5), (""MISS Milicic 6' Jump Shot"", 24.0), (""Outlaw 12' Jump Shot (13 PTS) (Jack 5 AST)"", 26.4), (""MISS Hill 7' Jump Shot"", 24.2), (""MISS Dixon 22' Jump Shot"", 35.8), (""'Randolph REBOUND (Off:7 Def:6)'"", 24.2), (""MISS Rodriguez 6' Running Jump Shot"", 43.9), (""'Hill  Alley Oop Layup (16 PTS) (Turkoglu 4 AST)'"", 48.0)]"
 SEA,20061201,"[(""MISS Allen 15' Jump Shot"", 20.2), (""MISS Lewis 5' Jump Shot"", 21.1), (""O'Neal 13' Fadeaway Jumper (11 PTS) (Jackson 1 AST)"", 28.0), (""Ridnour 27' 3PT Jump Shot (15 PTS) (Lewis 4 AST)"", 48.0), (""'MISS Jackson  3PT Jump Shot'"", 47.1), (""MISS Jackson 21' Jump Shot"", 26.1), (""O'Neal 17' Jump Shot (13 PTS) (Jackson 2 AST)"", 33.9), (""Ridnour 3' Running Jump Shot (17 PTS)"", 48.0)]"
-NJ,20061202,[]
-NY,20061202,"[(""MISS Garbajosa 25' 3PT Jump Shot"", 27.2), (""MISS Crawford 24' 3PT Jump Shot"", 38.1), (""'Ford  Driving Layup (18 PTS)'"", 22.0), (""MISS Richardson 25' 3PT Jump Shot"", 32.4)]"
+NJN,20061202,[]
+NYK,20061202,"[(""MISS Garbajosa 25' 3PT Jump Shot"", 27.2), (""MISS Crawford 24' 3PT Jump Shot"", 38.1), (""'Ford  Driving Layup (18 PTS)'"", 22.0), (""MISS Richardson 25' 3PT Jump Shot"", 32.4)]"
 MEM,20061202,"[(""MISS Miller 28' 3PT Jump Shot"", 24.1), (""Atkins 25' 3PT Jump Shot (15 PTS)"", 32.3), (""MISS Jones 4' Jump Shot"", 24.1), (""MISS Wade 16' Jump Shot"", 21.1), (""Atkins 27' 3PT Jump Shot (18 PTS)"", 42.6), (""MISS Wade 15' Jump Shot"", 48.9), (""Posey 26' 3PT Jump Shot (6 PTS) (Williams 14 AST)"", 94.2)]"
-SA,20061202,"[(""MISS Miller 25' 3PT Jump Shot"", 23.9), (""Miller 7' Jump Shot (4 PTS) (Salmons 4 AST)"", 23.0), (""Bowen 24' 3PT Jump Shot (23 PTS) (Duncan 6 AST)"", 37.0), (""Duncan 7' Jump Bank Shot (16 PTS) (Parker 8 AST)"", 22.0), (""MISS Bibby 27' 3PT Jump Shot"", 32.4), (""MISS Bibby 43' 3PT Jump Shot"", 94.2)]"
+SAS,20061202,"[(""MISS Miller 25' 3PT Jump Shot"", 23.9), (""Miller 7' Jump Shot (4 PTS) (Salmons 4 AST)"", 23.0), (""Bowen 24' 3PT Jump Shot (23 PTS) (Duncan 6 AST)"", 37.0), (""Duncan 7' Jump Bank Shot (16 PTS) (Parker 8 AST)"", 22.0), (""MISS Bibby 27' 3PT Jump Shot"", 32.4), (""MISS Bibby 43' 3PT Jump Shot"", 94.2)]"
 CHI,20061202,[]
 HOU,20061202,[]
 DEN,20061202,[]
-UTAH,20061202,"[(""Okur 25' 3PT Jump Shot (9 PTS) (D. Williams 8 AST)"", 24.7), (""Lewis 25' 3PT Jump Shot (25 PTS) (Allen 2 AST)"", 34.2), (""'MISS Harpring  3PT Jump Shot'"", 45.0), (""MISS Lewis 21' Jump Shot"", 23.7), (""MISS D. Williams 16' Jump Shot"", 41.1), (""'Boozer REBOUND (Off:1 Def:7)'"", 20.5), (""'Boozer  Layup (24 PTS)'"", 43.6), (""'Allen  Driving Layup (33 PTS)'"", 51.0), (""'Okur  3PT Jump Shot (12 PTS) (D. Williams 9 AST)'"", 86.7), (""MISS Allen 27' 3PT Jump Shot"", 94.2)]"
+UTA,20061202,"[(""Okur 25' 3PT Jump Shot (9 PTS) (D. Williams 8 AST)"", 24.7), (""Lewis 25' 3PT Jump Shot (25 PTS) (Allen 2 AST)"", 34.2), (""'MISS Harpring  3PT Jump Shot'"", 45.0), (""MISS Lewis 21' Jump Shot"", 23.7), (""MISS D. Williams 16' Jump Shot"", 41.1), (""'Boozer REBOUND (Off:1 Def:7)'"", 20.5), (""'Boozer  Layup (24 PTS)'"", 43.6), (""'Allen  Driving Layup (33 PTS)'"", 51.0), (""'Okur  3PT Jump Shot (12 PTS) (D. Williams 9 AST)'"", 86.7), (""MISS Allen 27' 3PT Jump Shot"", 94.2)]"
 LAC,20061202,[]
-GS,20061202,"[(""Ellis 28' 3PT Jump Shot (19 PTS) (Davis 11 AST)"", 25.1), (""MISS Ellis 6' Jump Shot"", 21.0), (""Williams 17' Jump Shot (9 PTS) (Bell 5 AST)"", 28.7), (""MISS Davis 27' 3PT Jump Shot"", 49.0), (""'MISS Bell  3PT Jump Shot'"", 28.4), (""'Redd REBOUND (Off:3 Def:3)'"", 20.8)]"
+GSW,20061202,"[(""Ellis 28' 3PT Jump Shot (19 PTS) (Davis 11 AST)"", 25.1), (""MISS Ellis 6' Jump Shot"", 21.0), (""Williams 17' Jump Shot (9 PTS) (Bell 5 AST)"", 28.7), (""MISS Davis 27' 3PT Jump Shot"", 49.0), (""'MISS Bell  3PT Jump Shot'"", 28.4), (""'Redd REBOUND (Off:3 Def:3)'"", 20.8)]"
 PHI,20061203,[]
 CHA,20061203,[]
 POR,20061203,[]
 LAC,20061203,[]
-WSH,20061204,[]
-NY,20061204,[]
-SA,20061204,[]
+WAS,20061204,[]
+NYK,20061204,[]
+SAS,20061204,[]
 CHI,20061204,[]
-UTAH,20061204,[]
+UTA,20061204,[]
 SAC,20061204,"[(""MISS Miller 24' 3PT Jump Shot"", 21.1), (""Miller 5' Jump Shot (14 PTS) (Bibby 7 AST)"", 26.2), (""Nelson 26' 3PT Jump Shot (14 PTS)"", 49.4), (""MISS Bibby 29' 3PT Jump Shot"", 48.7)]"
 LAL,20061204,[]
-NJ,20061205,[]
+NJN,20061205,[]
 DET,20061205,"[(""MISS Billups 26' 3PT Jump Shot"", 23.9), (""MISS Dixon 19' Jump Shot"", 22.1), (""Billups 22' Jump Shot (17 PTS)"", 32.6), (""Randolph 7' Jump Bank Shot (31 PTS)"", 36.2), (""'MISS Hamilton  Layup'"", 38.5), (""'PISTONS Rebound'"", 20.6), (""MISS Hamilton 26' 3PT Jump Shot"", 78.8), (""MISS Hamilton 24' 3PT Jump Shot"", 44.3)]"
 HOU,20061205,[]
-PHX,20061205,[]
+PHO,20061205,[]
 SEA,20061205,[]
 LAC,20061205,"[(""MISS Mobley 24' 3PT Jump Shot"", 28.5), (""Brand 11' Jump Shot (31 PTS) (Cassell 8 AST)"", 22.4)]"
 CHA,20061206,[]
 CLE,20061206,"[(""MISS Jones 24' 3PT Jump Shot"", 21.2), (""MISS Bargnani 25' 3PT Jump Shot"", 24.0), (""Marshall 25' 3PT Jump Shot (19 PTS) (James 10 AST)"", 28.6)]"
 IND,20061206,[]
 BOS,20061206,"[(""Atkins 20' Jump Shot (19 PTS)"", 34.5), (""'Pierce Free Throw 1 of 2 (24 PTS)'"", 23.5), (""'Pierce Free Throw 2 of 2 (25 PTS)'"", 25.6), (""Gay 15' Jump Shot (8 PTS) (Miller 8 AST)"", 45.0), (""MISS Telfair 29' 3PT Jump Shot"", 81.3)]"
-NY,20061206,[]
+NYK,20061206,[]
 MIL,20061206,"[(""Jack 27' 3PT Jump Shot (25 PTS) (Webster 3 AST)"", 20.3), (""Udoka 24' 3PT Jump Shot (9 PTS) (Jack 10 AST)"", 27.7), (""MISS Redd 9' Jump Shot"", 24.7), (""'MISS Williams  Layup'"", 25.8), (""MISS Randolph 19' Jump Shot"", 30.4), (""'Aldridge REBOUND (Off:2 Def:0)'"", 20.4), (""MISS Jack 26' 3PT Jump Shot"", 42.5), (""'Bogut REBOUND (Off:3 Def:9)'"", 20.9), (""MISS Bell 28' 3PT Jump Shot"", 46.0), (""'Aldridge REBOUND (Off:2 Def:1)'"", 24.1), (""MISS Randolph 6' Jump Shot"", 48.0), (""''"", 50.0)]"
 MIN,20061206,"[(""MISS Alston 25' 3PT Jump Shot"", 33.9)]"
 CHI,20061206,[]
 DEN,20061206,"[(""Johnson 27' 3PT Jump Shot (27 PTS) (Smith 4 AST)"", 22.6), (""MISS Johnson 24' 3PT Jump Shot"", 22.6), (""MISS Lue 25' 3PT Jump Shot"", 30.1), (""MISS Miller 27' 3PT Jump Shot"", 26.5), (""Stoudamire 9' Running Jump Shot (19 PTS)"", 22.8), (""Miller 13' Jump Shot (10 PTS)"", 25.1), (""MISS Johnson 21' Jump Shot"", 28.3), (""'Stoudamire  Alley Oop Layup (21 PTS) (Smith 5 AST)'"", 24.5), (""'MISS Anthony  Layup'"", 34.0), (""'Shel. Williams REBOUND (Off:1 Def:2)'"", 22.4), (""MISS Miller 8' Jump Shot"", 42.6), (""'MISS Camby  Tip Shot'"", 48.0), (""'MISS Camby  Layup'"", 48.0)]"
 LAL,20061206,[]
-NJ,20061207,"[(""Bell 24' 3PT Jump Shot (21 PTS) (Diaw 11 AST)"", 20.4), (""Marion 25' 3PT Jump Shot (27 PTS) (Stoudemire 2 AST)"", 26.4), (""Kidd 25' 3PT Jump Shot (25 PTS) (Carter 9 AST)"", 27.4), (""MISS Nash 24' 3PT Jump Shot"", 31.2), (""MISS Williams 9' Running Jump Shot"", 20.2), (""'MISS Carter  Layup'"", 28.3), (""Diaw 7' Hook Shot (9 PTS)"", 32.8), (""'Carter  Driving Layup (29 PTS) (Kidd 11 AST)'"", 35.6), (""'MISS Bell  3PT Jump Shot'"", 69.9), (""Nash 29' 3PT Jump Shot (30 PTS) (Diaw 12 AST)"", 43.0), (""MISS Kidd 41' 3PT Jump Shot"", 50.2), (""''"", 50.0)]"
+NJN,20061207,"[(""Bell 24' 3PT Jump Shot (21 PTS) (Diaw 11 AST)"", 20.4), (""Marion 25' 3PT Jump Shot (27 PTS) (Stoudemire 2 AST)"", 26.4), (""Kidd 25' 3PT Jump Shot (25 PTS) (Carter 9 AST)"", 27.4), (""MISS Nash 24' 3PT Jump Shot"", 31.2), (""MISS Williams 9' Running Jump Shot"", 20.2), (""'MISS Carter  Layup'"", 28.3), (""Diaw 7' Hook Shot (9 PTS)"", 32.8), (""'Carter  Driving Layup (29 PTS) (Kidd 11 AST)'"", 35.6), (""'MISS Bell  3PT Jump Shot'"", 69.9), (""Nash 29' 3PT Jump Shot (30 PTS) (Diaw 12 AST)"", 43.0), (""MISS Kidd 41' 3PT Jump Shot"", 50.2), (""''"", 50.0)]"
 DAL,20061207,[]
 SAC,20061207,"[(""'Miller Free Throw 1 of 2 (12 PTS)'"", 25.1), (""'Miller Free Throw 2 of 2 (13 PTS)'"", 28.2), (""MISS Wade 19' Jump Shot"", 48.0), (""''"", 50.0)]"
 CHA,20061208,[]
@@ -277,22 +277,22 @@ ORL,20061208,"[(""MISS Wallace 28' 3PT Jump Shot"", 30.9), (""Hamilton 15' Jump 
 IND,20061208,[]
 BOS,20061208,"[(""'Marion  3PT Jump Shot (25 PTS) (Stoudemire 1 AST)'"", 23.4)]"
 PHI,20061208,[]
-SA,20061208,[]
+SAS,20061208,[]
 MIN,20061208,[]
 CHI,20061208,"[(""'Parker  3PT Jump Shot (7 PTS) (Ford 6 AST)'"", 21.3), (""Gordon 17' Jump Shot (13 PTS) (Duhon 6 AST)"", 21.4), (""MISS Peterson 25' 3PT Jump Shot"", 38.7), (""MISS Ford 25' 3PT Jump Shot"", 48.7)]"
 MIL,20061208,[]
 DEN,20061208,[]
 LAL,20061208,[]
 SEA,20061208,[]
-WSH,20061209,"[(""Yao 11' Jump Shot (38 PTS) (Battier 2 AST)"", 21.1), (""MISS Arenas 24' 3PT Jump Shot"", 37.0)]"
+WAS,20061209,"[(""Yao 11' Jump Shot (38 PTS) (Battier 2 AST)"", 21.1), (""MISS Arenas 24' 3PT Jump Shot"", 37.0)]"
 ORL,20061209,"[(""MISS Dooling 21' Jump Shot"", 23.6), (""'MISS Webber  Layup'"", 43.6), (""'MAGIC Rebound'"", 20.1), (""MISS Ollie 17' Jump Shot"", 42.0)]"
-NJ,20061209,"[(""West 24' 3PT Jump Shot (16 PTS) (Telfair 4 AST)"", 20.1), (""MISS Jefferson 24' 3PT Jump Shot"", 26.5), (""MISS Kidd 25' 3PT Jump Shot"", 30.0), (""'Jefferson  Layup (28 PTS) (Pierce 4 AST)'"", 22.5), (""'MISS Carter  Layup'"", 23.4), (""Carter 9' Running Jump Shot (19 PTS)"", 24.5), (""MISS Telfair 9' Running Jump Shot"", 32.4), (""'Kidd REBOUND (Off:3 Def:6)'"", 21.3), (""MISS House 24' 3PT Jump Shot"", 46.4), (""'Allen REBOUND (Off:1 Def:2)'"", 23.8), (""Pierce 22' Jump Shot (17 PTS)"", 43.9)]"
-NY,20061209,[]
+NJN,20061209,"[(""West 24' 3PT Jump Shot (16 PTS) (Telfair 4 AST)"", 20.1), (""MISS Jefferson 24' 3PT Jump Shot"", 26.5), (""MISS Kidd 25' 3PT Jump Shot"", 30.0), (""'Jefferson  Layup (28 PTS) (Pierce 4 AST)'"", 22.5), (""'MISS Carter  Layup'"", 23.4), (""Carter 9' Running Jump Shot (19 PTS)"", 24.5), (""MISS Telfair 9' Running Jump Shot"", 32.4), (""'Kidd REBOUND (Off:3 Def:6)'"", 21.3), (""MISS House 24' 3PT Jump Shot"", 46.4), (""'Allen REBOUND (Off:1 Def:2)'"", 23.8), (""Pierce 22' Jump Shot (17 PTS)"", 43.9)]"
+NYK,20061209,[]
 CLE,20061209,[]
 MEM,20061209,[]
 CHI,20061209,[]
 DAL,20061209,[]
-GS,20061209,[]
+GSW,20061209,[]
 TOR,20061210,[]
 CHA,20061210,[]
 SAC,20061210,[]
@@ -300,53 +300,53 @@ SEA,20061210,"[(""'MISS Pietrus  3PT Jump Shot'"", 20.8)]"
 LAL,20061210,[]
 PHI,20061211,"[(""Dixon 6' Running Jump Shot (15 PTS) (Jack 3 AST)"", 21.6), (""MISS Ollie 12' Jump Shot"", 27.0), (""'MISS Iguodala  Layup'"", 27.5), (""MISS Dixon 20' Jump Shot"", 32.0), (""'Randolph REBOUND (Off:4 Def:6)'"", 21.2), (""Webber 26' 3PT Jump Shot (9 PTS) (Korver 5 AST)"", 33.9), (""'Randolph  Driving Layup (18 PTS) (Jack 4 AST)'"", 45.0), (""MISS Iguodala 39' 3PT Jump Shot"", 81.3)]"
 ORL,20061211,[]
-NJ,20061211,[]
-NY,20061211,[]
+NJN,20061211,[]
+NYK,20061211,[]
 MIA,20061211,[]
-NO,20061211,"[(""Gibson 25' 3PT Jump Shot (14 PTS) (Snow 7 AST)"", 23.4), (""'MISS James  Layup'"", 20.6), (""Paul 16' Jump Shot (28 PTS)"", 22.2), (""MISS Marshall 16' Jump Shot"", 20.7), (""'MISS Marshall  3PT Jump Shot'"", 20.3)]"
+NOK,20061211,"[(""Gibson 25' 3PT Jump Shot (14 PTS) (Snow 7 AST)"", 23.4), (""'MISS James  Layup'"", 20.6), (""Paul 16' Jump Shot (28 PTS)"", 22.2), (""MISS Marshall 16' Jump Shot"", 20.7), (""'MISS Marshall  3PT Jump Shot'"", 20.3)]"
 CHI,20061211,[]
-UTAH,20061211,[]
+UTA,20061211,[]
 LAC,20061211,[]
 ATL,20061212,[]
 MIL,20061212,"[(""MISS Redd 19' Jump Shot"", 22.5), (""MISS Collison 6' Jump Shot"", 33.7), (""MISS Ridnour 22' Jump Shot"", 93.4)]"
 HOU,20061212,[]
-GS,20061212,[]
+GSW,20061212,[]
 PHI,20061213,[]
-WSH,20061213,[]
+WAS,20061213,[]
 ORL,20061213,[]
 MIA,20061213,[]
 CLE,20061213,[]
 IND,20061213,[]
-NJ,20061213,[]
-NY,20061213,[]
+NJN,20061213,[]
+NYK,20061213,[]
 MEM,20061213,"[(""'MISS Gay  Layup'"", 25.4), (""Udoka 20' Jump Shot (15 PTS) (Jack 6 AST)"", 27.6), (""'MISS Gay  Layup'"", 30.4), (""MISS Stoudamire 6' Jump Shot"", 32.8), (""MISS Dixon 5' Jump Shot"", 23.2), (""'Gay REBOUND (Off:1 Def:2)'"", 20.2)]"
-SA,20061213,[]
+SAS,20061213,[]
 CHI,20061213,[]
 DAL,20061213,[]
 LAC,20061213,[]
 CHA,20061214,[]
-NO,20061214,[]
-GS,20061214,"[(""Alston 28' 3PT Jump Shot (19 PTS)"", 20.8), (""Battier 24' 3PT Jump Shot (12 PTS) (Alston 8 AST)"", 26.6), (""MISS Davis 26' 3PT Jump Shot"", 21.3), (""MISS Barnes 26' 3PT Jump Shot"", 21.4), (""Davis 29' 3PT Jump Shot (34 PTS)"", 86.7), (""MISS Yao 28' 3PT Turnaround Jump Shot"", 94.2)]"
+NOK,20061214,[]
+GSW,20061214,"[(""Alston 28' 3PT Jump Shot (19 PTS)"", 20.8), (""Battier 24' 3PT Jump Shot (12 PTS) (Alston 8 AST)"", 26.6), (""MISS Davis 26' 3PT Jump Shot"", 21.3), (""MISS Barnes 26' 3PT Jump Shot"", 21.4), (""Davis 29' 3PT Jump Shot (34 PTS)"", 86.7), (""MISS Yao 28' 3PT Turnaround Jump Shot"", 94.2)]"
 TOR,20061215,[]
-WSH,20061215,[]
+WAS,20061215,[]
 IND,20061215,[]
 BOS,20061215,[]
 CLE,20061215,[]
 MEM,20061215,[]
 DAL,20061215,[]
 CHI,20061215,[]
-UTAH,20061215,"[(""Abdur-Rahim 24' 3PT Jump Shot (21 PTS) (World Peace 4 AST)"", 40.3), (""MISS Boozer 7' Jump Shot"", 31.6), (""MISS Martin 20' Jump Shot"", 23.0), (""'Kirilenko REBOUND (Off:3 Def:8)'"", 20.5), (""'MISS Fisher  3PT Jump Shot'"", 68.1), (""MISS D. Williams 25' 3PT Jump Shot"", 86.7)]"
-PHX,20061215,"[(""Davis 25' 3PT Jump Shot (18 PTS)"", 20.2), (""MISS Davis 26' 3PT Jump Shot"", 24.4)]"
+UTA,20061215,"[(""Abdur-Rahim 24' 3PT Jump Shot (21 PTS) (World Peace 4 AST)"", 40.3), (""MISS Boozer 7' Jump Shot"", 31.6), (""MISS Martin 20' Jump Shot"", 23.0), (""'Kirilenko REBOUND (Off:3 Def:8)'"", 20.5), (""'MISS Fisher  3PT Jump Shot'"", 68.1), (""MISS D. Williams 25' 3PT Jump Shot"", 86.7)]"
+PHO,20061215,"[(""Davis 25' 3PT Jump Shot (18 PTS)"", 20.2), (""MISS Davis 26' 3PT Jump Shot"", 24.4)]"
 POR,20061215,[]
 LAL,20061215,"[(""Parker 24' 3PT Jump Shot (10 PTS) (Bryant 6 AST)"", 31.7), (""'Head  Reverse Layup (7 PTS) (Yao 4 AST)'"", 23.0), (""'Parker  Layup (12 PTS) (Bryant 7 AST)'"", 24.7), (""MISS Yao 11' Turnaround Jump Shot"", 26.6), (""Yao 11' Turnaround Jump Shot (31 PTS) (Alston 8 AST)"", 26.0), (""MISS Bryant 15' Jump Shot"", 42.9), (""MISS Brown 42' 3PT Jump Shot"", 50.2), (""''"", 50.0)]"
 CHA,20061216,"[(""MISS Anderson 20' Jump Shot"", 21.6), (""MISS Morrison 6' Jump Shot"", 25.2), (""Pierce 16' Fadeaway Jumper (33 PTS)"", 23.4)]"
 ATL,20061216,"[(""MISS Williams 27' 3PT Jump Shot"", 45.4), (""'Deng REBOUND (Off:0 Def:6)'"", 23.5), (""MISS Gordon 19' Jump Shot"", 48.0), (""''"", 50.0)]"
 ORL,20061216,[]
-NY,20061216,[]
+NYK,20061216,[]
 MIA,20061216,[]
-NJ,20061216,"[(""Kidd 24' 3PT Jump Shot (13 PTS) (Jefferson 8 AST)"", 23.9), (""Hamilton 9' Jump Shot (24 PTS) (Billups 11 AST)"", 23.1), (""MISS Carter 5' Running Jump Shot"", 20.6), (""MISS Kidd 25' 3PT Jump Shot"", 20.8)]"
-NO,20061216,[]
-SA,20061216,"[(""Ginobili 25' 3PT Jump Shot (12 PTS) (Duncan 6 AST)"", 24.9)]"
+NJN,20061216,"[(""Kidd 24' 3PT Jump Shot (13 PTS) (Jefferson 8 AST)"", 23.9), (""Hamilton 9' Jump Shot (24 PTS) (Billups 11 AST)"", 23.1), (""MISS Carter 5' Running Jump Shot"", 20.6), (""MISS Kidd 25' 3PT Jump Shot"", 20.8)]"
+NOK,20061216,[]
+SAS,20061216,"[(""Ginobili 25' 3PT Jump Shot (12 PTS) (Duncan 6 AST)"", 24.9)]"
 MIL,20061216,"[(""MISS Bell 25' 3PT Jump Shot"", 26.0), (""MISS Redd 14' Jump Shot"", 20.5), (""'Bogut  Dunk (16 PTS)'"", 20.5), (""MISS Williams 19' Jump Shot"", 22.5), (""'Bell  Layup (15 PTS)'"", 23.6)]"
 SAC,20061216,[]
 TOR,20061217,[]
@@ -354,22 +354,22 @@ IND,20061217,[]
 LAC,20061217,[]
 DET,20061217,"[(""'Gelabale  Layup (6 PTS) (Lewis 5 AST)'"", 23.1), (""'Hamilton  Driving Layup (24 PTS) (Billups 7 AST)'"", 29.5), (""Maxiell 11' Jump Shot (17 PTS) (Billups 8 AST)"", 41.2)]"
 LAL,20061217,"[(""Cook 24' 3PT Jump Shot (3 PTS) (Bryant 8 AST)"", 38.7), (""MISS Arenas 20' Jump Shot"", 48.0), (""''"", 50.0)]"
-NJ,20061218,[]
-NY,20061218,"[(""MISS Boozer 8' Jump Shot"", 22.0), (""MISS Okur 26' 3PT Jump Shot"", 43.1), (""D. Williams 25' 3PT Jump Shot (18 PTS)"", 35.0), (""MISS Crawford 26' 3PT Jump Shot"", 49.4), (""''"", 50.0)]"
+NJN,20061218,[]
+NYK,20061218,"[(""MISS Boozer 8' Jump Shot"", 22.0), (""MISS Okur 26' 3PT Jump Shot"", 43.1), (""D. Williams 25' 3PT Jump Shot (18 PTS)"", 35.0), (""MISS Crawford 26' 3PT Jump Shot"", 49.4), (""''"", 50.0)]"
 MIA,20061218,"[(""MISS Paul 19' Jump Shot"", 25.1), (""MISS Butler 24' 3PT Jump Shot"", 39.7), (""MISS Pargo 9' Jump Shot"", 34.2), (""'Paul  Driving Layup (26 PTS)'"", 26.5), (""Wade 18' Jump Bank Shot (29 PTS)"", 43.9), (""MISS Pargo 31' 3PT Jump Shot"", 94.2)]"
 MEM,20061218,"[(""Miller 31' 3PT Jump Shot (22 PTS) (Atkins 5 AST)"", 22.9), (""MISS Watson 26' 3PT Jump Shot"", 31.7), (""MISS Ridnour 21' Jump Shot"", 20.2), (""MISS Atkins 26' 3PT Jump Shot"", 27.5), (""MISS Jones 17' Jump Shot"", 22.4), (""Lewis 7' Jump Bank Shot (30 PTS)"", 32.3), (""MISS Gay 16' Jump Shot"", 35.9), (""Atkins 27' 3PT Jump Shot (19 PTS) (Jones 4 AST)"", 56.2), (""MISS Lewis 16' Running Jump Shot"", 37.8), (""Lewis 6' Jump Bank Shot (32 PTS)"", 42.6), (""MISS Miller 21' Jump Shot"", 48.0), (""''"", 50.0)]"
 DEN,20061218,[]
 SAC,20061218,[]
 CHI,20061219,"[(""MISS Evans 26' 3PT Jump Shot"", 25.6)]"
-PHX,20061219,[]
+PHO,20061219,[]
 PHI,20061220,[]
 ATL,20061220,"[(""Okur 26' 3PT Jump Shot (26 PTS) (D. Williams 8 AST)"", 32.6), (""'MISS Williams  Driving Layup'"", 23.1), (""Okur 24' 3PT Jump Shot (30 PTS) (D. Williams 9 AST)"", 29.2)]"
 ORL,20061220,"[(""MISS Butler 27' 3PT Jump Shot"", 38.7)]"
 BOS,20061220,"[(""West 25' 3PT Jump Shot (10 PTS) (Allen 2 AST)"", 20.9), (""MISS Dunleavy 25' 3PT Jump Shot"", 27.7), (""Davis 16' Fadeaway Jumper (31 PTS)"", 21.3), (""MISS Richardson 25' 3PT Jump Shot"", 29.2)]"
-NY,20061220,"[(""MISS Crawford 25' 3PT Jump Shot"", 21.5), (""MISS Marbury 24' 3PT Jump Shot"", 32.9), (""MISS Morrison 25' 3PT Jump Shot"", 35.2), (""'Wallace  Layup (23 PTS) (Okafor 2 AST)'"", 27.7), (""Frye 7' Hook Shot (26 PTS)"", 24.9), (""MISS Wallace 24' 3PT Jump Shot"", 44.7), (""'Curry REBOUND (Off:6 Def:3)'"", 22.4), (""MISS Crawford 23' Jump Shot"", 48.0), (""''"", 50.0)]"
-NJ,20061220,[]
+NYK,20061220,"[(""MISS Crawford 25' 3PT Jump Shot"", 21.5), (""MISS Marbury 24' 3PT Jump Shot"", 32.9), (""MISS Morrison 25' 3PT Jump Shot"", 35.2), (""'Wallace  Layup (23 PTS) (Okafor 2 AST)'"", 27.7), (""Frye 7' Hook Shot (26 PTS)"", 24.9), (""MISS Wallace 24' 3PT Jump Shot"", 44.7), (""'Curry REBOUND (Off:6 Def:3)'"", 22.4), (""MISS Crawford 23' Jump Shot"", 48.0), (""''"", 50.0)]"
+NJN,20061220,[]
 MIL,20061220,[]
-SA,20061220,"[(""MISS Miller 26' 3PT Jump Shot"", 32.8)]"
+SAS,20061220,"[(""MISS Miller 26' 3PT Jump Shot"", 32.8)]"
 MIN,20061220,[]
 DEN,20070205,[]
 POR,20061220,"[(""MISS Head 13' Jump Shot"", 24.7)]"
@@ -379,77 +379,77 @@ CLE,20061221,[]
 SAC,20061221,[]
 CHA,20061222,[]
 ORL,20061222,[]
-NJ,20061222,"[(""MISS Carter 27' 3PT Jump Shot"", 40.8)]"
-NY,20061222,[]
+NJN,20061222,"[(""MISS Carter 27' 3PT Jump Shot"", 40.8)]"
+NYK,20061222,[]
 ATL,20061222,[]
 BOS,20061222,[]
-NO,20061222,"[(""MISS Butler 24' 3PT Jump Shot"", 31.0), (""MISS Paul 24' 3PT Jump Shot"", 31.9), (""MISS Miller 7' Jump Shot"", 23.5), (""Butler 13' Jump Shot (10 PTS)"", 24.1), (""'Gasol  Dunk (26 PTS)'"", 22.3), (""MISS Miller 25' 3PT Jump Shot"", 43.1), (""'Stoudamire REBOUND (Off:1 Def:0)'"", 21.3), (""MISS Stoudamire 18' Jump Shot"", 35.2), (""'Cardinal REBOUND (Off:1 Def:2)'"", 24.2), (""'MISS Cardinal  Layup'"", 36.8), (""'Jackson REBOUND (Off:2 Def:7)'"", 23.8), (""'Paul  Layup (15 PTS)'"", 41.2), (""'Gasol  Layup (28 PTS)'"", 48.0), (""''"", 50.0)]"
-SA,20061222,[]
+NOK,20061222,"[(""MISS Butler 24' 3PT Jump Shot"", 31.0), (""MISS Paul 24' 3PT Jump Shot"", 31.9), (""MISS Miller 7' Jump Shot"", 23.5), (""Butler 13' Jump Shot (10 PTS)"", 24.1), (""'Gasol  Dunk (26 PTS)'"", 22.3), (""MISS Miller 25' 3PT Jump Shot"", 43.1), (""'Stoudamire REBOUND (Off:1 Def:0)'"", 21.3), (""MISS Stoudamire 18' Jump Shot"", 35.2), (""'Cardinal REBOUND (Off:1 Def:2)'"", 24.2), (""'MISS Cardinal  Layup'"", 36.8), (""'Jackson REBOUND (Off:2 Def:7)'"", 23.8), (""'Paul  Layup (15 PTS)'"", 41.2), (""'Gasol  Layup (28 PTS)'"", 48.0), (""''"", 50.0)]"
+SAS,20061222,[]
 MIN,20061222,[]
 DAL,20061222,[]
 DEN,20061222,"[(""'MISS Johnson  3PT Jump Shot'"", 20.8)]"
 POR,20061222,"[(""Garbajosa 23' Jump Shot (10 PTS) (Parker 1 AST)"", 25.1), (""MISS Jack 19' Jump Shot"", 34.6), (""'Jones REBOUND (Off:0 Def:4)'"", 24.2), (""MISS Ford 11' Jump Bank Shot"", 48.0), (""''"", 50.0)]"
-PHX,20061222,"[(""MISS Diaw 24' 3PT Jump Shot"", 24.4), (""Nash 26' 3PT Jump Shot (32 PTS) (Diaw 11 AST)"", 24.9), (""Hayes 26' 3PT Jump Shot (8 PTS) (Stevenson 1 AST)"", 21.1), (""'Stoudemire  Reverse Dunk (12 PTS)'"", 23.3), (""MISS Nash 25' 3PT Jump Shot"", 29.3), (""'MISS Stoudemire  Tip Shot'"", 23.7), (""MISS Nash 27' 3PT Jump Shot"", 49.3), (""'MISS Marion  Layup'"", 48.0), (""'MISS Stoudemire  Layup'"", 48.0), (""''"", 50.0)]"
+PHO,20061222,"[(""MISS Diaw 24' 3PT Jump Shot"", 24.4), (""Nash 26' 3PT Jump Shot (32 PTS) (Diaw 11 AST)"", 24.9), (""Hayes 26' 3PT Jump Shot (8 PTS) (Stevenson 1 AST)"", 21.1), (""'Stoudemire  Reverse Dunk (12 PTS)'"", 23.3), (""MISS Nash 25' 3PT Jump Shot"", 29.3), (""'MISS Stoudemire  Tip Shot'"", 23.7), (""MISS Nash 27' 3PT Jump Shot"", 49.3), (""'MISS Marion  Layup'"", 48.0), (""'MISS Stoudemire  Layup'"", 48.0), (""''"", 50.0)]"
 IND,20061223,[]
 PHI,20061223,[]
 MIA,20061223,[]
 DET,20061223,[]
 CLE,20061223,"[(""James 24' 3PT Jump Shot (22 PTS) (Gooden 2 AST)"", 20.6)]"
 MEM,20061223,"[(""MISS Fisher 27' 3PT Jump Shot"", 20.3), (""MISS Okur 25' 3PT Jump Shot"", 23.2), (""MISS Okur 25' 3PT Jump Shot"", 34.2), (""Okur 27' 3PT Jump Shot (18 PTS) (D. Williams 9 AST)"", 45.8), (""'MISS Gasol  Layup'"", 36.5), (""MISS Cardinal 26' 3PT Jump Shot"", 78.8)]"
-NO,20061223,[]
+NOK,20061223,[]
 CHI,20061223,[]
 MIL,20061223,[]
 HOU,20061223,[]
 SEA,20061223,[]
 MIA,20061225,[]
-WSH,20061226,[]
+WAS,20061226,[]
 IND,20061226,"[(""MISS Tinsley 26' 3PT Jump Shot"", 30.8), (""MISS McGrady 24' 3PT Jump Shot"", 32.7), (""Harrington 2' Layup (23 PTS)"", 22.7), (""MISS Head 26' 3PT Jump Shot"", 40.8)]"
 DET,20061226,"[(""MISS Wallace 26' 3PT Jump Shot"", 20.2), (""'Jefferson  Driving Layup (17 PTS) (Moore 1 AST)'"", 20.7), (""MISS Billups 26' 3PT Jump Shot"", 36.2), (""MISS Wallace 13' Turnaround Jump Shot"", 32.8), (""MISS Kidd 19' Jump Shot"", 21.4), (""'Wallace REBOUND (Off:0 Def:5)'"", 20.1), (""'Billups Free Throw 1 of 2 (5 PTS)'"", 29.1), (""'Billups Free Throw 2 of 2 (6 PTS)'"", 26.9), (""MISS Carter 18' Jump Shot"", 78.5)]"
-SA,20061226,[]
+SAS,20061226,[]
 MIN,20061226,"[(""'Gordon  Driving Layup (27 PTS)'"", 32.7), (""Foye 7' Jump Bank Shot (25 PTS)"", 43.9), (""MISS Nocioni 6' Jump Shot"", 48.0)]"
 DAL,20061226,[]
 DEN,20061226,[]
-UTAH,20061226,[]
-PHX,20061226,[]
+UTA,20061226,[]
+PHO,20061226,[]
 SEA,20061226,"[(""MISS Pargo 25' 3PT Jump Shot"", 21.9), (""'MISS Butler  3PT Jump Shot'"", 20.3)]"
-GS,20061226,[]
+GSW,20061226,[]
 TOR,20061227,"[(""'Parker  3PT Fadeaway Jumper (17 PTS) (Ford 7 AST)'"", 26.9), (""'Nesterovic  Jump Hook Shot (10 PTS) (Bargnani 2 AST)'"", 21.6), (""MISS Foye 20' Jump Shot"", 20.5), (""'MISS Foye  Driving Layup'"", 23.5), (""'MISS James Free Throw 2 of 3'"", 22.0), (""MISS Garnett 26' 3PT Jump Shot"", 48.7)]"
 CHA,20061227,"[(""MISS Morrison 25' 3PT Jump Shot"", 22.1), (""Arenas 26' 3PT Jump Shot (35 PTS)"", 22.0), (""MISS Carroll 24' 3PT Jump Shot"", 20.9), (""'MISS Wallace  3PT Jump Shot'"", 20.3)]"
 ATL,20061227,[]
 ORL,20061227,[]
-NJ,20061227,[]
-NY,20061227,"[(""MISS Prince 24' 3PT Jump Shot"", 28.4), (""Frye 19' Jump Shot (16 PTS) (Marbury 8 AST)"", 27.9), (""MISS Hamilton 14' Jump Shot"", 30.6), (""MISS Billups 25' 3PT Jump Shot"", 51.0), (""'MISS Wallace  Follow Up Dunk'"", 33.5), (""MISS Hamilton 18' Jump Shot"", 37.3), (""'Crawford REBOUND (Off:0 Def:3)'"", 20.2), (""Delfino 25' 3PT Jump Shot (14 PTS) (Prince 3 AST)"", 38.7), (""MISS Crawford 17' Jump Shot"", 48.0), (""''"", 50.0)]"
+NJN,20061227,[]
+NYK,20061227,"[(""MISS Prince 24' 3PT Jump Shot"", 28.4), (""Frye 19' Jump Shot (16 PTS) (Marbury 8 AST)"", 27.9), (""MISS Hamilton 14' Jump Shot"", 30.6), (""MISS Billups 25' 3PT Jump Shot"", 51.0), (""'MISS Wallace  Follow Up Dunk'"", 33.5), (""MISS Hamilton 18' Jump Shot"", 37.3), (""'Crawford REBOUND (Off:0 Def:3)'"", 20.2), (""Delfino 25' 3PT Jump Shot (14 PTS) (Prince 3 AST)"", 38.7), (""MISS Crawford 17' Jump Shot"", 48.0), (""''"", 50.0)]"
 MEM,20061227,[]
 CHI,20061227,"[(""Williams 16' Jump Shot (28 PTS)"", 24.0), (""'Gordon  Layup (34 PTS) (Wallace 5 AST)'"", 26.2), (""MISS Kapono 26' 3PT Jump Shot"", 42.6)]"
 SAC,20061227,[]
 POR,20061227,[]
 LAC,20061227,[]
 DAL,20061228,"[(""Terry 25' 3PT Jump Shot (35 PTS) (Howard 2 AST)"", 29.2), (""MISS Terry 26' 3PT Jump Shot"", 27.2), (""'Stoudemire  Alley Oop Dunk (25 PTS) (Nash 12 AST)'"", 22.6), (""MISS Harris 16' Jump Shot"", 29.1), (""'Howard  Reverse Layup (16 PTS) (Terry 7 AST)'"", 34.2), (""'Marion  Layup (12 PTS) (Nash 13 AST)'"", 33.9), (""Nowitzki 19' Jump Shot (27 PTS) (Terry 8 AST)"", 43.9), (""MISS Stoudemire 22' Jump Shot"", 48.0)]"
-SA,20061228,[]
+SAS,20061228,[]
 DEN,20061228,[]
 TOR,20061229,[]
-WSH,20061229,"[(""MISS Howard 5' Jump Shot"", 23.8), (""MISS Arenas 2' Layup"", 25.8), (""MISS Dooling 28' 3PT Jump Shot"", 38.6), (""Butler 19' Jump Shot (20 PTS)"", 30.2), (""MISS Turkoglu 15' Jump Shot"", 26.2), (""MISS Dooling 16' Jump Shot"", 93.4)]"
+WAS,20061229,"[(""MISS Howard 5' Jump Shot"", 23.8), (""MISS Arenas 2' Layup"", 25.8), (""MISS Dooling 28' 3PT Jump Shot"", 38.6), (""Butler 19' Jump Shot (20 PTS)"", 30.2), (""MISS Turkoglu 15' Jump Shot"", 26.2), (""MISS Dooling 16' Jump Shot"", 93.4)]"
 CHA,20061229,"[(""Bryant 25' 3PT Jump Shot (45 PTS)"", 26.3), (""MISS Morrison 25' 3PT Jump Shot"", 25.3), (""MISS Bryant 11' Jump Shot"", 20.9), (""Parker 22' Jump Shot (12 PTS)"", 22.9), (""MISS Bryant 19' Jump Shot"", 34.6), (""'Evans REBOUND (Off:1 Def:2)'"", 24.0), (""MISS Bryant 26' 3PT Jump Shot"", 50.3), (""''"", 50.0)]"
 MIA,20061229,[]
 CLE,20061229,[]
 DET,20061229,"[(""'Hamilton Free Throw 1 of 2 (21 PTS)'"", 28.4), (""'Hamilton Free Throw 2 of 2 (22 PTS)'"", 33.4), (""'Armstrong Free Throw 2 of 2 (1 PTS)'"", 45.9)]"
-NO,20061229,"[(""MISS Iverson 24' 3PT Jump Shot"", 21.3), (""MISS Boykins 26' 3PT Jump Shot"", 22.4)]"
+NOK,20061229,"[(""MISS Iverson 24' 3PT Jump Shot"", 21.3), (""MISS Boykins 26' 3PT Jump Shot"", 22.4)]"
 MIN,20061229,[]
 HOU,20061229,[]
-PHX,20061229,[]
+PHO,20061229,[]
 POR,20061229,"[(""MISS Roy 5' Jump Bank Shot"", 42.0)]"
 LAC,20061229,[]
-GS,20061229,[]
+GSW,20061229,[]
 ORL,20061230,[]
 IND,20061230,[]
-NJ,20061230,[]
+NJN,20061230,[]
 MEM,20061230,"[(""MISS Peterson 24' 3PT Jump Shot"", 22.3), (""'MISS Peterson  3PT Jump Shot'"", 20.5), (""MISS Martin 25' 3PT Jump Shot"", 20.6), (""'MISS Martin  Layup'"", 24.9)]"
 CHI,20061230,[]
 MIL,20061230,[]
 DAL,20061230,[]
-UTAH,20061230,[]
+UTA,20061230,[]
 SAC,20061230,[]
-SA,20061231,[]
+SAS,20061231,[]
 LAC,20061231,[]
 DET,20061231,"[(""MISS Delfino 25' 3PT Jump Shot"", 39.6)]"
 HOU,20061231,"[(""Battier 26' 3PT Jump Shot (7 PTS) (Alston 5 AST)"", 22.6)]"
@@ -460,64 +460,64 @@ CHA,20070101,[]
 POR,20070101,[]
 ORL,20070102,"[(""MISS Thomas 25' 3PT Jump Shot"", 43.0)]"
 CLE,20070102,[]
-NO,20070102,"[(""'MISS Pargo  3PT Jump Shot'"", 21.9)]"
+NOK,20070102,"[(""'MISS Pargo  3PT Jump Shot'"", 21.9)]"
 CHI,20070102,"[(""Gordon 24' 3PT Jump Shot (32 PTS)"", 21.1), (""Diaw 24' 3PT Jump Shot (7 PTS) (Nash 13 AST)"", 31.9), (""Gordon 16' Jump Shot (39 PTS)"", 31.1), (""MISS Barbosa 10' Running Jump Shot"", 26.3), (""'Stoudemire  Tip Shot (24 PTS)'"", 26.3), (""Barbosa 25' 3PT Jump Shot (20 PTS) (Diaw 4 AST)"", 81.3), (""MISS Gordon 26' 3PT Jump Shot"", 96.0)]"
 DAL,20070102,[]
 DEN,20070102,[]
 SAC,20070102,[]
 TOR,20070103,"[(""'Bosh  Driving Layup (23 PTS)'"", 24.4), (""Nash 24' 3PT Jump Shot (10 PTS) (Stoudemire 2 AST)"", 39.0), (""'Bosh  Driving Layup (25 PTS)'"", 22.9), (""MISS Martin 33' 3PT Jump Shot"", 94.2)]"
-WSH,20070103,"[(""Jamison 25' 3PT Jump Shot (20 PTS) (Butler 9 AST)"", 23.0), (""MISS Redd 26' 3PT Jump Shot"", 31.3), (""Redd 2' Layup (27 PTS) (Williams 5 AST)"", 22.0), (""MISS Bell 29' 3PT Jump Shot"", 44.0), (""'Bogut REBOUND (Off:1 Def:4)'"", 21.7), (""MISS Bell 24' 3PT Jump Shot"", 47.6), (""Arenas 32' 3PT Jump Shot (32 PTS)"", 50.2)]"
+WAS,20070103,"[(""Jamison 25' 3PT Jump Shot (20 PTS) (Butler 9 AST)"", 23.0), (""MISS Redd 26' 3PT Jump Shot"", 31.3), (""Redd 2' Layup (27 PTS) (Williams 5 AST)"", 22.0), (""MISS Bell 29' 3PT Jump Shot"", 44.0), (""'Bogut REBOUND (Off:1 Def:4)'"", 21.7), (""MISS Bell 24' 3PT Jump Shot"", 47.6), (""Arenas 32' 3PT Jump Shot (32 PTS)"", 50.2)]"
 BOS,20070103,"[(""'MISS Allen Free Throw 1 of 2'"", 22.0), (""MISS Szczerbiak 27' 3PT Jump Shot"", 48.7)]"
 MIA,20070103,[]
 MEM,20070103,"[(""Miller 26' 3PT Jump Shot (30 PTS) (Stoudamire 12 AST)"", 21.1)]"
 MIN,20070103,"[(""MISS Ginobili 24' 3PT Jump Shot"", 34.3), (""MISS Davis 26' 3PT Jump Shot"", 27.4), (""'MISS Davis  3PT Jump Shot'"", 28.2), (""'MISS Parker  Layup'"", 27.6), (""'Duncan  Layup (22 PTS)'"", 28.7), (""'Garnett  Driving Layup (24 PTS)'"", 33.0), (""'Ginobili  Driving Layup (25 PTS)'"", 26.0), (""MISS Foye 6' Jump Shot"", 34.2), (""'Horry REBOUND (Off:0 Def:1)'"", 23.3), (""MISS Bonner 26' 3PT Jump Shot"", 49.4), (""''"", 50.0)]"
 HOU,20070103,[]
-UTAH,20070103,[]
+UTA,20070103,[]
 POR,20070103,[]
-NO,20070104,[]
+NOK,20070104,[]
 DAL,20070104,[]
 SAC,20070104,"[(""MISS Cook 27' 3PT Jump Shot"", 24.4), (""Bryant 27' 3PT Jump Shot (33 PTS) (Parker 2 AST)"", 33.3), (""MISS Bryant 25' 3PT Jump Shot"", 35.6), (""MISS Cook 19' Jump Shot"", 30.2), (""'Parker REBOUND (Off:1 Def:1)'"", 20.1), (""Bibby 25' 3PT Jump Shot (33 PTS) (Salmons 4 AST)"", 54.1), (""MISS Bryant 8' Jump Shot"", 29.8), (""'Parker  Driving Layup (7 PTS)'"", 48.0), (""''"", 50.0)]"
 TOR,20070105,[]
-WSH,20070105,[]
+WAS,20070105,[]
 ORL,20070105,[]
-NJ,20070105,"[(""MISS Gordon 19' Jump Shot"", 20.6), (""Carter 19' Jump Shot (21 PTS)"", 26.9), (""'Kidd  Driving Layup (13 PTS)'"", 22.4)]"
+NJN,20070105,"[(""MISS Gordon 19' Jump Shot"", 20.6), (""Carter 19' Jump Shot (21 PTS)"", 26.9), (""'Kidd  Driving Layup (13 PTS)'"", 22.4)]"
 MEM,20070105,[]
-SA,20070105,"[(""MISS Ginobili 26' 3PT Jump Shot"", 29.7), (""MISS Nowitzki 1' Driving Layup"", 21.2), (""MISS Nowitzki 25' 3PT Jump Shot"", 32.7), (""Terry 3' Layup (10 PTS)"", 22.3), (""MISS Bowen 24' 3PT Jump Shot"", 39.7)]"
+SAS,20070105,"[(""MISS Ginobili 26' 3PT Jump Shot"", 29.7), (""MISS Nowitzki 1' Driving Layup"", 21.2), (""MISS Nowitzki 25' 3PT Jump Shot"", 32.7), (""Terry 3' Layup (10 PTS)"", 22.3), (""MISS Bowen 24' 3PT Jump Shot"", 39.7)]"
 MIN,20070105,"[(""'MISS Miller  Layup'"", 20.1), (""'Iguodala  Layup (21 PTS)'"", 20.3), (""'MISS Foye  Layup'"", 25.0), (""'MISS Miller  Layup'"", 22.6), (""'MISS Miller  Tip Shot'"", 22.7), (""MISS Garnett 18' Jump Shot"", 48.0), (""''"", 50.0)]"
 MIL,20070105,[]
 HOU,20070105,[]
-PHX,20070105,[]
+PHO,20070105,[]
 LAL,20070105,[]
 SEA,20070105,[]
 ATL,20070106,[]
 CLE,20070106,"[(""MISS Carter 27' 3PT Jump Shot"", 43.0)]"
-NO,20070106,"[(""MISS Tinsley 25' 3PT Jump Shot"", 20.5), (""MISS Pargo 24' 3PT Jump Shot"", 21.2), (""MISS Pargo 24' 3PT Jump Shot"", 21.1)]"
+NOK,20070106,"[(""MISS Tinsley 25' 3PT Jump Shot"", 20.5), (""MISS Pargo 24' 3PT Jump Shot"", 21.2), (""MISS Pargo 24' 3PT Jump Shot"", 21.1)]"
 CHI,20070106,[]
 DEN,20070106,[]
 SAC,20070106,"[(""Roy 15' Fadeaway Jumper (21 PTS)"", 48.0), (""''"", 50.0)]"
-GS,20070106,"[(""MISS Ridnour 24' 3PT Jump Shot"", 20.9), (""Allen 25' 3PT Jump Shot (38 PTS) (Watson 11 AST)"", 25.1), (""MISS Davis 26' 3PT Jump Shot"", 31.8), (""MISS Wilkins 26' 3PT Jump Shot"", 33.1), (""MISS Barnes 26' 3PT Jump Shot"", 34.3), (""MISS Ellis 25' 3PT Jump Shot"", 36.0), (""Barnes 3' Layup (9 PTS) (Davis 11 AST)"", 25.9), (""Barnes 5' Turnaround Finger Roll (11 PTS)"", 23.6), (""MISS Allen 25' 3PT Jump Shot"", 33.9)]"
+GSW,20070106,"[(""MISS Ridnour 24' 3PT Jump Shot"", 20.9), (""Allen 25' 3PT Jump Shot (38 PTS) (Watson 11 AST)"", 25.1), (""MISS Davis 26' 3PT Jump Shot"", 31.8), (""MISS Wilkins 26' 3PT Jump Shot"", 33.1), (""MISS Barnes 26' 3PT Jump Shot"", 34.3), (""MISS Ellis 25' 3PT Jump Shot"", 36.0), (""Barnes 3' Layup (9 PTS) (Davis 11 AST)"", 25.9), (""Barnes 5' Turnaround Finger Roll (11 PTS)"", 23.6), (""MISS Allen 25' 3PT Jump Shot"", 33.9)]"
 TOR,20070107,[]
 MIN,20070107,"[(""McGrady 25' 3PT Jump Shot (25 PTS)"", 20.1), (""MISS Jaric 25' 3PT Jump Shot"", 21.0), (""MISS McGrady 19' Jump Shot"", 21.1), (""Hassell 18' Jump Shot (8 PTS) (James 9 AST)"", 22.7), (""Howard 6' Jump Hook Shot (15 PTS)"", 21.2), (""'Hassell  Layup (10 PTS) (James 10 AST)'"", 26.3), (""MISS Howard 16' Jump Shot"", 23.9), (""'McGrady  Driving Layup (27 PTS)'"", 29.0), (""MISS Garnett 16' Jump Shot"", 48.0), (""''"", 50.0)]"
 MEM,20070107,[]
 ORL,20070107,[]
-PHX,20070107,[]
+PHO,20070107,[]
 POR,20070107,"[(""Kapono 26' 3PT Jump Shot (19 PTS) (Wade 3 AST)"", 25.0), (""Mourning 3' Hook Shot (5 PTS) (Wright 2 AST)"", 20.7), (""MISS Randolph 10' Jump Shot"", 23.4), (""'Wade  Driving Dunk (29 PTS)'"", 20.7), (""MISS Roy 25' 3PT Jump Shot"", 48.7)]"
 LAL,20070107,"[(""MISS Nowitzki 17' Jump Shot"", 21.2), (""'Nowitzki  Driving Layup (29 PTS)'"", 31.3), (""Vujacic 24' 3PT Jump Shot (16 PTS) (Walton 6 AST)"", 52.8), (""'MISS Terry  Layup'"", 26.8), (""MISS George 24' 3PT Jump Shot"", 40.8)]"
-NO,20070108,[]
+NOK,20070108,[]
 CHI,20070108,"[(""'Head  3PT Jump Shot (8 PTS) (McGrady 8 AST)'"", 23.5), (""McGrady 22' Jump Shot (30 PTS)"", 24.5), (""MISS Gordon 16' Jump Shot"", 23.0), (""'MISS Gordon  Layup'"", 26.2)]"
 DEN,20070108,[]
 PHI,20070109,[]
 IND,20070109,[]
-NJ,20070109,[]
+NJN,20070109,[]
 MEM,20070109,[]
-SA,20070109,[]
-UTAH,20070109,"[(""MISS Okur 24' 3PT Jump Shot"", 22.8), (""'MISS Kirilenko  3PT Jump Shot'"", 32.4), (""MISS Okur 24' 3PT Jump Shot"", 48.7)]"
-PHX,20070109,[]
+SAS,20070109,[]
+UTA,20070109,"[(""MISS Okur 24' 3PT Jump Shot"", 22.8), (""'MISS Kirilenko  3PT Jump Shot'"", 32.4), (""MISS Okur 24' 3PT Jump Shot"", 48.7)]"
+PHO,20070109,[]
 SAC,20070109,[]
-WSH,20070110,[]
+WAS,20070110,[]
 ATL,20070110,[]
 BOS,20070110,[]
-NY,20070110,[]
+NYK,20070110,[]
 DET,20070110,[]
 MIL,20070110,[]
 MIN,20070110,"[(""MISS Cassell 25' 3PT Jump Shot"", 32.9), (""MISS Blount 24' 3PT Jump Shot"", 35.0), (""MISS Thomas 23' Jump Shot"", 26.1), (""Hassell 17' Jump Shot (11 PTS) (Blount 5 AST)"", 35.1), (""MISS Mobley 15' Jump Shot"", 45.2), (""Maggette 17' Jump Shot (21 PTS) (Brand 3 AST)"", 58.4), (""MISS Garnett 16' Jump Shot"", 78.5)]"
@@ -525,56 +525,56 @@ HOU,20070110,[]
 DAL,20070110,[]
 DEN,20070110,[]
 SEA,20070110,"[(""MISS Williams 26' 3PT Jump Shot"", 22.1)]"
-GS,20070110,[]
+GSW,20070110,[]
 CHI,20070111,"[(""MISS Hinrich 26' 3PT Jump Shot"", 48.7)]"
-PHX,20070111,[]
+PHO,20070111,[]
 PHI,20070112,[]
 IND,20070112,"[(""MISS Jackson 12' Jump Shot"", 20.1), (""MISS Harrington 1' Layup"", 20.1), (""MISS Nowitzki 24' 3PT Jump Shot"", 39.4), (""Terry 25' 3PT Jump Shot (28 PTS)"", 50.4), (""MISS O'Neal 19' Jump Shot"", 43.7), (""MISS Granger 3' Layup"", 48.0), (""''"", 50.0)]"
 BOS,20070112,[]
-NY,20070112,[]
+NYK,20070112,[]
 ATL,20070112,[]
 MEM,20070112,[]
-NO,20070112,"[(""MISS Arenas 24' 3PT Jump Shot"", 20.1)]"
+NOK,20070112,"[(""MISS Arenas 24' 3PT Jump Shot"", 20.1)]"
 POR,20070112,[]
 DEN,20070112,"[(""MISS Diawara 25' 3PT Jump Shot"", 24.3), (""Iverson 25' 3PT Jump Shot (28 PTS) (Blake 6 AST)"", 31.4), (""'Battier  3PT Jump Shot (25 PTS) (McGrady 11 AST)'"", 41.0), (""MISS Blake 25' 3PT Jump Shot"", 32.8), (""MISS Diawara 25' 3PT Jump Shot"", 39.7)]"
 LAL,20070112,"[(""Turkoglu 25' 3PT Jump Shot (18 PTS) (Arroyo 2 AST)"", 20.9), (""MISS Turkoglu 25' 3PT Jump Shot"", 29.5), (""Bryant 21' Jump Shot (24 PTS)"", 22.7), (""'Howard  Layup (24 PTS) (Nelson 6 AST)'"", 21.3), (""Bryant 12' Jump Shot (26 PTS) (Parker 5 AST)"", 26.1), (""MISS Nelson 5' Jump Shot"", 24.6), (""'MISS Milicic  Tip Shot'"", 24.7), (""MISS Nelson 26' 3PT Jump Shot"", 48.7)]"
-GS,20070112,[]
+GSW,20070112,[]
 SEA,20070112,"[(""Boozer 4' Hook Shot (30 PTS) (D. Williams 8 AST)"", 20.4), (""Allen 26' 3PT Jump Shot (48 PTS) (Watson 14 AST)"", 36.3), (""MISS D. Williams 27' 3PT Jump Shot"", 49.4), (""''"", 50.0)]"
 CHA,20070113,[]
 DET,20070113,[]
-SA,20070113,[]
+SAS,20070113,[]
 MIN,20070113,[]
 CHI,20070113,[]
 MIL,20070403,[]
-UTAH,20070113,[]
-PHX,20070113,[]
+UTA,20070113,[]
+PHO,20070113,[]
 SAC,20070113,"[(""MISS McGrady 24' 3PT Jump Shot"", 20.7), (""MISS Battier 26' 3PT Jump Shot"", 23.5), (""MISS Bibby 26' 3PT Jump Shot"", 23.7), (""McGrady 25' 3PT Jump Shot (31 PTS) (Battier 2 AST)"", 35.6), (""MISS Bibby 25' 3PT Jump Shot"", 33.1), (""World Peace 26' 3PT Jump Bank Shot (26 PTS)"", 40.8), (""MISS McGrady 21' Jump Shot"", 43.9), (""''"", 50.0)]"
 LAC,20070113,[]
 TOR,20070114,"[(""MISS Bargnani 25' 3PT Jump Shot"", 27.1), (""MISS Nowitzki 25' 3PT Jump Shot"", 37.8), (""'Ford  Reverse Layup (16 PTS)'"", 20.9), (""MISS Ford 21' Jump Shot"", 22.1), (""'Peterson REBOUND (Off:2 Def:3)'"", 20.8), (""'Howard  Layup (14 PTS) (Terry 2 AST)'"", 93.4), (""MISS Parker 31' 3PT Turnaround Jump Shot"", 96.0)]"
 POR,20070114,[]
-NY,20070115,"[(""Marbury 24' 3PT Jump Shot (25 PTS)"", 20.7), (""Martin 25' 3PT Jump Shot (30 PTS) (Bibby 3 AST)"", 28.7), (""MISS Marbury 25' 3PT Jump Shot"", 30.4), (""MISS Lee 4' Jump Shot"", 21.3), (""MISS World Peace 8' Jump Shot"", 22.5), (""Abdur-Rahim 5' Hook Shot (25 PTS)"", 34.9), (""'Crawford  Driving Layup (6 PTS)'"", 37.3), (""MISS World Peace 26' 3PT Jump Shot"", 39.7)]"
-WSH,20070115,"[(""Okur 25' 3PT Jump Shot (35 PTS) (D. Williams 13 AST)"", 24.3), (""Arenas 26' 3PT Jump Shot (42 PTS)"", 20.6), (""Arenas 25' 3PT Jump Shot (45 PTS) (Butler 3 AST)"", 27.8), (""Okur 25' 3PT Jump Shot (38 PTS)"", 35.2), (""MISS D. Williams 27' 3PT Jump Shot"", 41.0), (""MISS Arenas 7' Jump Shot"", 33.7), (""'Arenas REBOUND (Off:1 Def:2)'"", 22.1), (""MISS Arenas 2' Jump Shot"", 33.7), (""'Hayes REBOUND (Off:1 Def:2)'"", 22.3), (""Hayes 5' Jump Bank Shot (6 PTS)"", 34.0), (""MISS Fisher 22' Jump Shot"", 29.0), (""'Boozer  Layup (27 PTS)'"", 29.0), (""Arenas 25' 3PT Jump Shot (51 PTS)"", 50.2)]"
+NYK,20070115,"[(""Marbury 24' 3PT Jump Shot (25 PTS)"", 20.7), (""Martin 25' 3PT Jump Shot (30 PTS) (Bibby 3 AST)"", 28.7), (""MISS Marbury 25' 3PT Jump Shot"", 30.4), (""MISS Lee 4' Jump Shot"", 21.3), (""MISS World Peace 8' Jump Shot"", 22.5), (""Abdur-Rahim 5' Hook Shot (25 PTS)"", 34.9), (""'Crawford  Driving Layup (6 PTS)'"", 37.3), (""MISS World Peace 26' 3PT Jump Shot"", 39.7)]"
+WAS,20070115,"[(""Okur 25' 3PT Jump Shot (35 PTS) (D. Williams 13 AST)"", 24.3), (""Arenas 26' 3PT Jump Shot (42 PTS)"", 20.6), (""Arenas 25' 3PT Jump Shot (45 PTS) (Butler 3 AST)"", 27.8), (""Okur 25' 3PT Jump Shot (38 PTS)"", 35.2), (""MISS D. Williams 27' 3PT Jump Shot"", 41.0), (""MISS Arenas 7' Jump Shot"", 33.7), (""'Arenas REBOUND (Off:1 Def:2)'"", 22.1), (""MISS Arenas 2' Jump Shot"", 33.7), (""'Hayes REBOUND (Off:1 Def:2)'"", 22.3), (""Hayes 5' Jump Bank Shot (6 PTS)"", 34.0), (""MISS Fisher 22' Jump Shot"", 29.0), (""'Boozer  Layup (27 PTS)'"", 29.0), (""Arenas 25' 3PT Jump Shot (51 PTS)"", 50.2)]"
 CHA,20070115,"[(""Boykins 25' 3PT Jump Shot (28 PTS) (Bogut 6 AST)"", 20.4), (""Bell 25' 3PT Jump Shot (10 PTS) (Skinner 2 AST)"", 22.2)]"
 PHI,20070115,[]
 ATL,20070115,"[(""MISS Green 27' 3PT Jump Shot"", 71.6)]"
 CHI,20070115,[]
-NJ,20070115,[]
+NJN,20070115,[]
 DET,20070115,"[(""MISS Hamilton 26' 3PT Jump Shot"", 27.8), (""Foye 18' Jump Shot (6 PTS)"", 24.2), (""'Murray  Driving Layup (12 PTS)'"", 22.7), (""MISS Blount 17' Jump Shot"", 29.5), (""MISS Wallace 16' Jump Shot"", 33.5), (""'Davis REBOUND (Off:1 Def:3)'"", 22.3), (""'MISS Foye  Layup'"", 43.7), (""MISS Hamilton 26' 3PT Jump Shot"", 49.4), (""''"", 50.0)]"
-GS,20070115,[]
+GSW,20070115,[]
 MEM,20070115,[]
 LAL,20070115,"[(""Kapono 24' 3PT Jump Shot (10 PTS) (Wade 7 AST)"", 26.2), (""MISS Bryant 18' Jump Shot"", 22.3), (""'MISS Bynum  Tip Shot'"", 23.0), (""MISS Haslem 15' Jump Shot"", 24.0), (""'MISS Walton  Layup'"", 24.8), (""MISS Williams 26' 3PT Jump Shot"", 36.9), (""Bryant 16' Jump Shot (19 PTS)"", 29.8), (""MISS Wade 27' 3PT Jump Shot"", 48.0), (""'Haslem  Dunk (18 PTS) (Kapono 2 AST)'"", 26.3), (""MISS Evans 23' Jump Shot"", 43.9), (""''"", 50.0)]"
-NO,20070116,"[(""MISS Nelson 19' Jump Shot"", 20.7), (""Nelson 16' Fadeaway Jumper (12 PTS)"", 25.2), (""MISS Nelson 21' Jump Shot"", 32.7), (""'MISS Hill  Tip Shot'"", 33.9), (""'Howard Free Throw 1 of 2 (17 PTS)'"", 23.5), (""'MISS Howard Free Throw 2 of 2'"", 25.6), (""'MISS Milicic Free Throw 1 of 2'"", 30.1), (""'Milicic Free Throw 2 of 2 (11 PTS)'"", 25.6), (""MISS Pargo 7' Jump Shot"", 43.9), (""MISS Nelson 77' 3PT Jump Shot"", 50.3), (""''"", 50.0)]"
+NOK,20070116,"[(""MISS Nelson 19' Jump Shot"", 20.7), (""Nelson 16' Fadeaway Jumper (12 PTS)"", 25.2), (""MISS Nelson 21' Jump Shot"", 32.7), (""'MISS Hill  Tip Shot'"", 33.9), (""'Howard Free Throw 1 of 2 (17 PTS)'"", 23.5), (""'MISS Howard Free Throw 2 of 2'"", 25.6), (""'MISS Milicic Free Throw 1 of 2'"", 30.1), (""'Milicic Free Throw 2 of 2 (11 PTS)'"", 25.6), (""MISS Pargo 7' Jump Shot"", 43.9), (""MISS Nelson 77' 3PT Jump Shot"", 50.3), (""''"", 50.0)]"
 DAL,20070116,[]
 SEA,20070116,"[(""MISS Allen 25' 3PT Jump Shot"", 22.8), (""Jones 24' 3PT Jump Shot (5 PTS) (James 8 AST)"", 21.0), (""Gelabale 19' Jump Shot (8 PTS) (Ridnour 2 AST)"", 20.3), (""'MISS Jones  3PT Jump Shot'"", 30.9)]"
 TOR,20070117,[]
-WSH,20070117,"[(""MISS Arenas 24' 3PT Jump Shot"", 24.3), (""MISS Marbury 24' 3PT Jump Shot"", 31.9), (""MISS Jamison 3' Layup"", 22.9), (""Marbury 1' Driving Layup (9 PTS)"", 33.7), (""Jamison 2' Driving Layup (21 PTS) (Haywood 2 AST)"", 36.5), (""Crawford 4' Jump Shot (9 PTS)"", 42.3), (""Butler 1' Dunk (27 PTS) (Stevenson 6 AST)"", 76.5), (""MISS Crawford 37' 3PT Jump Shot"", 86.7)]"
+WAS,20070117,"[(""MISS Arenas 24' 3PT Jump Shot"", 24.3), (""MISS Marbury 24' 3PT Jump Shot"", 31.9), (""MISS Jamison 3' Layup"", 22.9), (""Marbury 1' Driving Layup (9 PTS)"", 33.7), (""Jamison 2' Driving Layup (21 PTS) (Haywood 2 AST)"", 36.5), (""Crawford 4' Jump Shot (9 PTS)"", 42.3), (""Butler 1' Dunk (27 PTS) (Stevenson 6 AST)"", 76.5), (""MISS Crawford 37' 3PT Jump Shot"", 86.7)]"
 CHA,20070117,[]
 DET,20070117,"[(""'D. Williams  3PT Jump Shot (31 PTS) (Fisher 3 AST)'"", 29.4), (""MISS D. Williams 24' 3PT Jump Shot"", 23.8), (""MISS Billups 19' Jump Shot"", 78.5)]"
 MIL,20070117,[]
 MEM,20070117,[]
 MIN,20070117,[]
 HOU,20070117,[]
-SA,20070117,"[(""Bryant 16' Jump Shot (32 PTS)"", 24.0), (""MISS Duncan 25' 3PT Jump Shot"", 33.0)]"
+SAS,20070117,"[(""Bryant 16' Jump Shot (32 PTS)"", 24.0), (""MISS Duncan 25' 3PT Jump Shot"", 33.0)]"
 POR,20070117,[]
 LAC,20070117,[]
 MIA,20070118,"[(""MISS Granger 26' 3PT Jump Shot"", 48.7)]"
@@ -583,26 +583,26 @@ TOR,20070119,[]
 PHI,20070119,"[(""Miller 13' Jump Shot (15 PTS) (Iguodala 9 AST)"", 33.6), (""MISS Walker 24' 3PT Jump Shot"", 51.6), (""'MISS Wade Free Throw 1 of 3'"", 37.7), (""'Wade Free Throw 2 of 3 (25 PTS)'"", 33.1), (""'Wade Free Throw 3 of 3 (26 PTS)'"", 41.0), (""MISS Green 43' 3PT Jump Shot"", 49.4), (""''"", 50.0)]"
 ORL,20070119,[]
 BOS,20070119,"[(""West 24' 3PT Jump Shot (25 PTS) (Gomes 3 AST)"", 21.4)]"
-NY,20070119,"[(""MISS Carter 23' Jump Shot"", 23.7), (""MISS Crawford 10' Jump Shot"", 45.2), (""'Lee  Layup (9 PTS)'"", 47.0), (""'MISS Carter  Layup'"", 64.2), (""'Robinson  Tip Shot (11 PTS)'"", 76.5), (""MISS Marbury 53' 3PT Jump Shot"", 96.0)]"
+NYK,20070119,"[(""MISS Carter 23' Jump Shot"", 23.7), (""MISS Crawford 10' Jump Shot"", 45.2), (""'Lee  Layup (9 PTS)'"", 47.0), (""'MISS Carter  Layup'"", 64.2), (""'Robinson  Tip Shot (11 PTS)'"", 76.5), (""MISS Marbury 53' 3PT Jump Shot"", 96.0)]"
 ATL,20070119,[]
-SA,20070119,[]
+SAS,20070119,[]
 MIN,20070119,"[(""MISS Wallace 24' 3PT Jump Shot"", 34.2), (""'Smith  Layup (2 PTS) (Foye 4 AST)'"", 23.9), (""Hamilton 15' Jump Shot (18 PTS) (Billups 7 AST)"", 21.8), (""MISS Foye 18' Jump Shot"", 26.6), (""MISS Wallace 25' 3PT Jump Shot"", 42.5), (""'Hamilton REBOUND (Off:3 Def:3)'"", 20.8), (""MISS Prince 16' Jump Shot"", 34.0), (""'Blount REBOUND (Off:0 Def:12)'"", 22.6), (""MISS Hassell 16' Jump Shot"", 48.0), (""''"", 50.0)]"
-PHX,20070119,[]
+PHO,20070119,[]
 DEN,20070119,[]
 SEA,20070119,[]
 LAC,20070120,[]
 CHA,20070120,[]
 IND,20070120,"[(""MISS Granger 29' 3PT Jump Shot"", 94.2)]"
-WSH,20070120,"[(""MISS Jamison 26' 3PT Jump Shot"", 25.1), (""Jefferson 6' Jump Shot (23 PTS)"", 20.2), (""Arenas 20' Fadeaway Jumper (16 PTS) (Butler 6 AST)"", 21.5), (""MISS Jefferson 15' Jump Shot"", 23.9), (""MISS Arenas 1' Layup"", 25.6), (""MISS Haywood 2' Layup"", 25.9), (""MISS Butler 15' Jump Shot"", 31.1), (""'Rondo REBOUND (Off:0 Def:8)'"", 20.7), (""MISS Jefferson 10' Jump Shot"", 34.5), (""'Arenas REBOUND (Off:1 Def:5)'"", 23.8), (""MISS Arenas 28' 3PT Jump Shot"", 50.2), (""''"", 50.0)]"
+WAS,20070120,"[(""MISS Jamison 26' 3PT Jump Shot"", 25.1), (""Jefferson 6' Jump Shot (23 PTS)"", 20.2), (""Arenas 20' Fadeaway Jumper (16 PTS) (Butler 6 AST)"", 21.5), (""MISS Jefferson 15' Jump Shot"", 23.9), (""MISS Arenas 1' Layup"", 25.6), (""MISS Haywood 2' Layup"", 25.9), (""MISS Butler 15' Jump Shot"", 31.1), (""'Rondo REBOUND (Off:0 Def:8)'"", 20.7), (""MISS Jefferson 10' Jump Shot"", 34.5), (""'Arenas REBOUND (Off:1 Def:5)'"", 23.8), (""MISS Arenas 28' 3PT Jump Shot"", 50.2), (""''"", 50.0)]"
 DET,20070120,[]
-NJ,20070120,[]
-NO,20070120,[]
+NJN,20070120,[]
+NOK,20070120,[]
 CHI,20070120,[]
 HOU,20070120,"[(""MISS Smith 24' 3PT Jump Shot"", 28.3), (""Iverson 25' 3PT Jump Shot (32 PTS)"", 31.3), (""MISS Alston 16' Jump Shot"", 30.7), (""'Camby REBOUND (Off:4 Def:15)'"", 20.4), (""'MISS Iverson  Layup'"", 33.3), (""'McGrady REBOUND (Off:1 Def:3)'"", 21.8), (""MISS McGrady 18' Jump Shot"", 41.2), (""'MISS Camby  3PT Jump Shot'"", 50.3), (""''"", 50.0)]"
-GS,20070120,"[(""MISS Barnes 26' 3PT Jump Shot"", 21.9), (""'MISS Wesley  3PT Jump Shot'"", 20.9), (""MISS James 25' 3PT Jump Shot"", 22.4), (""Jackson 25' 3PT Jump Shot (28 PTS) (Ellis 8 AST)"", 25.2), (""MISS Snow 7' Jump Shot"", 22.4), (""'MISS Ellis  3PT Jump Shot'"", 34.3), (""Ellis 3' Layup (14 PTS) (Harrington 3 AST)"", 23.8), (""Varejao 2' Layup (10 PTS) (Pavlovic 1 AST)"", 22.6), (""'Varejao REBOUND (Off:5 Def:6)'"", 21.4), (""'MISS Pavlovic  3PT Jump Shot'"", 46.7), (""'Wesley REBOUND (Off:1 Def:3)'"", 21.9), (""MISS James 26' 3PT Jump Shot"", 50.3), (""''"", 50.0)]"
+GSW,20070120,"[(""MISS Barnes 26' 3PT Jump Shot"", 21.9), (""'MISS Wesley  3PT Jump Shot'"", 20.9), (""MISS James 25' 3PT Jump Shot"", 22.4), (""Jackson 25' 3PT Jump Shot (28 PTS) (Ellis 8 AST)"", 25.2), (""MISS Snow 7' Jump Shot"", 22.4), (""'MISS Ellis  3PT Jump Shot'"", 34.3), (""Ellis 3' Layup (14 PTS) (Harrington 3 AST)"", 23.8), (""Varejao 2' Layup (10 PTS) (Pavlovic 1 AST)"", 22.6), (""'Varejao REBOUND (Off:5 Def:6)'"", 21.4), (""'MISS Pavlovic  3PT Jump Shot'"", 46.7), (""'Wesley REBOUND (Off:1 Def:3)'"", 21.9), (""MISS James 26' 3PT Jump Shot"", 50.3), (""''"", 50.0)]"
 MIA,20070121,"[(""MISS Wade 25' 3PT Jump Shot"", 38.7)]"
 PHI,20070121,[]
-PHX,20070121,[]
+PHO,20070121,[]
 POR,20070121,"[(""MISS Bell 25' 3PT Jump Shot"", 21.4), (""MISS Ilyasova 24' 3PT Jump Shot"", 20.9)]"
 TOR,20070122,[]
 CLE,20070122,[]
@@ -610,11 +610,11 @@ IND,20070122,[]
 BOS,20070122,[]
 MIA,20070122,[]
 DEN,20070122,[]
-UTAH,20070122,[]
+UTA,20070122,[]
 SAC,20070122,"[(""'MISS Robinson  3PT Jump Shot'"", 27.8), (""MISS Miller 5' Running Jump Shot"", 27.5), (""'Kidd  Layup (18 PTS) (Carter 5 AST)'"", 22.7), (""MISS Bibby 18' Jump Shot"", 39.2), (""'Miller REBOUND (Off:3 Def:7)'"", 20.8), (""'MISS Miller  Layup'"", 42.3), (""'Bibby REBOUND (Off:1 Def:1)'"", 20.5), (""Bibby 19' Jump Shot (16 PTS)"", 45.2), (""MISS Kidd 7' Running Jump Shot"", 78.5)]"
 LAL,20070122,"[(""Jasikevicius 16' Jump Shot (4 PTS)"", 20.2), (""MISS Bryant 26' 3PT Jump Shot"", 36.3), (""'Walton  Layup (8 PTS)'"", 25.5), (""MISS Jackson 14' Jump Shot"", 24.2)]"
 PHI,20070123,[]
-WSH,20070123,[]
+WAS,20070123,[]
 ORL,20070123,[]
 CHI,20070123,[]
 SEA,20070123,"[(""Allen 27' 3PT Jump Shot (38 PTS) (Gelabale 4 AST)"", 21.4), (""Blake 26' 3PT Jump Shot (3 PTS) (Anthony 3 AST)"", 23.4), (""MISS Allen 25' 3PT Jump Shot"", 27.8)]"
@@ -624,35 +624,35 @@ CHA,20070124,[]
 CLE,20070124,"[(""Iguodala 6' Jump Shot (24 PTS)"", 31.6), (""'MISS James  Layup'"", 45.0), (""MISS Ilgauskas 1' Tip Shot"", 43.9), (""''"", 50.0)]"
 IND,20070124,"[(""MISS Payton 26' 3PT Jump Shot"", 21.7), (""Wade 25' 3PT Jump Shot (30 PTS)"", 33.3), (""MISS Wade 21' Jump Shot"", 48.0), (""''"", 50.0)]"
 BOS,20070124,[]
-NY,20070124,[]
-SA,20070124,[]
-UTAH,20070124,"[(""Okur 25' 3PT Jump Shot (19 PTS) (D. Williams 15 AST)"", 21.2), (""Miller 24' 3PT Jump Shot (21 PTS) (Gasol 11 AST)"", 22.8), (""'Boozer  Layup (35 PTS) (D. Williams 17 AST)'"", 21.0), (""'Boozer  Dunk (37 PTS) (D. Williams 18 AST)'"", 20.3), (""'Boozer  Layup (39 PTS) (D. Williams 19 AST)'"", 21.8), (""Atkins 24' 3PT Jump Shot (26 PTS) (Miller 3 AST)"", 36.3), (""'MISS D. Williams  Layup'"", 43.7), (""MISS D. Williams 20' Jump Shot"", 48.0), (""''"", 50.0)]"
+NYK,20070124,[]
+SAS,20070124,[]
+UTA,20070124,"[(""Okur 25' 3PT Jump Shot (19 PTS) (D. Williams 15 AST)"", 21.2), (""Miller 24' 3PT Jump Shot (21 PTS) (Gasol 11 AST)"", 22.8), (""'Boozer  Layup (35 PTS) (D. Williams 17 AST)'"", 21.0), (""'Boozer  Dunk (37 PTS) (D. Williams 18 AST)'"", 20.3), (""'Boozer  Layup (39 PTS) (D. Williams 19 AST)'"", 21.8), (""Atkins 24' 3PT Jump Shot (26 PTS) (Miller 3 AST)"", 36.3), (""'MISS D. Williams  Layup'"", 43.7), (""MISS D. Williams 20' Jump Shot"", 48.0), (""''"", 50.0)]"
 SAC,20070124,[]
 POR,20070124,"[(""Garnett 13' Turnaround Jump Shot (25 PTS)"", 20.1), (""Blount 22' Jump Shot (8 PTS) (James 5 AST)"", 21.7), (""'Webster  Driving Layup (13 PTS)'"", 26.0), (""Davis 20' Jump Shot (20 PTS)"", 37.4), (""MISS Roy 6' Jump Shot"", 36.4), (""'Aldridge Free Throw 1 of 2 (3 PTS)'"", 33.1), (""'Aldridge Free Throw 2 of 2 (4 PTS)'"", 41.1), (""MISS Garnett 18' Jump Shot"", 48.0), (""''"", 50.0)]"
-GS,20070124,"[(""MISS Williams 4' Jump Shot"", 24.2), (""Kidd 25' 3PT Jump Shot (26 PTS) (Carter 13 AST)"", 38.2), (""MISS Barnes 26' 3PT Jump Shot"", 32.4), (""MISS Nachbar 24' 3PT Jump Shot"", 22.9), (""Ellis 17' Jump Shot (20 PTS) (Davis 10 AST)"", 93.4)]"
+GSW,20070124,"[(""MISS Williams 4' Jump Shot"", 24.2), (""Kidd 25' 3PT Jump Shot (26 PTS) (Carter 13 AST)"", 38.2), (""MISS Barnes 26' 3PT Jump Shot"", 32.4), (""MISS Nachbar 24' 3PT Jump Shot"", 22.9), (""Ellis 17' Jump Shot (20 PTS) (Davis 10 AST)"", 93.4)]"
 CHI,20070125,[]
 LAC,20070125,"[(""MISS Livingston 6' Jump Shot"", 21.7), (""Nachbar 24' 3PT Jump Shot (17 PTS) (Kidd 8 AST)"", 34.2), (""MISS Ross 7' Jump Shot"", 24.0), (""MISS Cassell 26' 3PT Jump Shot"", 46.3), (""Mobley 27' 3PT Jump Shot (17 PTS) (Cassell 10 AST)"", 94.2), (""MISS Carter 2' Layup"", 93.4)]"
 TOR,20070126,[]
 PHI,20070126,"[(""'Gibson  3PT Jump Shot (9 PTS) (Hughes 4 AST)'"", 23.0), (""'Iguodala  Layup (21 PTS) (Carney 1 AST)'"", 22.1), (""'MISS Gooden  Layup'"", 25.1), (""'Marshall  Layup (15 PTS)'"", 25.1), (""'MISS Wesley  Layup'"", 21.6), (""'Hughes  Tip Shot (16 PTS)'"", 21.6)]"
 ORL,20070126,[]
-NY,20070126,[]
+NYK,20070126,[]
 DET,20070126,"[(""MISS Arenas 26' 3PT Jump Shot"", 23.7), (""'Billups  3PT Jump Shot (15 PTS) (Wallace 5 AST)'"", 26.6), (""MISS Arenas 17' Jump Shot"", 23.5), (""'MISS Jamison  Layup'"", 23.9), (""Hamilton 12' Jump Shot (27 PTS) (Prince 5 AST)"", 26.3), (""'Jamison  3PT Jump Shot (35 PTS) (Butler 3 AST)'"", 42.1), (""'Billups Free Throw 1 of 2 (16 PTS)'"", 20.9), (""'Butler Free Throw 1 of 2 (5 PTS)'"", 23.8), (""'Butler Free Throw 2 of 2 (6 PTS)'"", 21.3), (""MISS Wallace 26' 3PT Jump Shot"", 68.1), (""MISS Wallace 27' 3PT Jump Shot"", 48.7)]"
-NO,20070126,"[(""Bibby 25' 3PT Jump Shot (19 PTS) (Miller 7 AST)"", 23.7), (""'Chandler  Layup (13 PTS) (Mason 2 AST)'"", 25.2), (""MISS Bibby 25' 3PT Jump Shot"", 45.8)]"
-SA,20070126,[]
+NOK,20070126,"[(""Bibby 25' 3PT Jump Shot (19 PTS) (Miller 7 AST)"", 23.7), (""'Chandler  Layup (13 PTS) (Mason 2 AST)'"", 25.2), (""MISS Bibby 25' 3PT Jump Shot"", 45.8)]"
+SAS,20070126,[]
 MIL,20070126,[]
 HOU,20070126,[]
-UTAH,20070126,"[(""'Iverson  3PT Jump Shot (31 PTS) (Anthony 2 AST)'"", 21.3), (""'Iverson  Layup (33 PTS) (Blake 6 AST)'"", 30.4), (""MISS Harpring 18' Jump Shot"", 33.7), (""'Boozer Free Throw 1 of 2 (24 PTS)'"", 20.6), (""MISS Blake 24' 3PT Jump Shot"", 34.2)]"
+UTA,20070126,"[(""'Iverson  3PT Jump Shot (31 PTS) (Anthony 2 AST)'"", 21.3), (""'Iverson  Layup (33 PTS) (Blake 6 AST)'"", 30.4), (""MISS Harpring 18' Jump Shot"", 33.7), (""'Boozer Free Throw 1 of 2 (24 PTS)'"", 20.6), (""MISS Blake 24' 3PT Jump Shot"", 34.2)]"
 LAL,20070126,"[(""MISS Odom 26' 3PT Jump Shot"", 20.7), (""'MISS Bynum  Layup'"", 21.6), (""'MISS Wallace  Layup'"", 20.5), (""MISS Bryant 8' Jump Shot"", 26.4), (""MISS Bryant 18' Jump Shot"", 33.3), (""'MISS Okafor  Layup'"", 20.7), (""'Wallace  Layup (18 PTS)'"", 20.2), (""Bryant 26' 3PT Jump Shot (30 PTS)"", 44.3), (""MISS Morrison 33' 3PT Jump Shot"", 50.3), (""''"", 50.0)]"
 SEA,20070126,"[(""'Smith  Layup (24 PTS)'"", 20.1), (""'MISS Ridnour  3PT Jump Shot'"", 30.4), (""Gelabale 16' Jump Shot (16 PTS) (Ridnour 4 AST)"", 25.9), (""MISS Garnett 5' Jump Shot"", 36.3), (""'Gelabale REBOUND (Off:2 Def:6)'"", 23.8), (""'Smith REBOUND (Off:4 Def:4)'"", 20.1), (""MISS Hassell 18' Jump Shot"", 93.4)]"
 ATL,20070127,[]
 IND,20070127,[]
 MEM,20070127,"[(""MISS Atkins 26' 3PT Jump Shot"", 24.7), (""'MISS Randolph  3PT Jump Shot'"", 23.7), (""'MISS Przybilla  Dunk'"", 20.5), (""'MISS Randolph  Layup'"", 20.9), (""'Przybilla  Layup (4 PTS)'"", 21.2), (""Warrick 7' Jump Shot (16 PTS) (Gasol 2 AST)"", 23.1), (""'MISS Jack  Driving Layup'"", 30.0), (""'Przybilla REBOUND (Off:4 Def:4)'"", 20.3), (""MISS Randolph 6' Fadeaway Jumper"", 32.4), (""'Jones REBOUND (Off:0 Def:8)'"", 21.3), (""MISS Miller 10' Jump Shot"", 36.8), (""'Miller REBOUND (Off:2 Def:5)'"", 23.8), (""'MISS Miller  Layup'"", 38.7), (""'Jack REBOUND (Off:0 Def:1)'"", 21.9), (""MISS Udoka 13' Fadeaway Jumper"", 48.0), (""''"", 50.0)]"
-NO,20070127,[]
+NOK,20070127,[]
 CHI,20070127,"[(""Gordon 20' Jump Shot (32 PTS)"", 20.9), (""MISS Posey 24' 3PT Jump Shot"", 32.6)]"
 DAL,20070127,"[(""'Terry  Driving Layup (18 PTS)'"", 21.7), (""Nowitzki 16' Fadeaway Jumper (30 PTS) (Terry 7 AST)"", 23.7), (""MISS Martin 24' 3PT Jump Shot"", 35.0)]"
 DEN,20070127,[]
 LAC,20070127,[]
-GS,20070127,[]
+GSW,20070127,[]
 CLE,20070128,[]
 MIL,20070128,[]
 LAL,20070128,"[(""MISS Ginobili 25' 3PT Jump Shot"", 35.0), (""'Bowen  3PT Jump Shot (3 PTS) (Duncan 7 AST)'"", 44.4), (""'MISS Radmanovic  3PT Jump Shot'"", 44.7), (""Radmanovic 28' 3PT Jump Shot (9 PTS) (Bynum 2 AST)"", 33.3), (""MISS Horry 24' 3PT Jump Shot"", 49.0), (""MISS Bryant 19' Jump Shot"", 48.0), (""''"", 50.0)]"
@@ -661,15 +661,15 @@ DET,20070128,[]
 SEA,20070128,[]
 ATL,20070129,[]
 MEM,20070129,"[(""MISS Miller 27' 3PT Jump Shot"", 27.5), (""'Gasol  Layup (34 PTS) (Warrick 1 AST)'"", 20.1), (""MISS World Peace 20' Jump Shot"", 24.4), (""'Atkins  Layup (17 PTS)'"", 25.1), (""MISS Martin 10' Jump Shot"", 22.9), (""Miller 26' 3PT Jump Shot (27 PTS) (Atkins 7 AST)"", 29.1)]"
-NO,20070129,[]
+NOK,20070129,[]
 MIN,20070129,[]
 HOU,20070129,[]
 DEN,20070129,"[(""Morrison 25' 3PT Jump Shot (12 PTS) (Felton 11 AST)"", 23.0), (""MISS Carroll 16' Jump Shot"", 20.7), (""'MISS Iverson  Driving Finger Roll'"", 22.3), (""MISS Anthony 24' 3PT Jump Shot"", 38.2), (""MISS Morrison 26' 3PT Jump Shot"", 29.3), (""'MISS Anthony  Layup'"", 31.3), (""MISS Wallace 18' Jump Shot"", 23.2), (""'Felton REBOUND (Off:2 Def:3)'"", 20.2), (""MISS Smith 25' 3PT Fadeaway Jumper"", 37.0)]"
-UTAH,20070129,"[(""MISS Kidd 24' 3PT Jump Shot"", 24.4), (""'Kirilenko  Driving Layup (8 PTS) (Okur 5 AST)'"", 20.8), (""Carter 35' 3PT Jump Shot (33 PTS)"", 94.2)]"
-WSH,20070130,[]
+UTA,20070129,"[(""MISS Kidd 24' 3PT Jump Shot"", 24.4), (""'Kirilenko  Driving Layup (8 PTS) (Okur 5 AST)'"", 20.8), (""Carter 35' 3PT Jump Shot (33 PTS)"", 94.2)]"
+WAS,20070130,[]
 CLE,20070130,[]
 IND,20070130,[]
-NY,20070130,[]
+NYK,20070130,[]
 MIA,20070130,[]
 DAL,20070130,[]
 TOR,20070131,[]
@@ -677,16 +677,16 @@ CHA,20070131,[]
 ATL,20070131,[]
 ORL,20070131,[]
 BOS,20070131,[]
-NJ,20070131,[]
+NJN,20070131,[]
 MEM,20070131,[]
-NO,20070131,[]
+NOK,20070131,[]
 HOU,20070131,[]
 MIN,20070131,"[(""MISS Foye 7' Jump Shot"", 21.3), (""MISS Davis 17' Jump Shot"", 22.0), (""MISS Bibby 26' 3PT Jump Shot"", 27.7), (""MISS Foye 16' Jump Shot"", 26.5), (""MISS Martin 26' 3PT Jump Shot"", 29.1), (""Garnett 12' Turnaround Jump Shot (18 PTS)"", 35.1), (""Martin 18' Jump Shot (27 PTS) (Bibby 5 AST)"", 38.5)]"
-UTAH,20070131,"[(""Parker 25' 3PT Jump Shot (27 PTS) (Duncan 2 AST)"", 20.6), (""'Bowen  3PT Jump Shot (6 PTS) (Ginobili 2 AST)'"", 29.6), (""D. Williams 25' 3PT Jump Shot (14 PTS) (Okur 2 AST)"", 35.9), (""'Horry  3PT Jump Shot (10 PTS) (Duncan 3 AST)'"", 36.9), (""'MISS Ginobili  Layup'"", 23.8), (""Duncan 15' Jump Bank Shot (23 PTS)"", 24.8), (""Okur 25' 3PT Jump Shot (29 PTS) (D. Williams 7 AST)"", 44.6), (""'MISS Bowen  3PT Jump Shot'"", 33.3), (""MISS Horry 25' 3PT Jump Shot"", 36.3)]"
+UTA,20070131,"[(""Parker 25' 3PT Jump Shot (27 PTS) (Duncan 2 AST)"", 20.6), (""'Bowen  3PT Jump Shot (6 PTS) (Ginobili 2 AST)'"", 29.6), (""D. Williams 25' 3PT Jump Shot (14 PTS) (Okur 2 AST)"", 35.9), (""'Horry  3PT Jump Shot (10 PTS) (Duncan 3 AST)'"", 36.9), (""'MISS Ginobili  Layup'"", 23.8), (""Duncan 15' Jump Bank Shot (23 PTS)"", 24.8), (""Okur 25' 3PT Jump Shot (29 PTS) (D. Williams 7 AST)"", 44.6), (""'MISS Bowen  3PT Jump Shot'"", 33.3), (""MISS Horry 25' 3PT Jump Shot"", 36.3)]"
 POR,20070131,[]
 LAC,20070131,[]
 MIA,20070201,"[(""MISS Gibson 24' 3PT Jump Shot"", 22.0), (""MISS Gibson 25' 3PT Jump Shot"", 23.3), (""MISS James 24' 3PT Jump Shot"", 33.7), (""'Gibson  3PT Jump Shot (19 PTS) (Gooden 1 AST)'"", 36.2), (""'Wade  Driving Layup (35 PTS)'"", 29.8), (""MISS Walker 25' 3PT Jump Shot"", 29.1), (""MISS James 26' 3PT Jump Shot"", 48.7)]"
-PHX,20070201,[]
+PHO,20070201,[]
 PHI,20070202,"[(""'MISS Korver  Layup'"", 26.2), (""MISS Pietrus 11' Jump Shot"", 21.8), (""'MISS Harrington  Layup'"", 22.2), (""'Iguodala  Slam Dunk (22 PTS) (Miller 4 AST)'"", 29.1), (""Davis 16' Fadeaway Jumper (25 PTS)"", 30.4), (""MISS Iguodala 17' Jump Shot"", 33.0), (""Iguodala 6' Running Jump Shot (24 PTS)"", 26.5), (""'Iguodala Free Throw 1 of 1 (25 PTS)'"", 20.4), (""MISS Ellis 11' Jump Shot"", 43.6), (""'MISS Harrington  Tip Shot'"", 47.0), (""Harrington 3' Driving Hook Shot (11 PTS)"", 78.5), (""MISS Iguodala 22' Jump Shot"", 78.5)]"
 ORL,20070202,[]
 IND,20070202,[]
@@ -694,38 +694,38 @@ BOS,20070202,[]
 ATL,20070202,[]
 CLE,20070202,[]
 DET,20070202,[]
-NO,20070202,[]
+NOK,20070202,[]
 DEN,20070202,"[(""Anthony 24' 3PT Jump Shot (29 PTS) (Nene 2 AST)"", 20.2), (""MISS Udoka 25' 3PT Jump Shot"", 22.5), (""Roy 24' 3PT Jump Shot (22 PTS)"", 43.0), (""MISS Anthony 22' Jump Shot"", 48.0), (""''"", 50.0)]"
 SEA,20070202,"[(""MISS Allen 10' Jump Shot"", 21.1)]"
-WSH,20070203,[]
+WAS,20070203,[]
 CHA,20070203,[]
 ORL,20070203,[]
 MEM,20070203,[]
 MIL,20070203,[]
 HOU,20070203,[]
 DAL,20070203,"[(""MISS Foye 25' 3PT Jump Shot"", 40.4), (""'MISS Davis  Layup'"", 26.4)]"
-PHX,20070203,"[(""MISS Nash 26' 3PT Jump Shot"", 20.4), (""Nash 26' 3PT Jump Shot (22 PTS)"", 39.4), (""Okur 8' Jump Shot (26 PTS)"", 29.7), (""'MISS Diaw Free Throw 1 of 2'"", 20.9), (""Okur 19' Jump Shot (28 PTS)"", 42.0), (""'MISS Diaw Free Throw 1 of 2'"", 33.1)]"
+PHO,20070203,"[(""MISS Nash 26' 3PT Jump Shot"", 20.4), (""Nash 26' 3PT Jump Shot (22 PTS)"", 39.4), (""Okur 8' Jump Shot (26 PTS)"", 29.7), (""'MISS Diaw Free Throw 1 of 2'"", 20.9), (""Okur 19' Jump Shot (28 PTS)"", 42.0), (""'MISS Diaw Free Throw 1 of 2'"", 33.1)]"
 SAC,20070203,[]
 POR,20070203,"[(""'MISS Hinrich  3PT Jump Shot'"", 38.7), (""Jack 7' Jump Shot (14 PTS)"", 25.6), (""'MISS Roy  Layup'"", 27.0)]"
 TOR,20070204,[]
-NJ,20070204,"[(""Williams 21' Jump Shot (12 PTS) (Claxton 6 AST)"", 24.5), (""MISS Carter 8' Jump Shot"", 22.7), (""'Williams  Layup (14 PTS) (Kidd 10 AST)'"", 29.8), (""'MISS Smith  3PT Jump Shot'"", 49.4), (""''"", 50.0)]"
+NJN,20070204,"[(""Williams 21' Jump Shot (12 PTS) (Claxton 6 AST)"", 24.5), (""MISS Carter 8' Jump Shot"", 22.7), (""'Williams  Layup (14 PTS) (Kidd 10 AST)'"", 29.8), (""'MISS Smith  3PT Jump Shot'"", 49.4), (""''"", 50.0)]"
 CLE,20070204,[]
 PHI,20070205,"[(""MISS Wright 25' 3PT Jump Shot"", 20.3), (""MISS Kidd 26' 3PT Jump Shot"", 20.6), (""MISS Iguodala 4' Jump Shot"", 24.3), (""'MISS Carter  Layup'"", 26.3), (""'Iguodala  Alley Oop Dunk (20 PTS) (Miller 4 AST)'"", 28.1), (""MISS Carter 7' Jump Shot"", 24.7), (""Smith 17' Jump Shot (10 PTS) (Iguodala 12 AST)"", 21.8), (""'House  3PT Jump Shot (15 PTS) (Carter 4 AST)'"", 36.3), (""MISS Smith 22' Jump Shot"", 48.0), (""''"", 50.0)]"
-WSH,20070205,[]
+WAS,20070205,[]
 ATL,20070205,[]
 IND,20070205,[]
 MIA,20070205,[]
 HOU,20070205,[]
-UTAH,20070205,[]
+UTA,20070205,[]
 SAC,20070205,[]
-NY,20070206,[]
+NYK,20070206,[]
 DET,20070206,[]
 MIL,20070206,[]
 MEM,20070206,[]
 POR,20070206,"[(""'MISS Roy  Driving Finger Roll'"", 23.3), (""'Barbosa  3PT Jump Shot (17 PTS) (Diaw 5 AST)'"", 42.7), (""'Udoka  3PT Jump Shot (10 PTS) (Roy 5 AST)'"", 33.1), (""'MISS Outlaw  Driving Layup'"", 43.9), (""MISS Barbosa 20' Jump Shot"", 48.0), (""''"", 50.0)]"
 TOR,20070207,[]
 PHI,20070207,[]
-WSH,20070207,[]
+WAS,20070207,[]
 ATL,20070207,"[(""MISS Carter 5' Jump Shot"", 20.1), (""'MISS Carter  Dunk'"", 20.1), (""MISS Johnson 8' Jump Shot"", 25.8), (""MISS Nachbar 27' 3PT Jump Shot"", 29.0), (""MISS Carter 19' Jump Shot"", 23.7), (""'MISS Johnson  Driving Layup'"", 39.2), (""'Johnson REBOUND (Off:2 Def:5)'"", 20.7), (""'Johnson  Tip Shot (10 PTS)'"", 40.0), (""'Carter  Driving Layup (21 PTS)'"", 51.0), (""MISS Richardson 19' Jump Shot"", 76.5)]"
 CLE,20070207,[]
 IND,20070207,"[(""Brown 2' Driving Layup (6 PTS) (Watson 5 AST)"", 23.5), (""Tinsley 7' Jump Bank Shot (25 PTS)"", 30.2), (""MISS Allen 17' Jump Shot"", 35.4), (""Brown 2' Layup (9 PTS)"", 35.6), (""MISS Tinsley 7' Jump Shot"", 58.4), (""MISS Foster 1' Layup"", 76.5), (""MISS Granger 1' Layup"", 78.5), (""MISS Tinsley 2' Layup"", 93.4)]"
@@ -734,7 +734,7 @@ MIN,20070207,[]
 DAL,20070207,[]
 DEN,20070207,"[(""'MISS Nene  Layup'"", 31.3), (""'Najera REBOUND (Off:3 Def:4)'"", 20.8), (""'Najera  Tip Shot (11 PTS)'"", 31.6), (""MISS Paul 5' Running Jump Shot"", 27.4), (""'Mason  Tip Shot (19 PTS)'"", 27.4), (""MISS Anthony 17' Jump Shot"", 43.7), (""MISS Paul 13' Jump Shot"", 48.0), (""''"", 50.0)]"
 DET,20070208,[]
-NO,20070208,"[(""'MISS Noel  3PT Jump Shot'"", 22.0), (""MISS Villanueva 25' 3PT Jump Shot"", 24.2), (""Williams 21' Jump Shot (22 PTS)"", 22.5), (""MISS Brown 17' Jump Shot"", 25.5), (""MISS Brown 24' 3PT Jump Shot"", 41.0), (""'Paul  Layup (10 PTS)'"", 48.0), (""''"", 50.0)]"
+NOK,20070208,"[(""'MISS Noel  3PT Jump Shot'"", 22.0), (""MISS Villanueva 25' 3PT Jump Shot"", 24.2), (""Williams 21' Jump Shot (22 PTS)"", 22.5), (""MISS Brown 17' Jump Shot"", 25.5), (""MISS Brown 24' 3PT Jump Shot"", 41.0), (""'Paul  Layup (10 PTS)'"", 48.0), (""''"", 50.0)]"
 SAC,20070208,[]
 TOR,20070209,"[(""Evans 24' 3PT Jump Shot (17 PTS) (Bryant 5 AST)"", 20.2), (""'Bryant  Driving Dunk (25 PTS)'"", 20.2), (""'Peterson  3PT Jump Shot (10 PTS) (Ford 7 AST)'"", 32.0), (""MISS Bryant 24' 3PT Jump Shot"", 38.0), (""MISS Ford 17' Jump Shot"", 21.3), (""MISS Evans 7' Jump Shot"", 30.4), (""MISS Cook 21' Jump Shot"", 35.1), (""MISS Bryant 24' 3PT Jump Shot"", 44.3)]"
 PHI,20070209,"[(""MISS Cassell 20' Jump Shot"", 23.7), (""'MISS Dalembert  Layup'"", 24.3), (""MISS Brand 10' Jump Shot"", 27.2), (""Livingston 11' Turnaround Jump Shot (11 PTS)"", 27.7), (""MISS Iguodala 16' Jump Shot"", 23.9), (""MISS Korver 18' Jump Shot"", 24.4), (""MISS Iguodala 25' 3PT Jump Shot"", 43.0)]"
@@ -745,28 +745,28 @@ BOS,20070209,[]
 CLE,20070209,[]
 MEM,20070209,"[(""MISS Miller 26' 3PT Jump Shot"", 22.3), (""Warrick 14' Jump Shot (11 PTS) (Miller 6 AST)"", 22.1), (""Davis 22' Jump Shot (16 PTS)"", 29.1), (""'Miller  Driving Layup (13 PTS)'"", 25.6), (""MISS Blount 13' Jump Shot"", 34.5), (""'Atkins REBOUND (Off:0 Def:2)'"", 23.8), (""'MISS Atkins  Driving Layup'"", 42.0), (""'MISS Gasol  Tip Shot'"", 45.0), (""MISS Warrick 20' Jump Shot"", 48.0), (""''"", 50.0)]"
 DAL,20070209,[]
-PHX,20070209,[]
-GS,20070209,"[(""MISS Harrington 26' 3PT Jump Shot"", 21.5), (""'Pietrus  3PT Jump Shot (11 PTS) (Jackson 7 AST)'"", 39.2), (""MISS Gordon 26' 3PT Jump Shot"", 41.0), (""MISS Deng 18' Jump Shot"", 23.9), (""Brown 5' Hook Bank Shot (19 PTS)"", 23.9), (""'MISS Jackson  3PT Jump Shot'"", 44.5), (""'Deng REBOUND (Off:0 Def:8)'"", 22.0), (""MISS Gordon 4' Jump Shot"", 41.2), (""MISS Harrington 42' 3PT Jump Shot"", 50.2), (""''"", 50.0)]"
-NJ,20070210,[]
+PHO,20070209,[]
+GSW,20070209,"[(""MISS Harrington 26' 3PT Jump Shot"", 21.5), (""'Pietrus  3PT Jump Shot (11 PTS) (Jackson 7 AST)'"", 39.2), (""MISS Gordon 26' 3PT Jump Shot"", 41.0), (""MISS Deng 18' Jump Shot"", 23.9), (""Brown 5' Hook Bank Shot (19 PTS)"", 23.9), (""'MISS Jackson  3PT Jump Shot'"", 44.5), (""'Deng REBOUND (Off:0 Def:8)'"", 22.0), (""MISS Gordon 4' Jump Shot"", 41.2), (""MISS Harrington 42' 3PT Jump Shot"", 50.2), (""''"", 50.0)]"
+NJN,20070210,[]
 DET,20070210,[]
-NO,20070210,[]
+NOK,20070210,[]
 MIL,20070210,"[(""Boykins 4' Jump Shot (26 PTS)"", 21.3), (""Najera 5' Jump Shot (15 PTS)"", 27.2), (""MISS Patterson 6' Jump Shot"", 25.2)]"
 HOU,20070210,[]
-UTAH,20070210,"[(""Okur 25' 3PT Jump Shot (24 PTS) (D. Williams 8 AST)"", 27.3), (""MISS Harpring 19' Jump Shot"", 21.4), (""'Curry  Layup (25 PTS) (Lee 3 AST)'"", 20.1), (""MISS Okur 25' 3PT Jump Shot"", 42.1), (""Okur 8' Running Jump Shot (27 PTS)"", 28.4), (""MISS Crawford 25' 3PT Jump Shot"", 50.3), (""''"", 50.0)]"
+UTA,20070210,"[(""Okur 25' 3PT Jump Shot (24 PTS) (D. Williams 8 AST)"", 27.3), (""MISS Harpring 19' Jump Shot"", 21.4), (""'Curry  Layup (25 PTS) (Lee 3 AST)'"", 20.1), (""MISS Okur 25' 3PT Jump Shot"", 42.1), (""Okur 8' Running Jump Shot (27 PTS)"", 28.4), (""MISS Crawford 25' 3PT Jump Shot"", 50.3), (""''"", 50.0)]"
 SEA,20070210,[]
-WSH,20070211,[]
+WAS,20070211,[]
 MIA,20070211,[]
 IND,20070211,[]
 CLE,20070211,"[(""'Pavlovic  3PT Jump Shot (16 PTS) (James 4 AST)'"", 21.0)]"
 MIN,20070211,"[(""Pierce 25' 3PT Jump Shot (29 PTS) (West 8 AST)"", 21.1), (""'MISS Jaric  Layup'"", 23.9), (""'Jefferson  Slam Dunk (9 PTS) (Pierce 2 AST)'"", 24.8), (""MISS West 24' 3PT Jump Shot"", 39.7), (""MISS Garnett 17' Turnaround Jump Shot"", 33.5), (""'West REBOUND (Off:0 Def:7)'"", 22.0), (""Davis 18' Jump Shot (28 PTS) (Foye 8 AST)"", 48.0)]"
 PHI,20070211,[]
-PHX,20070211,[]
-GS,20070211,"[(""MISS Jackson 25' 3PT Jump Shot"", 32.3), (""'MISS Childress  Layup'"", 20.7), (""MISS Jackson 19' Jump Shot"", 93.4)]"
+PHO,20070211,[]
+GSW,20070211,"[(""MISS Jackson 25' 3PT Jump Shot"", 32.3), (""'MISS Childress  Layup'"", 20.7), (""MISS Jackson 19' Jump Shot"", 93.4)]"
 SAC,20070211,[]
 DET,20070212,[]
 DEN,20070212,[]
-UTAH,20070212,[]
-NJ,20070213,[]
+UTA,20070212,[]
+NJN,20070213,[]
 MIA,20070213,[]
 MIL,20070213,"[(""MISS Williams 24' 3PT Jump Shot"", 25.4), (""MISS Nowitzki 12' Jump Shot"", 20.6), (""MISS Stackhouse 15' Jump Shot"", 25.6), (""'MISS Nowitzki  Layup'"", 26.2), (""'Nowitzki  Layup (36 PTS) (Terry 10 AST)'"", 27.0), (""Terry 16' Jump Shot (11 PTS) (Nowitzki 8 AST)"", 32.4), (""MISS Bell 18' Jump Shot"", 26.2)]"
 MEM,20070213,"[(""Atkins 25' 3PT Jump Shot (13 PTS) (Gay 2 AST)"", 20.2), (""Atkins 24' 3PT Jump Shot (16 PTS)"", 21.8), (""MISS Roberts 16' Jump Shot"", 21.6), (""MISS Pargo 25' 3PT Jump Shot"", 33.7)]"
@@ -780,19 +780,19 @@ ORL,20070214,[]
 IND,20070214,[]
 BOS,20070214,[]
 DET,20070214,[]
-NO,20070214,[]
+NOK,20070214,[]
 MIN,20070214,"[(""Blount 20' Jump Shot (22 PTS) (Davis 6 AST)"", 21.1), (""'Anthony  Layup (26 PTS) (Camby 1 AST)'"", 22.5), (""Blount 18' Jump Shot (24 PTS) (Davis 7 AST)"", 23.7), (""MISS Blake 26' 3PT Jump Shot"", 42.2), (""MISS Kleiza 17' Jump Shot"", 29.9), (""'Foye  Driving Layup (6 PTS)'"", 23.6)]"
-UTAH,20070214,"[(""MISS Pavlovic 37' 3PT Jump Shot"", 96.0)]"
+UTA,20070214,"[(""MISS Pavlovic 37' 3PT Jump Shot"", 96.0)]"
 SEA,20070214,[]
 LAC,20070214,"[(""MISS Cassell 14' Jump Shot"", 24.2), (""MISS Smith 26' 3PT Jump Shot"", 38.7), (""MISS Kaman 6' Jump Shot"", 32.4), (""'Cassell REBOUND (Off:1 Def:2)'"", 21.4), (""MISS Cassell 26' 3PT Jump Shot"", 44.0), (""'Pachulia REBOUND (Off:7 Def:5)'"", 21.7), (""Johnson 4' Running Jump Shot (23 PTS)"", 34.6), (""MISS Kaman 5' Hook Shot"", 29.0), (""'MISS Kaman  Layup'"", 31.6), (""MISS Maggette 25' 3PT Jump Shot"", 48.7)]"
-GS,20070214,[]
+GSW,20070214,[]
 HOU,20070215,"[(""McGrady 26' 3PT Jump Shot (27 PTS)"", 23.3), (""MISS Alston 26' 3PT Jump Shot"", 27.3), (""MISS Stackhouse 21' Jump Shot"", 24.7), (""Terry 15' Jump Shot (7 PTS)"", 26.4), (""MISS Howard 6' Hook Shot"", 28.9), (""MISS Terry 23' Jump Shot"", 23.6), (""'MISS Head  3PT Jump Shot'"", 60.4), (""'ROCKETS Rebound'"", 20.5), (""MISS Head 12' Jump Bank Shot"", 53.3)]"
 LAL,20070215,"[(""MISS Pavlovic 26' 3PT Jump Shot"", 22.3), (""Pavlovic 25' 3PT Jump Shot (11 PTS) (James 3 AST)"", 23.6), (""MISS Odom 26' 3PT Jump Shot"", 21.2)]"
-WSH,20070220,[]
+WAS,20070220,[]
 CHA,20070220,[]
-NY,20070220,[]
+NYK,20070220,[]
 MIL,20070220,"[(""'Bell  Layup (20 PTS)'"", 20.2), (""Wallace 6' Jump Shot (16 PTS)"", 25.4), (""'MISS Redd  Layup'"", 24.0), (""MISS Wallace 16' Jump Shot"", 21.1), (""'MISS Williams  Layup'"", 78.5)]"
-SA,20070220,[]
+SAS,20070220,[]
 CHI,20070220,[]
 SAC,20070220,"[(""MISS West 25' 3PT Jump Shot"", 48.7)]"
 POR,20070220,"[(""MISS Okur 31' 3PT Jump Shot"", 48.7)]"
@@ -802,62 +802,62 @@ TOR,20070221,"[(""'Parker  3PT Jump Shot (9 PTS) (Ford 9 AST)'"", 21.4), (""MISS
 PHI,20070221,[]
 ATL,20070221,[]
 IND,20070221,"[(""O'Neal 3' Driving Layup (25 PTS) (Tinsley 10 AST)"", 22.1), (""Bell 24' 3PT Jump Shot (19 PTS)"", 33.3), (""MISS O'Neal 14' Jump Shot"", 45.0), (""MISS Daniels 2' Layup"", 48.0), (""''"", 50.0)]"
-NJ,20070221,"[(""MISS House 25' 3PT Jump Shot"", 20.7), (""MISS Kidd 25' 3PT Jump Shot"", 20.8)]"
+NJN,20070221,"[(""MISS House 25' 3PT Jump Shot"", 20.7), (""MISS Kidd 25' 3PT Jump Shot"", 20.8)]"
 DET,20070221,[]
 MIN,20070221,"[(""Morrison 27' 3PT Jump Shot (21 PTS) (Felton 6 AST)"", 21.3)]"
 HOU,20070221,[]
-PHX,20070221,[]
+PHO,20070221,[]
 LAL,20070221,[]
-GS,20070221,"[(""MISS Jackson 26' 3PT Jump Shot"", 22.1), (""Stoudamire 26' 3PT Jump Shot (14 PTS) (Gay 3 AST)"", 23.4), (""MISS Gasol 3' Turnaround Hook Shot"", 20.8), (""Jackson 4' Turnaround Hook Shot (23 PTS)"", 22.2), (""Gasol 5' Turnaround Hook Shot (18 PTS) (Miller 6 AST)"", 20.3), (""Jackson 1' Reverse Layup (25 PTS)"", 24.4), (""MISS Miller 25' 3PT Jump Shot"", 38.9), (""MISS Stoudamire 26' 3PT Jump Shot"", 39.4), (""Gasol 5' Jump Hook Shot (20 PTS)"", 26.1), (""MISS Jackson 26' 3PT Jump Shot"", 49.3), (""MISS Miller 21' Jump Shot"", 48.0), (""''"", 50.0)]"
-WSH,20070222,"[(""MISS Bibby 27' 3PT Jump Shot"", 24.3), (""MISS Arenas 28' 3PT Jump Shot"", 27.9), (""Bibby 25' 3PT Jump Shot (30 PTS) (Miller 4 AST)"", 34.2), (""MISS Bibby 27' 3PT Jump Shot"", 28.8)]"
+GSW,20070221,"[(""MISS Jackson 26' 3PT Jump Shot"", 22.1), (""Stoudamire 26' 3PT Jump Shot (14 PTS) (Gay 3 AST)"", 23.4), (""MISS Gasol 3' Turnaround Hook Shot"", 20.8), (""Jackson 4' Turnaround Hook Shot (23 PTS)"", 22.2), (""Gasol 5' Turnaround Hook Shot (18 PTS) (Miller 6 AST)"", 20.3), (""Jackson 1' Reverse Layup (25 PTS)"", 24.4), (""MISS Miller 25' 3PT Jump Shot"", 38.9), (""MISS Stoudamire 26' 3PT Jump Shot"", 39.4), (""Gasol 5' Jump Hook Shot (20 PTS)"", 26.1), (""MISS Jackson 26' 3PT Jump Shot"", 49.3), (""MISS Miller 21' Jump Shot"", 48.0), (""''"", 50.0)]"
+WAS,20070222,"[(""MISS Bibby 27' 3PT Jump Shot"", 24.3), (""MISS Arenas 28' 3PT Jump Shot"", 27.9), (""Bibby 25' 3PT Jump Shot (30 PTS) (Miller 4 AST)"", 34.2), (""MISS Bibby 27' 3PT Jump Shot"", 28.8)]"
 CLE,20070222,[]
 DAL,20070222,[]
 TOR,20070223,[]
 CHA,20070223,[]
 ORL,20070223,[]
-NJ,20070223,[]
-NY,20070223,"[(""'MISS Richardson  3PT Jump Shot'"", 25.9), (""Crawford 25' 3PT Jump Shot (22 PTS) (Marbury 8 AST)"", 44.3), (""Williams 26' 3PT Jump Shot (28 PTS) (Bogut 3 AST)"", 33.3), (""MISS Marbury 11' Jump Shot"", 43.9)]"
+NJN,20070223,[]
+NYK,20070223,"[(""'MISS Richardson  3PT Jump Shot'"", 25.9), (""Crawford 25' 3PT Jump Shot (22 PTS) (Marbury 8 AST)"", 44.3), (""Williams 26' 3PT Jump Shot (28 PTS) (Bogut 3 AST)"", 33.3), (""MISS Marbury 11' Jump Shot"", 43.9)]"
 ATL,20070223,"[(""MISS McGrady 24' 3PT Jump Shot"", 20.7)]"
 CHI,20070223,[]
-NO,20070223,"[(""MISS Butler 25' 3PT Jump Shot"", 20.1), (""MISS Allen 26' 3PT Jump Shot"", 23.5), (""'MISS Lewis  Layup'"", 20.1), (""MISS Allen 20' Jump Shot"", 23.0), (""MISS Allen 19' Jump Shot"", 93.4)]"
+NOK,20070223,"[(""MISS Butler 25' 3PT Jump Shot"", 20.1), (""MISS Allen 26' 3PT Jump Shot"", 23.5), (""'MISS Lewis  Layup'"", 20.1), (""MISS Allen 20' Jump Shot"", 23.0), (""MISS Allen 19' Jump Shot"", 93.4)]"
 MIN,20070223,[]
 POR,20070223,"[(""MISS Atkins 28' 3PT Jump Shot"", 35.6), (""'MISS Jack  3PT Jump Shot'"", 38.1), (""MISS Roy 7' Jump Shot"", 29.8), (""'MISS Magloire  Layup'"", 30.4), (""'Udoka REBOUND (Off:2 Def:6)'"", 20.4), (""'MISS Randolph  Layup'"", 30.7), (""'Udoka Free Throw 1 of 2 (8 PTS)'"", 37.0), (""'MISS Udoka Free Throw 2 of 2'"", 48.1)]"
 DEN,20070223,[]
 LAL,20070223,[]
 LAC,20070224,[]
 CHA,20070224,[]
-SA,20070224,[]
+SAS,20070224,[]
 MIL,20070224,[]
 DAL,20070224,[]
-UTAH,20070224,[]
+UTA,20070224,[]
 DET,20070225,"[(""MISS Duhon 25' 3PT Jump Shot"", 45.5), (""MISS Billups 16' Jump Shot"", 45.0), (""'Webber  Tip Shot (21 PTS)'"", 45.0), (""'MISS Gordon  3PT Jump Shot'"", 81.3)]"
 ATL,20070225,[]
 ORL,20070225,[]
 MIA,20070225,[]
 MIN,20070225,[]
-NJ,20070225,[]
-GS,20070225,[]
+NJN,20070225,[]
+GSW,20070225,[]
 IND,20070225,[]
 PHI,20070226,[]
-NY,20070226,"[(""Kapono 24' 3PT Jump Shot (24 PTS) (Williams 7 AST)"", 27.2), (""'MISS Curry  Layup'"", 23.6), (""MISS Kapono 9' Jump Shot"", 25.9), (""'Marbury  Driving Layup (25 PTS)'"", 27.2), (""MISS Jones 6' Jump Shot"", 23.6), (""Crawford 24' 3PT Jump Shot (18 PTS) (Rose 1 AST)"", 28.9)]"
+NYK,20070226,"[(""Kapono 24' 3PT Jump Shot (24 PTS) (Williams 7 AST)"", 27.2), (""'MISS Curry  Layup'"", 23.6), (""MISS Kapono 9' Jump Shot"", 25.9), (""'Marbury  Driving Layup (25 PTS)'"", 27.2), (""MISS Jones 6' Jump Shot"", 23.6), (""Crawford 24' 3PT Jump Shot (18 PTS) (Rose 1 AST)"", 28.9)]"
 MEM,20070226,"[(""MISS Iverson 27' 3PT Jump Shot"", 23.4)]"
-SA,20070226,[]
+SAS,20070226,[]
 CHI,20070226,"[(""MISS Hinrich 25' 3PT Jump Shot"", 20.9)]"
 HOU,20070226,"[(""MISS Battier 26' 3PT Jump Shot"", 31.3), (""MISS Pierce 18' Fadeaway Jumper"", 22.9), (""'MISS Howard  Layup'"", 23.8), (""'West  Layup (12 PTS) (Telfair 2 AST)'"", 24.1)]"
 DAL,20070226,[]
-UTAH,20070226,[]
+UTA,20070226,[]
 SEA,20070226,[]
 LAC,20070226,[]
 CLE,20070227,"[(""Hughes 24' 3PT Jump Shot (11 PTS) (Gibson 1 AST)"", 20.9)]"
 IND,20070227,[]
-NJ,20070227,[]
+NJN,20070227,[]
 MIL,20070227,[]
 MIN,20070227,[]
 PHI,20070228,"[(""Barbosa 25' 3PT Jump Shot (11 PTS) (Nash 9 AST)"", 20.4), (""Iguodala 25' 3PT Jump Shot (22 PTS)"", 26.2)]"
-WSH,20070228,[]
+WAS,20070228,[]
 BOS,20070228,[]
 MEM,20070228,[]
-NO,20070228,[]
+NOK,20070228,[]
 CHI,20070228,[]
 HOU,20070228,[]
 DEN,20070228,[]
@@ -868,16 +868,16 @@ POR,20070301,[]
 SEA,20070301,"[(""MISS Mobley 28' 3PT Jump Shot"", 37.7), (""MISS Brand 11' Jump Shot"", 48.0)]"
 TOR,20070302,[]
 PHI,20070302,"[(""Miller 18' Jump Shot (7 PTS)"", 22.3), (""'MISS Gasol  Layup'"", 20.1), (""'Iguodala  Reverse Layup (25 PTS)'"", 23.2), (""Miller 28' 3PT Jump Shot (25 PTS) (Gasol 6 AST)"", 39.7), (""MISS Iguodala 18' Jump Shot"", 43.9), (""''"", 50.0)]"
-WSH,20070302,"[(""MISS Jamison 6' Jump Shot"", 21.2), (""MISS Jamison 6' Jump Shot"", 21.5), (""Childress 2' Dunk (16 PTS) (Johnson 6 AST)"", 30.4), (""MISS Arenas 2' Layup"", 32.0), (""'Stevenson Free Throw 1 of 2 (8 PTS)'"", 20.1), (""'Haywood REBOUND (Off:3 Def:6)'"", 21.4), (""MISS Haywood 3' Layup"", 32.9), (""'Stevenson REBOUND (Off:1 Def:2)'"", 21.7), (""MISS Williams 18' Jump Shot"", 58.4), (""MISS Lue 26' 3PT Jump Shot"", 96.0)]"
-NY,20070302,[]
+WAS,20070302,"[(""MISS Jamison 6' Jump Shot"", 21.2), (""MISS Jamison 6' Jump Shot"", 21.5), (""Childress 2' Dunk (16 PTS) (Johnson 6 AST)"", 30.4), (""MISS Arenas 2' Layup"", 32.0), (""'Stevenson Free Throw 1 of 2 (8 PTS)'"", 20.1), (""'Haywood REBOUND (Off:3 Def:6)'"", 21.4), (""MISS Haywood 3' Layup"", 32.9), (""'Stevenson REBOUND (Off:1 Def:2)'"", 21.7), (""MISS Williams 18' Jump Shot"", 58.4), (""MISS Lue 26' 3PT Jump Shot"", 96.0)]"
+NYK,20070302,[]
 MIA,20070302,"[(""'MISS Kapono  3PT Jump Shot'"", 21.1), (""MISS Posey 25' 3PT Jump Shot"", 30.0), (""Walker 26' 3PT Jump Shot (22 PTS) (O'Neal 6 AST)"", 42.0), (""'MISS Walker  Layup'"", 32.0), (""O'Neal REBOUND (Off:4 Def:11)"", 21.0), (""O'Neal  Follow Up Dunk (31 PTS)"", 32.2), (""MISS Hamilton 17' Jump Shot"", 26.1), (""MISS Webber 26' 3PT Jump Shot"", 33.3), (""MISS Billups 25' 3PT Jump Shot"", 43.0), (""MISS Hamilton 32' 3PT Jump Shot"", 48.7)]"
-SA,20070302,[]
+SAS,20070302,[]
 MIN,20070302,[]
 CHI,20070302,"[(""MISS Brown 26' 3PT Jump Shot"", 21.0)]"
 DEN,20070302,[]
-PHX,20070302,[]
+PHO,20070302,[]
 LAL,20070302,[]
-NJ,20070303,"[(""West 27' 3PT Jump Shot (11 PTS)"", 39.7), (""MISS House 37' 3PT Jump Shot"", 50.2), (""''"", 50.0)]"
+NJN,20070303,"[(""West 27' 3PT Jump Shot (11 PTS)"", 39.7), (""MISS House 37' 3PT Jump Shot"", 50.2), (""''"", 50.0)]"
 ATL,20070303,"[(""Marbury 29' 3PT Jump Shot (27 PTS) (Balkman 1 AST)"", 22.1), (""MISS Lue 27' 3PT Jump Shot"", 20.1), (""MISS Smith 24' 3PT Jump Shot"", 36.9), (""'Johnson  Dunk (26 PTS) (Childress 3 AST)'"", 23.8), (""MISS Collins 12' Jump Shot"", 33.3), (""'Johnson REBOUND (Off:1 Def:6)'"", 21.8), (""MISS Johnson 16' Turnaround Jump Shot"", 42.0), (""'MISS Marbury  Driving Layup'"", 43.9), (""''"", 50.0)]"
 CLE,20070303,[]
 MEM,20070303,"[(""'MISS Gay  3PT Jump Shot'"", 40.8)]"
@@ -886,20 +886,20 @@ DAL,20070303,"[(""MISS Stackhouse 24' 3PT Jump Shot"", 20.2), (""Terry 16' Fadea
 POR,20070303,[]
 LAC,20070303,[]
 BOS,20070304,"[(""MISS Hudson 25' 3PT Jump Shot"", 26.5), (""Hudson 26' 3PT Jump Shot (26 PTS) (McCants 3 AST)"", 35.6), (""MISS West 26' 3PT Jump Shot"", 49.4), (""''"", 50.0)]"
-WSH,20070304,"[(""MISS Ellis 26' 3PT Jump Shot"", 22.9), (""MISS Harrington 2' Layup"", 20.1), (""'Richardson  3PT Jump Shot (28 PTS) (Pietrus 1 AST)'"", 41.1), (""MISS Arenas 2' Layup"", 23.7), (""Butler 1' Slam Dunk (20 PTS)"", 24.0), (""Ellis 17' Jump Shot (20 PTS) (Richardson 8 AST)"", 32.2), (""'Stevenson  Driving Layup (7 PTS) (Jamison 2 AST)'"", 25.7), (""MISS Richardson 18' Jump Shot"", 41.2), (""'Arenas Free Throw 1 of 2 (31 PTS)'"", 46.7), (""'Arenas Free Throw 2 of 2 (32 PTS)'"", 45.9)]"
+WAS,20070304,"[(""MISS Ellis 26' 3PT Jump Shot"", 22.9), (""MISS Harrington 2' Layup"", 20.1), (""'Richardson  3PT Jump Shot (28 PTS) (Pietrus 1 AST)'"", 41.1), (""MISS Arenas 2' Layup"", 23.7), (""Butler 1' Slam Dunk (20 PTS)"", 24.0), (""Ellis 17' Jump Shot (20 PTS) (Richardson 8 AST)"", 32.2), (""'Stevenson  Driving Layup (7 PTS) (Jamison 2 AST)'"", 25.7), (""MISS Richardson 18' Jump Shot"", 41.2), (""'Arenas Free Throw 1 of 2 (31 PTS)'"", 46.7), (""'Arenas Free Throw 2 of 2 (32 PTS)'"", 45.9)]"
 MIL,20070304,"[(""MISS Williams 16' Jump Shot"", 20.6), (""MISS Gordon 28' 3PT Jump Shot"", 41.1), (""MISS Allen 15' Jump Shot"", 32.0), (""MISS Redd 18' Jump Shot"", 23.0), (""'Wallace REBOUND (Off:3 Def:9)'"", 20.5), (""Gordon 16' Jump Shot (44 PTS)"", 43.6), (""MISS Redd 18' Jump Shot"", 55.8), (""'MISS Patterson Free Throw 1 of 2'"", 34.2), (""'Patterson Free Throw 2 of 2 (14 PTS)'"", 33.4), (""MISS Duhon 38' 3PT Jump Shot"", 50.3), (""''"", 50.0)]"
-PHX,20070304,"[(""MISS Cook 25' 3PT Jump Shot"", 21.1)]"
-NO,20070304,[]
+PHO,20070304,"[(""MISS Cook 25' 3PT Jump Shot"", 21.1)]"
+NOK,20070304,[]
 PHI,20070304,[]
 SEA,20070304,[]
 ORL,20070305,[]
 CLE,20070305,"[(""MISS McGrady 25' 3PT Jump Shot"", 20.7)]"
 MIA,20070305,[]
 DET,20070305,[]
-UTAH,20070305,[]
+UTA,20070305,[]
 LAC,20070305,[]
-WSH,20070306,[]
-NY,20070306,"[(""Allen 24' 3PT Jump Shot (29 PTS) (Watson 9 AST)"", 24.9), (""Richardson 11' Jump Bank Shot (12 PTS) (Marbury 3 AST)"", 22.1), (""'MISS Lewis  Layup'"", 28.6), (""'Lewis  Tip Shot (21 PTS)'"", 28.9), (""'Marbury  Driving Layup (38 PTS)'"", 24.6), (""MISS Allen 22' Jump Shot"", 32.8), (""MISS Marbury 25' 3PT Jump Shot"", 27.2), (""'Allen REBOUND (Off:1 Def:7)'"", 20.1), (""Lewis 24' 3PT Jump Shot (24 PTS) (Allen 7 AST)"", 73.8), (""'Marbury Free Throw 1 of 2 (40 PTS)'"", 37.0), (""'MISS Marbury Free Throw 2 of 2'"", 48.1)]"
+WAS,20070306,[]
+NYK,20070306,"[(""Allen 24' 3PT Jump Shot (29 PTS) (Watson 9 AST)"", 24.9), (""Richardson 11' Jump Bank Shot (12 PTS) (Marbury 3 AST)"", 22.1), (""'MISS Lewis  Layup'"", 28.6), (""'Lewis  Tip Shot (21 PTS)'"", 28.9), (""'Marbury  Driving Layup (38 PTS)'"", 24.6), (""MISS Allen 22' Jump Shot"", 32.8), (""MISS Marbury 25' 3PT Jump Shot"", 27.2), (""'Allen REBOUND (Off:1 Def:7)'"", 20.1), (""Lewis 24' 3PT Jump Shot (24 PTS) (Allen 7 AST)"", 73.8), (""'Marbury Free Throw 1 of 2 (40 PTS)'"", 37.0), (""'MISS Marbury Free Throw 2 of 2'"", 48.1)]"
 MIN,20070306,"[(""'Blount  3PT Jump Shot (18 PTS) (Davis 8 AST)'"", 20.1), (""'MISS Bryant  3PT Jump Shot'"", 29.3), (""'MISS Parker  Tip Shot'"", 23.8), (""'Davis Free Throw 1 of 2 (25 PTS)'"", 28.4), (""'Davis Free Throw 2 of 2 (26 PTS)'"", 33.4), (""MISS Foye 40' 3PT Jump Shot"", 50.2), (""''"", 50.0)]"
 DAL,20070306,[]
 DEN,20070306,[]
@@ -912,9 +912,9 @@ BOS,20070307,[]
 MIA,20070307,[]
 DET,20070307,"[(""James 16' Jump Shot (34 PTS) (Pavlovic 3 AST)"", 21.9), (""MISS Billups 26' 3PT Jump Shot"", 37.2), (""Ilgauskas 15' Jump Shot (12 PTS) (James 8 AST)"", 21.4), (""MISS James 17' Jump Shot"", 23.5), (""'Hamilton Free Throw 1 of 2 (21 PTS)'"", 20.2), (""'James  Driving Layup (36 PTS)'"", 34.7), (""Hamilton 4' Running Jump Shot (24 PTS) (Billups 13 AST)"", 36.9), (""'James  Driving Dunk (38 PTS)'"", 35.1), (""MISS Hamilton 16' Jump Shot"", 45.0), (""''"", 50.0)]"
 MIL,20070307,[]
-UTAH,20070307,[]
-PHX,20070307,"[(""MISS Morrison 27' 3PT Jump Shot"", 20.5), (""'MISS Barbosa  3PT Jump Shot'"", 23.4), (""'MISS Marion  Layup'"", 23.3), (""MISS Morrison 13' Turnaround Jump Shot"", 26.0), (""Barbosa 25' 3PT Jump Shot (26 PTS) (Bell 3 AST)"", 39.9), (""Nash 18' Jump Shot (18 PTS)"", 33.3), (""'MISS Wallace  Layup'"", 26.2), (""'Wallace  Layup (22 PTS)'"", 26.3), (""'MISS Nash  Layup'"", 42.0), (""MISS Marion 12' Jump Shot"", 48.0), (""''"", 50.0)]"
-GS,20070307,[]
+UTA,20070307,[]
+PHO,20070307,"[(""MISS Morrison 27' 3PT Jump Shot"", 20.5), (""'MISS Barbosa  3PT Jump Shot'"", 23.4), (""'MISS Marion  Layup'"", 23.3), (""MISS Morrison 13' Turnaround Jump Shot"", 26.0), (""Barbosa 25' 3PT Jump Shot (26 PTS) (Bell 3 AST)"", 39.9), (""Nash 18' Jump Shot (18 PTS)"", 33.3), (""'MISS Wallace  Layup'"", 26.2), (""'Wallace  Layup (22 PTS)'"", 26.3), (""'MISS Nash  Layup'"", 42.0), (""MISS Marion 12' Jump Shot"", 48.0), (""''"", 50.0)]"
+GSW,20070307,[]
 ORL,20070308,[]
 SAC,20070308,"[(""Bibby 26' 3PT Jump Shot (9 PTS) (Miller 3 AST)"", 21.3), (""'MISS Bowen  3PT Jump Shot'"", 24.0), (""MISS Martin 25' 3PT Jump Shot"", 21.1)]"
 PHI,20070309,[]
@@ -923,15 +923,15 @@ ATL,20070309,"[(""Miller 26' 3PT Jump Shot (29 PTS) (Stoudamire 8 AST)"", 24.0),
 MIA,20070309,[]
 HOU,20070309,[]
 DEN,20070309,[]
-PHX,20070309,"[(""MISS Barbosa 27' 3PT Jump Shot"", 24.7), (""MISS West 14' Jump Shot"", 93.4)]"
-GS,20070309,[]
-WSH,20070310,"[(""Stevenson 1' Driving Layup (12 PTS)"", 20.5), (""MISS Marbury 26' 3PT Jump Shot"", 33.6), (""'MISS Francis Free Throw 1 of 1'"", 24.4), (""Francis 26' 3PT Jump Shot (26 PTS)"", 81.3)]"
+PHO,20070309,"[(""MISS Barbosa 27' 3PT Jump Shot"", 24.7), (""MISS West 14' Jump Shot"", 93.4)]"
+GSW,20070309,[]
+WAS,20070310,"[(""Stevenson 1' Driving Layup (12 PTS)"", 20.5), (""MISS Marbury 26' 3PT Jump Shot"", 33.6), (""'MISS Francis Free Throw 1 of 1'"", 24.4), (""Francis 26' 3PT Jump Shot (26 PTS)"", 81.3)]"
 CHA,20070310,[]
 ATL,20070310,[]
 IND,20070310,[]
-SA,20070310,[]
+SAS,20070310,[]
 MIL,20070310,"[(""MISS Marshall 26' 3PT Jump Shot"", 20.6), (""'James  Driving Layup (32 PTS)'"", 24.5), (""MISS Redd 14' Jump Shot"", 33.6), (""'Cavaliers Rebound'"", 22.1), (""'Varejao  Layup (6 PTS) (James 9 AST)'"", 37.4), (""MISS Redd 13' Jump Shot"", 48.0)]"
-UTAH,20070310,[]
+UTA,20070310,[]
 TOR,20070311,"[(""'Dixon  3PT Jump Shot (11 PTS) (Ford 9 AST)'"", 26.6), (""MISS Lewis 25' 3PT Jump Shot"", 27.9), (""'Parker  Driving Layup (10 PTS) (Ford 10 AST)'"", 25.1), (""MISS Bargnani 24' 3PT Jump Shot"", 41.7), (""'Lewis REBOUND (Off:3 Def:8)'"", 20.4), (""MISS Allen 20' Jump Shot"", 34.3), (""'Lewis REBOUND (Off:4 Def:8)'"", 23.3), (""'Lewis  Layup (24 PTS)'"", 34.5), (""'MISS Ford  Layup'"", 27.0), (""'MISS Bosh  Layup'"", 28.4), (""Bargnani 25' 3PT Jump Shot (18 PTS) (Ford 11 AST)"", 58.7), (""MISS Allen 18' Jump Shot"", 42.0), (""Allen 13' Jump Shot (34 PTS)"", 48.0), (""''"", 50.0)]"
 LAC,20070311,[]
 BOS,20070311,[]
@@ -944,13 +944,13 @@ POR,20070311,[]
 CHA,20070312,[]
 MIL,20070312,[]
 MEM,20070312,[]
-PHX,20070312,[]
-GS,20070312,[]
+PHO,20070312,[]
+GSW,20070312,[]
 ATL,20070313,[]
 CLE,20070313,[]
 MIA,20070313,"[(""MISS D. Williams 27' 3PT Jump Shot"", 24.9), (""Okur 26' 3PT Jump Shot (19 PTS) (D. Williams 8 AST)"", 35.3), (""MISS Payton 8' Jump Shot"", 25.9), (""MISS Boozer 14' Jump Shot"", 22.2), (""MISS Okur 26' 3PT Jump Shot"", 51.9), (""MISS Walker 27' 3PT Jump Shot"", 20.6), (""MISS Boozer 11' Fadeaway Jumper"", 42.6)]"
-NO,20070313,"[(""West 25' 3PT Jump Shot (24 PTS) (Paul 12 AST)"", 21.1), (""Jefferson 17' Jump Shot (25 PTS) (Carter 7 AST)"", 20.5), (""'Carter  Layup (19 PTS)'"", 28.9), (""'Brown  Driving Layup (13 PTS)'"", 24.8)]"
-SA,20070313,[]
+NOK,20070313,"[(""West 25' 3PT Jump Shot (24 PTS) (Paul 12 AST)"", 21.1), (""Jefferson 17' Jump Shot (25 PTS) (Carter 7 AST)"", 20.5), (""'Carter  Layup (19 PTS)'"", 28.9), (""'Brown  Driving Layup (13 PTS)'"", 24.8)]"
+SAS,20070313,[]
 MIN,20070313,"[(""'MISS Murphy  3PT Jump Shot'"", 31.4)]"
 CHI,20070313,[]
 DEN,20070313,[]
@@ -965,59 +965,59 @@ MEM,20070314,[]
 HOU,20070314,"[(""'MISS Battier  3PT Jump Shot'"", 25.2), (""'Alston  Layup (18 PTS)'"", 25.9), (""'Brand  Driving Dunk (37 PTS)'"", 27.5), (""MISS Brand 16' Jump Shot"", 23.7), (""'Head  3PT Jump Shot (8 PTS) (McGrady 9 AST)'"", 60.4)]"
 DAL,20070314,"[(""MISS Nash 26' 3PT Jump Shot"", 39.7), (""'Nash  3PT Jump Shot (29 PTS) (Marion 1 AST)'"", 43.0), (""MISS Nowitzki 20' Jump Shot"", 48.0), (""''"", 50.0)]"
 POR,20070314,[]
-NJ,20070315,"[(""MISS Kidd 24' 3PT Jump Shot"", 20.4)]"
+NJN,20070315,"[(""MISS Kidd 24' 3PT Jump Shot"", 20.4)]"
 MIL,20070315,[]
 DEN,20070315,[]
 TOR,20070316,[]
 PHI,20070316,"[(""MISS D. Williams 26' 3PT Jump Shot"", 22.0), (""MISS D. Williams 25' 3PT Jump Shot"", 24.7), (""Iguodala 17' Fadeaway Jumper (23 PTS)"", 21.7), (""D. Williams 13' Jump Shot (18 PTS) (Boozer 1 AST)"", 23.5), (""Korver 21' Jump Shot (7 PTS) (Miller 6 AST)"", 26.5), (""MISS Boozer 17' Jump Shot"", 29.7), (""'Boozer  Layup (14 PTS) (Okur 6 AST)'"", 36.5), (""MISS Smith 11' Jump Shot"", 48.9), (""Korver 18' Jump Shot (9 PTS) (Miller 7 AST)"", 55.8), (""MISS D. Williams 28' 3PT Jump Shot"", 86.7)]"
 CHA,20070316,[]
-NY,20070316,"[(""Butler 24' 3PT Jump Shot (17 PTS) (Paul 7 AST)"", 32.0), (""'Paul  Driving Layup (20 PTS)'"", 23.8), (""West 20' Jump Shot (18 PTS) (Paul 8 AST)"", 27.8), (""MISS Curry 9' Jump Shot"", 24.9), (""'MISS Marbury  Layup'"", 30.7), (""MISS Frye 19' Jump Shot"", 37.8), (""MISS Francis 24' 3PT Jump Shot"", 81.3)]"
+NYK,20070316,"[(""Butler 24' 3PT Jump Shot (17 PTS) (Paul 7 AST)"", 32.0), (""'Paul  Driving Layup (20 PTS)'"", 23.8), (""West 20' Jump Shot (18 PTS) (Paul 8 AST)"", 27.8), (""MISS Curry 9' Jump Shot"", 24.9), (""'MISS Marbury  Layup'"", 30.7), (""MISS Frye 19' Jump Shot"", 37.8), (""MISS Francis 24' 3PT Jump Shot"", 81.3)]"
 MIA,20070316,[]
 DAL,20070316,"[(""'Stackhouse  Slam Dunk (11 PTS) (Nowitzki 4 AST)'"", 20.7), (""'MISS Ray  3PT Jump Shot'"", 33.3)]"
-PHX,20070316,[]
+PHO,20070316,[]
 LAL,20070316,"[(""Bryant 25' 3PT Jump Shot (53 PTS) (Odom 6 AST)"", 20.3), (""'Roy  Driving Layup (14 PTS)'"", 23.7), (""Bryant 25' 3PT Jump Shot (56 PTS) (Brown 1 AST)"", 33.3), (""MISS Randolph 26' 3PT Jump Shot"", 50.3), (""''"", 50.0)]"
-GS,20070316,[]
-WSH,20070317,[]
+GSW,20070316,[]
+WAS,20070317,[]
 ORL,20070317,[]
 IND,20070317,[]
 CLE,20070317,[]
 MEM,20070317,"[(""Gordon 25' 3PT Jump Shot (33 PTS)"", 20.3), (""'Gasol  Layup (20 PTS) (Atkins 4 AST)'"", 23.7), (""Hinrich 8' Jump Shot (16 PTS)"", 30.7), (""MISS Deng 10' Running Jump Shot"", 93.4)]"
-SA,20070317,"[(""'MISS Finley  3PT Jump Shot'"", 30.1), (""MISS West 18' Jump Shot"", 21.2), (""Duncan 5' Running Jump Shot (20 PTS)"", 23.2), (""Pierce 17' Jump Shot (28 PTS)"", 20.8), (""Green 1' Dunk (2 PTS) (Ray 2 AST)"", 26.3), (""MISS Bowen 20' Jump Shot"", 23.6)]"
+SAS,20070317,"[(""'MISS Finley  3PT Jump Shot'"", 30.1), (""MISS West 18' Jump Shot"", 21.2), (""Duncan 5' Running Jump Shot (20 PTS)"", 23.2), (""Pierce 17' Jump Shot (28 PTS)"", 20.8), (""Green 1' Dunk (2 PTS) (Ray 2 AST)"", 26.3), (""MISS Bowen 20' Jump Shot"", 23.6)]"
 MIL,20070317,"[(""'MISS Herrmann  3PT Jump Shot'"", 28.4)]"
 DEN,20070317,[]
 SEA,20070317,"[(""MISS Allen 24' 3PT Jump Shot"", 29.4), (""MISS Collison 8' Jump Shot"", 23.7), (""'Davis Free Throw 1 of 2 (17 PTS)'"", 21.3), (""'Lewis REBOUND (Off:3 Def:3)'"", 22.4), (""'Lewis Free Throw 2 of 2 (23 PTS)'"", 26.9), (""Davis 16' Jump Shot (19 PTS)"", 76.5), (""MISS Wilkins 26' 3PT Jump Shot"", 96.0)]"
-NY,20070318,[]
+NYK,20070318,[]
 DET,20070318,"[(""MISS Wallace 26' 3PT Jump Shot"", 20.8)]"
-NJ,20070318,[]
+NJN,20070318,[]
 MIA,20070318,[]
 PHI,20070318,[]
 POR,20070318,[]
 LAL,20070318,[]
 ATL,20070319,[]
-NO,20070319,[]
-NJ,20070320,"[(""MISS Jefferson 25' 3PT Jump Shot"", 24.1), (""MISS Kidd 24' 3PT Jump Shot"", 32.3), (""MISS Carter 25' 3PT Jump Shot"", 35.6)]"
+NOK,20070319,[]
+NJN,20070320,"[(""MISS Jefferson 25' 3PT Jump Shot"", 24.1), (""MISS Kidd 24' 3PT Jump Shot"", 32.3), (""MISS Carter 25' 3PT Jump Shot"", 35.6)]"
 CHA,20070320,"[(""MISS Felton 26' 3PT Jump Shot"", 21.1), (""'MISS James  Layup'"", 38.7), (""'Snow REBOUND (Off:2 Def:2)'"", 21.0), (""MISS James 29' 3PT Jump Shot"", 50.3), (""''"", 50.0)]"
-NY,20070320,[]
+NYK,20070320,[]
 DET,20070320,[]
 MEM,20070320,[]
 CHI,20070320,[]
-UTAH,20070320,[]
+UTA,20070320,[]
 HOU,20070320,[]
-PHX,20070320,[]
+PHO,20070320,[]
 POR,20070320,"[(""MISS Rodriguez 26' 3PT Jump Shot"", 21.6), (""'Stevenson  3PT Jump Shot (17 PTS) (Arenas 10 AST)'"", 28.6), (""MISS Arenas 25' 3PT Jump Shot"", 32.4), (""MISS Outlaw 24' 3PT Jump Shot"", 34.8), (""'Webster  Driving Layup (10 PTS) (Aldridge 2 AST)'"", 24.4), (""MISS Jamison 24' 3PT Jump Shot"", 31.1), (""'MISS Roy  Layup'"", 23.3), (""'Aldridge  Tip Shot (24 PTS)'"", 23.3), (""'Roy  Driving Layup (19 PTS)'"", 23.7), (""'MISS Stevenson  3PT Jump Shot'"", 33.3), (""MISS Arenas 6' Jump Shot"", 48.0)]"
 TOR,20070321,[]
 ATL,20070321,[]
 BOS,20070321,[]
 CLE,20070321,[]
 MIL,20070321,"[(""MISS Redd 2' Layup"", 20.8), (""Bell 24' 3PT Jump Shot (13 PTS) (Patterson 3 AST)"", 37.9), (""MISS Hart 18' Jump Shot"", 27.7), (""MISS Maggette 27' 3PT Jump Shot"", 63.1), (""'Hart  Layup (12 PTS)'"", 64.2)]"
-SA,20070321,[]
+SAS,20070321,[]
 SAC,20070321,"[(""Davis 25' 3PT Jump Shot (9 PTS) (Foye 4 AST)"", 22.0), (""MISS Bibby 26' 3PT Jump Shot"", 20.8), (""Davis 24' 3PT Jump Shot (13 PTS) (Jaric 1 AST)"", 34.2), (""'Smith  Layup (5 PTS) (Garnett 1 AST)'"", 24.6), (""'MISS Bibby  3PT Jump Shot'"", 32.9)]"
 SEA,20070321,"[(""MISS Daniels 27' 3PT Jump Shot"", 24.3), (""MISS Watson 26' 3PT Jump Shot"", 35.3), (""Lewis 9' Turnaround Jump Shot (21 PTS)"", 23.5), (""Jamison 25' 3PT Jump Shot (21 PTS) (Arenas 7 AST)"", 40.1), (""Lewis 26' 3PT Jump Shot (24 PTS) (Ridnour 5 AST)"", 39.6), (""'MISS Arenas  Reverse Layup'"", 29.7), (""MISS Ridnour 27' 3PT Jump Shot"", 29.2), (""'Daniels Free Throw 1 of 2 (8 PTS)'"", 21.9), (""MISS Lewis 5' Jump Shot"", 40.0), (""'Wizards Rebound'"", 20.7), (""'Lewis Free Throw 1 of 2 (25 PTS)'"", 20.7), (""'Lewis Free Throw 2 of 2 (26 PTS)'"", 21.4), (""'Arenas  Running Layup (42 PTS)'"", 48.0)]"
-NY,20070322,[]
+NYK,20070322,[]
 MEM,20070322,[]
 CHI,20070322,"[(""MISS Hinrich 26' 3PT Jump Shot"", 23.9), (""Kleiza 24' 3PT Jump Shot (12 PTS) (Nene 3 AST)"", 29.7), (""'Deng  Layup (22 PTS) (Hinrich 8 AST)'"", 22.1), (""'MISS Hinrich  Layup'"", 21.6), (""'MISS Gordon  Layup'"", 22.4), (""MISS Gordon 14' Jump Shot"", 23.7), (""'Nene Free Throw 1 of 2 (17 PTS)'"", 20.5), (""Gordon 20' Jump Shot (25 PTS)"", 35.6), (""'Iverson  Driving Layup (31 PTS)'"", 41.1), (""MISS Gordon 20' Jump Shot"", 78.5), (""'Thomas  Layup (9 PTS)'"", 93.4)]"
 HOU,20070322,[]
-PHX,20070322,[]
+PHO,20070322,[]
 TOR,20070323,[]
 PHI,20070323,[]
 ORL,20070323,"[(""MISS Nachbar 25' 3PT Jump Shot"", 23.8)]"
@@ -1025,73 +1025,73 @@ IND,20070323,[]
 BOS,20070323,[]
 ATL,20070323,"[(""Stoudamire 25' 3PT Jump Shot (26 PTS) (Johnson 7 AST)"", 20.7), (""Stoudamire 24' 3PT Jump Shot (29 PTS) (Johnson 8 AST)"", 24.9), (""'Jack  Driving Layup (14 PTS)'"", 21.4), (""'MISS Aldridge  Layup'"", 30.7), (""'Smith REBOUND (Off:0 Def:10)'"", 20.7), (""Smith 26' 3PT Jump Shot (17 PTS) (Johnson 9 AST)"", 45.1), (""Roy 27' 3PT Jump Shot (19 PTS) (Udoka 2 AST)"", 33.3), (""MISS Pachulia 16' Jump Shot"", 43.9), (""MISS Roy 19' Jump Shot"", 48.0), (""''"", 50.0)]"
 CLE,20070323,[]
-NO,20070323,[]
-SA,20070323,"[(""MISS Billups 26' 3PT Jump Shot"", 33.3)]"
+NOK,20070323,[]
+SAS,20070323,"[(""MISS Billups 26' 3PT Jump Shot"", 33.3)]"
 LAC,20070323,[]
-GS,20070323,[]
+GSW,20070323,[]
 SEA,20070323,"[(""'Lewis  3PT Jump Shot (19 PTS) (Watson 7 AST)'"", 35.6), (""MISS James 24' 3PT Jump Shot"", 20.8)]"
 CHA,20070324,"[(""Carroll 25' 3PT Jump Shot (23 PTS) (Morrison 4 AST)"", 21.3), (""'MISS Carter  3PT Jump Shot'"", 24.0), (""'MISS Carter  3PT Jump Shot'"", 24.9), (""MISS Jefferson 24' 3PT Jump Shot"", 30.5), (""'Carroll  Driving Layup (25 PTS)'"", 22.6), (""Herrmann 18' Jump Shot (18 PTS)"", 31.8), (""Knight 19' Jump Shot (11 PTS)"", 39.5), (""MISS Kidd 26' 3PT Jump Shot"", 80.1), (""'Carter  Follow Up Dunk (30 PTS)'"", 48.0), (""''"", 50.0)]"
 MIA,20070324,[]
-UTAH,20070324,[]
+UTA,20070324,[]
 LAC,20070324,[]
 ATL,20070325,[]
 IND,20070325,"[(""O'Neal 10' Turnaround Jump Shot (36 PTS) (Dunleavy 5 AST)"", 20.5), (""MISS Gordon 26' 3PT Jump Shot"", 38.5), (""Hinrich 25' 3PT Jump Shot (14 PTS) (Allen 1 AST)"", 39.4), (""O'Neal 12' Fadeaway Jumper (39 PTS)"", 22.9), (""MISS Gordon 20' Jump Shot"", 29.1), (""MISS Allen 20' Jump Shot"", 32.0), (""'Tinsley REBOUND (Off:0 Def:2)'"", 21.2), (""MISS Tinsley 6' Jump Shot"", 35.5), (""'Allen REBOUND (Off:2 Def:1)'"", 24.3), (""Gordon 12' Fadeaway Jumper (31 PTS)"", 45.0), (""MISS O'Neal 19' Jump Shot"", 42.6)]"
 MIL,20070325,[]
-NO,20070325,[]
+NOK,20070325,[]
 MIN,20070325,"[(""Garnett 6' Jump Shot (20 PTS) (Davis 8 AST)"", 26.6), (""'Foye  Driving Dunk (17 PTS) (James 5 AST)'"", 22.4), (""'MISS Jack  Layup'"", 47.0), (""'Aldridge  Tip Shot (13 PTS)'"", 48.9), (""Garnett 15' Fadeaway Jumper (22 PTS) (Hassell 4 AST)"", 93.4)]"
 SAC,20070325,"[(""MISS Nash 26' 3PT Jump Shot"", 20.6)]"
 CLE,20070325,[]
 SEA,20070325,[]
 LAL,20070325,"[(""MISS Richardson 26' 3PT Jump Shot"", 26.8), (""MISS Harrington 27' 3PT Jump Shot"", 94.2)]"
 BOS,20070326,[]
-NY,20070326,"[(""MISS Turkoglu 24' 3PT Jump Shot"", 31.4), (""'MISS Nelson  3PT Jump Shot'"", 37.2), (""Nelson 24' 3PT Jump Shot (15 PTS) (Turkoglu 5 AST)"", 31.1), (""'MISS Marbury  Driving Layup'"", 28.5), (""Nelson 25' 3PT Jump Shot (18 PTS)"", 42.7)]"
+NYK,20070326,"[(""MISS Turkoglu 24' 3PT Jump Shot"", 31.4), (""'MISS Nelson  3PT Jump Shot'"", 37.2), (""Nelson 24' 3PT Jump Shot (15 PTS) (Turkoglu 5 AST)"", 31.1), (""'MISS Marbury  Driving Layup'"", 28.5), (""Nelson 25' 3PT Jump Shot (18 PTS)"", 42.7)]"
 MIA,20070326,[]
 DET,20070326,"[(""MISS Iverson 26' 3PT Jump Shot"", 27.9), (""'MISS Anthony  Layup'"", 21.8), (""'Camby  Tip Shot (22 PTS)'"", 21.9), (""Iverson 17' Jump Shot (11 PTS) (Camby 4 AST)"", 23.7), (""MISS Billups 26' 3PT Jump Shot"", 43.0), (""Wallace 62' 3PT Jump Bank Shot (14 PTS)"", 48.7), (""''"", 50.0)]"
 CHI,20070326,[]
 HOU,20070326,[]
-UTAH,20070326,"[(""MISS Jamison 25' 3PT Jump Shot"", 25.0), (""MISS Okur 24' 3PT Jump Shot"", 26.2), (""Hayes 24' 3PT Jump Shot (3 PTS) (Jamison 4 AST)"", 28.6), (""Fisher 25' 3PT Jump Shot (8 PTS) (Okur 2 AST)"", 29.4)]"
-PHX,20070326,[]
-GS,20070326,[]
+UTA,20070326,"[(""MISS Jamison 25' 3PT Jump Shot"", 25.0), (""MISS Okur 24' 3PT Jump Shot"", 26.2), (""Hayes 24' 3PT Jump Shot (3 PTS) (Jamison 4 AST)"", 28.6), (""Fisher 25' 3PT Jump Shot (8 PTS) (Okur 2 AST)"", 29.4)]"
+PHO,20070326,[]
+GSW,20070326,[]
 IND,20070327,[]
-NO,20070327,[]
+NOK,20070327,[]
 MIN,20070327,"[(""MISS Garnett 20' Jump Shot"", 28.9), (""Lewis 11' Jump Shot (33 PTS)"", 23.7)]"
 LAL,20070327,"[(""Walton 24' 3PT Jump Shot (15 PTS) (Odom 11 AST)"", 30.4), (""Kinsey 26' 3PT Jump Shot (22 PTS) (Harrington 8 AST)"", 39.3), (""MISS Odom 27' 3PT Jump Shot"", 32.4), (""MISS Parker 29' 3PT Jump Shot"", 33.9), (""'MISS Parker  3PT Jump Shot'"", 69.1), (""MISS Bryant 16' Jump Shot"", 42.6)]"
 TOR,20070328,[]
-WSH,20070328,"[(""Korver 26' 3PT Jump Shot (14 PTS) (Miller 7 AST)"", 25.5), (""Miller 1' Layup (16 PTS)"", 20.3), (""Stevenson 18' Jump Shot (28 PTS)"", 24.8), (""MISS Miller 18' Jump Shot"", 23.1), (""MISS Iguodala 20' Jump Shot"", 26.3), (""MISS Iguodala 27' 3PT Jump Shot"", 48.7)]"
+WAS,20070328,"[(""Korver 26' 3PT Jump Shot (14 PTS) (Miller 7 AST)"", 25.5), (""Miller 1' Layup (16 PTS)"", 20.3), (""Stevenson 18' Jump Shot (28 PTS)"", 24.8), (""MISS Miller 18' Jump Shot"", 23.1), (""MISS Iguodala 20' Jump Shot"", 26.3), (""MISS Iguodala 27' 3PT Jump Shot"", 48.7)]"
 CHA,20070328,[]
 BOS,20070328,"[(""Nelson 18' Jump Shot (9 PTS)"", 29.3), (""MISS Pierce 28' 3PT Jump Shot"", 48.4), (""Pierce 18' Jump Shot (20 PTS)"", 32.7), (""MISS Nelson 22' Jump Shot"", 48.0), (""''"", 50.0)]"
-NJ,20070328,[]
-NY,20070328,"[(""Marbury 24' 3PT Jump Shot (16 PTS) (Frye 1 AST)"", 24.7)]"
-SA,20070328,"[(""MISS Barry 24' 3PT Jump Shot"", 37.7), (""MISS Butler 19' Jump Shot"", 21.4), (""Barry 25' 3PT Jump Shot (15 PTS) (Finley 4 AST)"", 56.2), (""MISS Butler 23' Jump Shot"", 35.1), (""MISS West 13' Jump Shot"", 42.0)]"
+NJN,20070328,[]
+NYK,20070328,"[(""Marbury 24' 3PT Jump Shot (16 PTS) (Frye 1 AST)"", 24.7)]"
+SAS,20070328,"[(""MISS Barry 24' 3PT Jump Shot"", 37.7), (""MISS Butler 19' Jump Shot"", 21.4), (""Barry 25' 3PT Jump Shot (15 PTS) (Finley 4 AST)"", 56.2), (""MISS Butler 23' Jump Shot"", 35.1), (""MISS West 13' Jump Shot"", 42.0)]"
 DAL,20070328,"[(""'MISS Terry  3PT Jump Shot'"", 24.1), (""Terry 26' 3PT Jump Shot (26 PTS) (Howard 2 AST)"", 27.5), (""'Stackhouse  3PT Jump Shot (20 PTS) (Harris 5 AST)'"", 33.7), (""Williams 8' Running Jump Shot (17 PTS)"", 20.2), (""MISS Terry 16' Jump Shot"", 25.4), (""'MISS Stackhouse  3PT Jump Shot'"", 42.1), (""'Diop REBOUND (Off:3 Def:2)'"", 20.6), (""MISS Redd 4' Running Jump Shot"", 37.8), (""MISS Williams 52' 3PT Jump Shot"", 94.2)]"
 DEN,20070328,"[(""MISS Kleiza 25' 3PT Jump Shot"", 69.1), (""MISS Smith 27' 3PT Jump Shot"", 48.7)]"
-UTAH,20070328,[]
+UTA,20070328,[]
 LAC,20070328,"[(""Brand 10' Turnaround Jump Shot (24 PTS) (Thomas 4 AST)"", 20.9), (""'MISS McGrady  Driving Layup'"", 25.6), (""Battier 25' 3PT Jump Shot (7 PTS) (McGrady 8 AST)"", 41.4), (""'MISS Maggette  Driving Layup'"", 30.9), (""MISS McGrady 15' Jump Shot"", 23.7), (""MISS Thomas 26' 3PT Jump Shot"", 69.9)]"
 CHI,20070329,"[(""MISS Delfino 19' Jump Shot"", 27.8), (""Prince 7' Jump Shot (26 PTS)"", 30.7), (""MISS Prince 22' Jump Shot"", 48.0)]"
 POR,20070329,"[(""MISS Gay 24' 3PT Jump Shot"", 22.3), (""Gay 24' 3PT Jump Shot (18 PTS) (Harrington 7 AST)"", 29.6), (""'MISS Gasol  Layup'"", 22.0), (""'Warrick  Dunk (14 PTS) (Gay 4 AST)'"", 23.8), (""'Randolph  Layup (41 PTS) (Roy 4 AST)'"", 22.3), (""Kinsey 12' Jump Shot (20 PTS)"", 29.8), (""MISS Outlaw 22' Jump Shot"", 25.7)]"
-GS,20070329,[]
+GSW,20070329,[]
 PHI,20070330,[]
-WSH,20070330,"[(""MISS Dixon 24' 3PT Jump Shot"", 22.5), (""Parker 24' 3PT Jump Shot (9 PTS) (Graham 2 AST)"", 26.5), (""Ford 1' Driving Layup (21 PTS)"", 20.2), (""MISS Arenas 27' 3PT Jump Shot"", 37.1), (""MISS Stevenson 1' Layup"", 26.0), (""MISS Ford 3' Jump Shot"", 27.8), (""Arenas 25' 3PT Jump Shot (28 PTS)"", 44.2), (""MISS Ford 4' Jump Shot"", 30.7), (""Peterson 31' 3PT Jump Shot (3 PTS)"", 48.7), (""''"", 50.0)]"
+WAS,20070330,"[(""MISS Dixon 24' 3PT Jump Shot"", 22.5), (""Parker 24' 3PT Jump Shot (9 PTS) (Graham 2 AST)"", 26.5), (""Ford 1' Driving Layup (21 PTS)"", 20.2), (""MISS Arenas 27' 3PT Jump Shot"", 37.1), (""MISS Stevenson 1' Layup"", 26.0), (""MISS Ford 3' Jump Shot"", 27.8), (""Arenas 25' 3PT Jump Shot (28 PTS)"", 44.2), (""MISS Ford 4' Jump Shot"", 30.7), (""Peterson 31' 3PT Jump Shot (3 PTS)"", 48.7), (""''"", 50.0)]"
 CHA,20070330,[]
 ORL,20070330,[]
 DET,20070330,"[(""MISS Kidd 24' 3PT Jump Shot"", 23.9), (""'MISS Carter  3PT Jump Shot'"", 35.0)]"
-SA,20070330,[]
+SAS,20070330,[]
 MIN,20070330,[]
 DAL,20070330,"[(""'Terry  3PT Jump Shot (13 PTS) (Nowitzki 2 AST)'"", 21.6), (""Marbury 25' 3PT Jump Shot (38 PTS)"", 22.4), (""MISS Marbury 25' 3PT Jump Shot"", 33.6), (""Nowitzki 18' Jump Shot (26 PTS) (Stackhouse 6 AST)"", 23.3), (""Marbury 18' Jump Shot (40 PTS)"", 21.6), (""MISS Marbury 24' 3PT Jump Shot"", 45.3), (""Marbury 7' Jump Bank Shot (43 PTS)"", 30.2), (""MISS Stackhouse 24' 3PT Jump Shot"", 53.1), (""'Nowitzki Free Throw 1 of 2 (29 PTS)'"", 21.3), (""MISS Marbury 7' Running Jump Shot"", 42.0)]"
-PHX,20070330,[]
+PHO,20070330,[]
 LAL,20070330,"[(""MISS Odom 26' 3PT Jump Shot"", 30.6), (""MISS Bryant 25' 3PT Jump Shot"", 31.4), (""MISS Bryant 27' 3PT Jump Shot"", 33.1), (""Bryant 26' 3PT Jump Shot (45 PTS)"", 34.6), (""MISS McGrady 20' Jump Shot"", 48.0), (""''"", 50.0)]"
 SAC,20070330,[]
 SEA,20070330,[]
 CHI,20070331,"[(""MISS James 25' 3PT Jump Shot"", 27.8), (""'MISS Hinrich  Layup'"", 26.1), (""'Gordon Free Throw Technical (35 PTS)'"", 20.1), (""'MISS Gordon  Layup'"", 33.1), (""'Wallace REBOUND (Off:3 Def:8)'"", 21.7), (""MISS Gordon 18' Jump Shot"", 39.5), (""'MISS Pavlovic  Layup'"", 48.0), (""''"", 50.0)]"
-NJ,20070331,[]
-NO,20070331,"[(""Robinson 24' 3PT Jump Shot (11 PTS) (Collins 5 AST)"", 37.7), (""Robinson 24' 3PT Jump Shot (14 PTS) (Marbury 5 AST)"", 35.0), (""MISS West 18' Jump Shot"", 43.9), (""''"", 50.0)]"
+NJN,20070331,[]
+NOK,20070331,"[(""Robinson 24' 3PT Jump Shot (11 PTS) (Collins 5 AST)"", 37.7), (""Robinson 24' 3PT Jump Shot (14 PTS) (Marbury 5 AST)"", 35.0), (""MISS West 18' Jump Shot"", 43.9), (""''"", 50.0)]"
 POR,20070331,[]
 DET,20070401,"[(""'MISS Jones  3PT Jump Shot'"", 23.9), (""Hamilton 14' Jump Shot (17 PTS)"", 21.6), (""Billups 18' Jump Shot (16 PTS) (Prince 2 AST)"", 20.8), (""MISS Posey 27' 3PT Jump Shot"", 30.9)]"
 ATL,20070401,[]
 IND,20070401,"[(""Murphy 25' 3PT Jump Shot (20 PTS) (Tinsley 8 AST)"", 29.3), (""MISS Parker 22' Jump Shot"", 25.2), (""'MISS Dunleavy  3PT Jump Shot'"", 38.1), (""MISS Tinsley 14' Jump Shot"", 33.5), (""'Ginobili REBOUND (Off:0 Def:3)'"", 22.0), (""'Ginobili Free Throw 2 of 2 (13 PTS)'"", 28.0), (""Tinsley 3' Driving Layup (20 PTS)"", 78.5), (""MISS Duncan 13' Jump Shot"", 93.4)]"
 MIL,20070401,[]
-PHX,20070401,[]
-GS,20070401,[]
+PHO,20070401,[]
+GSW,20070401,[]
 BOS,20070401,"[(""MISS Perkins 8' Hook Shot"", 26.6), (""Ilgauskas 5' Finger Roll (14 PTS)"", 30.9), (""Jefferson 1' Layup (24 PTS) (Green 4 AST)"", 25.0), (""MISS Ilgauskas 6' Hook Shot"", 34.5), (""'Gomes REBOUND (Off:1 Def:6)'"", 23.8), (""'MISS Jones  3PT Jump Shot'"", 94.2)]"
 TOR,20070401,[]
 ORL,20070401,"[(""MISS Garnett 26' 3PT Jump Shot"", 31.8), (""MISS Nelson 14' Running Jump Shot"", 43.7), (""MISS Nelson 20' Jump Shot"", 48.0), (""''"", 50.0)]"
@@ -1102,31 +1102,31 @@ CHA,20070403,[]
 IND,20070403,[]
 MIA,20070403,"[(""MISS Calderon 24' 3PT Jump Shot"", 21.4), (""MISS Williams 25' 3PT Jump Shot"", 29.3), (""MISS Ford 12' Jump Shot"", 36.5), (""MISS Ford 25' 3PT Jump Shot"", 43.0)]"
 MEM,20070403,[]
-SA,20070403,[]
+SAS,20070403,[]
 MIN,20070403,[]
 SAC,20070403,[]
 LAL,20070403,"[(""Smith 26' 3PT Jump Shot (10 PTS) (Iverson 10 AST)"", 20.9), (""MISS Parker 26' 3PT Jump Shot"", 20.5), (""MISS Bryant 25' 3PT Jump Shot"", 31.6)]"
-WSH,20070404,[]
+WAS,20070404,[]
 ORL,20070404,"[(""Turkoglu 24' 3PT Jump Shot (35 PTS) (Nelson 3 AST)"", 20.7), (""'MISS Dixon  3PT Jump Shot'"", 29.4), (""MISS Nelson 16' Jump Shot"", 36.2), (""MISS Turkoglu 26' 3PT Jump Shot"", 63.1), (""MISS Turkoglu 24' 3PT Jump Shot"", 48.7)]"
-NJ,20070404,[]
-NY,20070404,"[(""MISS Robinson 25' 3PT Jump Shot"", 26.5), (""MISS Marbury 26' 3PT Jump Shot"", 94.2)]"
+NJN,20070404,[]
+NYK,20070404,"[(""MISS Robinson 25' 3PT Jump Shot"", 26.5), (""MISS Marbury 26' 3PT Jump Shot"", 94.2)]"
 DET,20070404,[]
 MIL,20070404,[]
-NO,20070404,"[(""MISS Lewis 6' Jump Shot"", 22.9), (""MISS Wilkins 24' 3PT Jump Shot"", 42.6), (""Watson 15' Jump Shot (13 PTS) (Gelabale 1 AST)"", 42.0), (""MISS West 12' Jump Shot"", 48.0), (""''"", 50.0)]"
+NOK,20070404,"[(""MISS Lewis 6' Jump Shot"", 22.9), (""MISS Wilkins 24' 3PT Jump Shot"", 42.6), (""Watson 15' Jump Shot (13 PTS) (Gelabale 1 AST)"", 42.0), (""MISS West 12' Jump Shot"", 48.0), (""''"", 50.0)]"
 HOU,20070404,[]
 DEN,20070404,[]
 POR,20070404,"[(""'MISS Udoka  3PT Jump Shot'"", 22.3), (""MISS Okur 24' 3PT Jump Shot"", 25.8), (""MISS Giricek 24' 3PT Jump Shot"", 43.4)]"
 LAC,20070404,"[(""MISS Walton 25' 3PT Jump Shot"", 21.3)]"
 CLE,20070405,"[(""MISS Posey 2' Layup"", 35.5), (""'CAVALIERS Rebound'"", 24.3), (""MISS James 25' 3PT Jump Shot"", 50.2), (""''"", 50.0)]"
-SA,20070405,[]
+SAS,20070405,[]
 PHI,20070406,[]
 CHA,20070406,[]
 BOS,20070406,"[(""MISS Kapono 24' 3PT Jump Shot"", 22.6), (""MISS Williams 25' 3PT Jump Shot"", 23.9), (""Jones 25' 3PT Jump Shot (5 PTS) (Williams 12 AST)"", 29.2), (""MISS Green 19' Jump Shot"", 24.7), (""MISS Haslem 11' Jump Shot"", 28.0), (""Posey  Layup (12 PTS) (O'Neal 3 AST)"", 28.5), (""Haslem 18' Jump Shot (17 PTS) (Williams 13 AST)"", 23.5), (""MISS Green 26' 3PT Jump Shot"", 38.7), (""MISS Telfair 25' 3PT Jump Shot"", 44.3)]"
-NY,20070406,[]
+NYK,20070406,[]
 ATL,20070406,[]
-WSH,20070406,[]
+WAS,20070406,[]
 MEM,20070406,[]
-NO,20070406,[]
+NOK,20070406,[]
 CHI,20070406,[]
 HOU,20070406,"[(""'MISS Head  3PT Jump Shot'"", 34.0), (""Jack 24' 3PT Jump Shot (20 PTS) (Roy 2 AST)"", 27.7), (""MISS Alston 27' 3PT Jump Shot"", 20.4)]"
 SAC,20070406,"[(""'Salmons  Driving Layup (15 PTS)'"", 27.9), (""MISS Boozer 12' Jump Shot"", 30.9)]"
@@ -1134,12 +1134,12 @@ DEN,20070406,"[(""MISS Iverson 25' 3PT Jump Shot"", 21.8), (""'MISS Terry  3PT J
 SEA,20070406,"[(""Bryant 20' Jump Shot (41 PTS)"", 22.8)]"
 ORL,20070407,[]
 IND,20070407,[]
-NJ,20070407,"[(""Jefferson 25' 3PT Jump Shot (22 PTS) (Carter 7 AST)"", 20.5), (""'Moore  Layup (17 PTS) (Carter 8 AST)'"", 21.8), (""MISS Daniels 25' 3PT Jump Shot"", 32.1), (""Jamison 24' 3PT Jump Shot (37 PTS) (Stevenson 7 AST)"", 44.3), (""''"", 50.0)]"
-SA,20070407,[]
+NJN,20070407,"[(""Jefferson 25' 3PT Jump Shot (22 PTS) (Carter 7 AST)"", 20.5), (""'Moore  Layup (17 PTS) (Carter 8 AST)'"", 21.8), (""MISS Daniels 25' 3PT Jump Shot"", 32.1), (""Jamison 24' 3PT Jump Shot (37 PTS) (Stevenson 7 AST)"", 44.3), (""''"", 50.0)]"
+SAS,20070407,[]
 MIN,20070407,"[(""Butler 25' 3PT Jump Shot (15 PTS) (Paul 9 AST)"", 25.8), (""MISS Smith 44' 3PT Jump Shot"", 94.2)]"
 MIL,20070407,"[(""'MISS Jeffries  Layup'"", 21.4), (""MISS Williams 27' 3PT Jump Shot"", 34.3), (""'MISS Patterson  Layup'"", 25.0), (""MISS Robinson 25' 3PT Jump Shot"", 40.2), (""'Bell  Layup (12 PTS) (Patterson 4 AST)'"", 31.8), (""MISS Robinson 5' Hook Shot"", 26.1), (""'Curry  Tip Shot (36 PTS)'"", 26.2), (""Patterson 26' 3PT Jump Bank Shot (21 PTS) (Williams 9 AST)"", 50.2), (""Curry 24' 3PT Jump Shot (39 PTS) (Collins 6 AST)"", 48.7), (""''"", 50.0)]"
 DAL,20070407,[]
-UTAH,20070407,"[(""'Gelabale  3PT Jump Shot (9 PTS) (Wilks 6 AST)'"", 20.6), (""Lewis 13' Fadeaway Jumper (33 PTS)"", 36.2), (""MISS Okur 25' 3PT Jump Shot"", 64.6), (""'MISS Fisher  Layup'"", 51.0), (""'MISS Fisher  3PT Fadeaway Jumper'"", 39.7), (""MISS Fisher 24' 3PT Jump Shot"", 48.7)]"
+UTA,20070407,"[(""'Gelabale  3PT Jump Shot (9 PTS) (Wilks 6 AST)'"", 20.6), (""Lewis 13' Fadeaway Jumper (33 PTS)"", 36.2), (""MISS Okur 25' 3PT Jump Shot"", 64.6), (""'MISS Fisher  Layup'"", 51.0), (""'MISS Fisher  3PT Fadeaway Jumper'"", 39.7), (""MISS Fisher 24' 3PT Jump Shot"", 48.7)]"
 LAC,20070407,"[(""Iverson 16' Jump Shot (32 PTS)"", 23.3), (""'MISS Maggette  Layup'"", 30.2), (""'Brand REBOUND (Off:7 Def:6)'"", 20.1), (""'Brand  Layup (22 PTS)'"", 30.4), (""MISS Kleiza 16' Jump Shot"", 26.2), (""Kleiza 24' 3PT Jump Shot (3 PTS) (Anthony 5 AST)"", 51.6), (""'MISS Hart  3PT Jump Shot'"", 44.3)]"
 DET,20070408,"[(""MISS Wallace 26' 3PT Jump Shot"", 22.1), (""MISS James 27' 3PT Jump Shot"", 27.2), (""Billups 18' Jump Shot (12 PTS)"", 20.1), (""MISS Ilgauskas 19' Jump Shot"", 22.6)]"
 LAL,20070408,[]
@@ -1147,84 +1147,84 @@ TOR,20070408,[]
 MIA,20070408,"[(""Felton 19' Jump Shot (16 PTS)"", 20.1), (""MISS Wade 20' Jump Shot"", 21.5), (""MISS Wallace 16' Jump Shot"", 20.2), (""'MISS Wade Free Throw 1 of 2'"", 39.1), (""'Wade Free Throw 2 of 2 (8 PTS)'"", 41.1), (""''"", 50.0)]"
 PHI,20070408,"[(""MISS Carney 29' 3PT Jump Shot"", 20.8), (""'MISS Iguodala  3PT Jump Shot'"", 21.1), (""'Iguodala  Running Dunk (23 PTS)'"", 23.3), (""MISS Smith 19' Jump Shot"", 32.2), (""'Iguodala REBOUND (Off:1 Def:2)'"", 21.3), (""MISS Lue 15' Jump Shot"", 48.0), (""''"", 50.0)]"
 SAC,20070408,[]
-NY,20070409,"[(""MISS Collins 24' 3PT Jump Shot"", 24.5)]"
+NYK,20070409,"[(""MISS Collins 24' 3PT Jump Shot"", 24.5)]"
 MIL,20070409,[]
-SA,20070409,[]
+SAS,20070409,[]
 MIN,20070409,[]
 DAL,20070409,[]
 DEN,20070409,"[(""Blake 24' 3PT Jump Shot (7 PTS) (Kleiza 1 AST)"", 21.6), (""MISS Cook 24' 3PT Jump Shot"", 21.6), (""MISS Kleiza 24' 3PT Jump Shot"", 28.6), (""'MISS Iverson  3PT Jump Shot'"", 35.6), (""'MISS Turiaf  Dunk'"", 24.7), (""'MISS Cook  Layup'"", 25.8), (""MISS Bryant 27' 3PT Running Jump Shot"", 43.0)]"
 SEA,20070409,[]
-GS,20070409,[]
+GSW,20070409,[]
 PHI,20070410,"[(""Murphy 26' 3PT Jump Shot (11 PTS) (Armstrong 3 AST)"", 20.1), (""MISS Murphy 25' 3PT Jump Shot"", 25.6), (""MISS Armstrong 24' 3PT Jump Shot"", 35.4), (""Miller 19' Jump Shot (19 PTS)"", 20.3)]"
-WSH,20070410,"[(""MISS Stevenson 24' 3PT Jump Shot"", 21.3), (""MISS Stevenson 4' Jump Shot"", 23.6), (""MISS Jefferson 2' Layup"", 34.0), (""Kidd 1' Layup (4 PTS)"", 34.0), (""MISS Stevenson 4' Jump Shot"", 37.9), (""'Jefferson REBOUND (Off:1 Def:2)'"", 20.6), (""Carter 1' Driving Dunk (27 PTS) (Kidd 11 AST)"", 21.4)]"
+WAS,20070410,"[(""MISS Stevenson 24' 3PT Jump Shot"", 21.3), (""MISS Stevenson 4' Jump Shot"", 23.6), (""MISS Jefferson 2' Layup"", 34.0), (""Kidd 1' Layup (4 PTS)"", 34.0), (""MISS Stevenson 4' Jump Shot"", 37.9), (""'Jefferson REBOUND (Off:1 Def:2)'"", 20.6), (""Carter 1' Driving Dunk (27 PTS) (Kidd 11 AST)"", 21.4)]"
 CHA,20070410,[]
 ATL,20070410,[]
 MEM,20070410,[]
-NO,20070410,"[(""MISS Hart 24' 3PT Jump Shot"", 21.4), (""MISS Brand 9' Turnaround Jump Shot"", 26.2), (""'Brand  Driving Dunk (31 PTS)'"", 30.7), (""'Paul Free Throw 1 of 2 (16 PTS)'"", 20.1), (""Brand 14' Jump Shot (33 PTS) (Maggette 3 AST)"", 42.6), (""''"", 50.0)]"
+NOK,20070410,"[(""MISS Hart 24' 3PT Jump Shot"", 21.4), (""MISS Brand 9' Turnaround Jump Shot"", 26.2), (""'Brand  Driving Dunk (31 PTS)'"", 30.7), (""'Paul Free Throw 1 of 2 (16 PTS)'"", 20.1), (""Brand 14' Jump Shot (33 PTS) (Maggette 3 AST)"", 42.6), (""''"", 50.0)]"
 CHI,20070410,[]
 BOS,20070411,[]
 MIA,20070411,"[(""MISS Jamison 24' 3PT Jump Shot"", 21.5), (""Kapono 25' 3PT Jump Shot (9 PTS) (Wade 6 AST)"", 28.0), (""Stevenson 26' 3PT Jump Shot (7 PTS)"", 34.0), (""'Mourning  Dunk (9 PTS) (Wade 7 AST)'"", 24.4), (""'MISS Stevenson  Layup'"", 27.5), (""'MISS Kapono  3PT Jump Shot'"", 29.4), (""'MISS Daniels  3PT Jump Shot'"", 60.5), (""MISS Taylor 24' 3PT Jump Shot"", 48.7)]"
 DET,20070411,"[(""Prince 8' Turnaround Hook Shot (17 PTS)"", 25.2), (""MISS Nelson 24' 3PT Jump Shot"", 40.8)]"
 MIL,20070411,[]
-SA,20070411,[]
+SAS,20070411,[]
 MIN,20070411,[]
-UTAH,20070411,[]
-PHX,20070411,[]
+UTA,20070411,[]
+PHO,20070411,[]
 POR,20070411,[]
 CLE,20070412,[]
 LAL,20070412,"[(""MISS Odom 25' 3PT Jump Shot"", 23.2)]"
 TOR,20070413,"[(""Parker 26' 3PT Jump Bank Shot (21 PTS)"", 35.1), (""'Hunter  3PT Jump Shot (9 PTS) (Delfino 3 AST)'"", 20.8), (""'MISS Bosh  Driving Layup'"", 23.6), (""Ford 8' Running Jump Shot (11 PTS)"", 21.5), (""MISS Hunter 25' 3PT Jump Shot"", 37.0)]"
 BOS,20070413,"[(""MISS Green 25' 3PT Jump Shot"", 20.9), (""MISS Telfair 24' 3PT Jump Shot"", 20.4), (""MISS Telfair 25' 3PT Jump Shot"", 94.2)]"
-NJ,20070413,[]
+NJN,20070413,[]
 ATL,20070413,[]
 MIA,20070413,"[(""'Posey  3PT Jump Shot (17 PTS) (Wade 2 AST)'"", 35.2), (""MISS O'Neal 18' Jump Shot"", 25.4), (""MISS O'Neal 9' Turnaround Jump Shot"", 28.7), (""'Wade  Slam Dunk (23 PTS) (Williams 9 AST)'"", 23.1), (""'Haslem  Layup (10 PTS) (Wade 3 AST)'"", 23.6)]"
-NO,20070413,"[(""'MISS Anthony  Layup'"", 21.7), (""MISS West 8' Jump Shot"", 21.5), (""MISS West 3' Jump Shot"", 21.6), (""MISS Butler 25' 3PT Jump Shot"", 49.7), (""'Blake  Layup (10 PTS)'"", 23.7), (""MISS Paul 11' Jump Shot"", 32.7), (""'MISS Brown  Layup'"", 42.0), (""MISS Jackson 25' 3PT Jump Shot"", 94.2)]"
+NOK,20070413,"[(""'MISS Anthony  Layup'"", 21.7), (""MISS West 8' Jump Shot"", 21.5), (""MISS West 3' Jump Shot"", 21.6), (""MISS Butler 25' 3PT Jump Shot"", 49.7), (""'Blake  Layup (10 PTS)'"", 23.7), (""MISS Paul 11' Jump Shot"", 32.7), (""'MISS Brown  Layup'"", 42.0), (""MISS Jackson 25' 3PT Jump Shot"", 94.2)]"
 MIN,20070413,[]
 CHI,20070413,[]
 DAL,20070413,[]
 SAC,20070413,[]
-PHX,20070413,[]
+PHO,20070413,[]
 LAC,20070413,[]
 PHI,20070414,[]
 CLE,20070414,[]
 MEM,20070414,[]
 MIL,20070414,[]
 HOU,20070414,[]
-UTAH,20070414,[]
+UTA,20070414,[]
 POR,20070414,[]
 DAL,20070415,"[(""MISS Harris 26' 3PT Jump Shot"", 26.6), (""MISS Buckner 20' Jump Shot"", 21.7), (""Nowitzki 14' Jump Shot (21 PTS)"", 21.9), (""'Buckner  Running Layup (4 PTS)'"", 28.9), (""MISS Bowen 24' 3PT Jump Shot"", 47.3), (""MISS Barry 29' 3PT Jump Shot"", 40.8)]"
-WSH,20070415,[]
+WAS,20070415,[]
 IND,20070415,"[(""MISS Granger 24' 3PT Jump Shot"", 30.4)]"
 LAC,20070415,[]
-GS,20070415,[]
+GSW,20070415,[]
 TOR,20070415,"[(""Bosh 16' Fadeaway Jumper (21 PTS)"", 23.0), (""MISS Francis 24' 3PT Jump Shot"", 32.7)]"
 ORL,20070415,"[(""MISS Nelson 18' Jump Shot"", 23.2), (""MISS Nelson 20' Jump Shot"", 22.1), (""'Howard REBOUND (Off:4 Def:9)'"", 20.8), (""'Perkins REBOUND (Off:1 Def:7)'"", 20.7), (""MISS Rondo 10' Running Jump Shot"", 53.3), (""MISS West 11' Jump Shot"", 48.0)]"
 DET,20070415,[]
 LAL,20070415,[]
-NY,20070416,[]
+NYK,20070416,[]
 MIA,20070416,"[(""MISS Telfair 25' 3PT Jump Shot"", 24.5), (""'MISS Telfair  3PT Jump Shot'"", 29.7), (""'MISS Barron  Layup'"", 24.5), (""Doleac 3' Jump Shot (10 PTS)"", 24.8), (""West 16' Jump Shot (28 PTS)"", 23.4), (""MISS Barron 10' Turnaround Jump Shot"", 31.3), (""'Jefferson REBOUND (Off:2 Def:11)'"", 20.9), (""MISS West 25' 3PT Jump Shot"", 45.3), (""'Celtics Rebound'"", 23.5), (""'MISS Green  3PT Jump Shot'"", 49.3), (""Jefferson 11' Turnaround Hook Shot (20 PTS) (Rondo 8 AST)"", 48.0)]"
 MIL,20070416,[]
 MEM,20070416,[]
 HOU,20070416,"[(""MISS Nash 25' 3PT Jump Shot"", 36.3), (""MISS Stoudemire 26' 3PT Jump Shot"", 43.0)]"
 DEN,20070416,[]
-UTAH,20070416,[]
+UTA,20070416,[]
 SAC,20070416,[]
 PHI,20070417,[]
-WSH,20070417,"[(""MISS Stevenson 24' 3PT Jump Shot"", 20.7), (""MISS Jamison 19' Jump Shot"", 24.2)]"
+WAS,20070417,"[(""MISS Stevenson 24' 3PT Jump Shot"", 20.7), (""MISS Jamison 19' Jump Shot"", 24.2)]"
 ATL,20070417,[]
 DET,20070417,[]
-PHX,20070417,"[(""MISS Barbosa 25' 3PT Jump Shot"", 24.7), (""MISS Bell 24' 3PT Jump Shot"", 25.1)]"
-GS,20070417,[]
+PHO,20070417,"[(""MISS Barbosa 25' 3PT Jump Shot"", 24.7), (""MISS Bell 24' 3PT Jump Shot"", 25.1)]"
+GSW,20070417,[]
 TOR,20070418,"[(""MISS L. Jackson 26' 3PT Jump Shot"", 24.9), (""Green 25' 3PT Jump Shot (34 PTS) (Smith 4 AST)"", 25.4)]"
 CHA,20070418,"[(""Herrmann 24' 3PT Jump Shot (22 PTS) (Knight 12 AST)"", 21.2), (""'MISS Robinson  Layup'"", 21.2), (""Robinson 24' 3PT Jump Shot (18 PTS) (Francis 3 AST)"", 29.3), (""'Felton  Layup (18 PTS)'"", 30.7), (""'Felton Free Throw 1 of 1 (19 PTS)'"", 25.0), (""'MISS Rose  Layup'"", 93.4), (""'Curry  Tip Shot (28 PTS)'"", 93.4), (""MISS Felton 60' 3PT Jump Shot"", 96.0)]"
 ORL,20070418,[]
 CLE,20070418,[]
 BOS,20070418,"[(""MISS Gomes 25' 3PT Jump Shot"", 49.2), (""'Rondo Free Throw 1 of 2 (18 PTS)'"", 28.4), (""'Rondo Free Throw 2 of 2 (19 PTS)'"", 33.4), (""Murray 18' Jump Shot (16 PTS)"", 48.0)]"
-NJ,20070418,[]
+NJN,20070418,[]
 IND,20070418,"[(""Daniels 11' Jump Bank Shot (12 PTS)"", 27.3), (""Dunleavy 10' Jump Bank Shot (17 PTS)"", 24.7), (""'MISS Diogu Free Throw 1 of 2'"", 21.4)]"
-SA,20070418,[]
+SAS,20070418,[]
 MIN,20070418,[]
-UTAH,20070418,[]
+UTA,20070418,[]
 SAC,20070418,[]
 POR,20070418,[]
 SEA,20070418,[]

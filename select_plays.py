@@ -4,7 +4,7 @@ from csv import QUOTE_MINIMAL
 
 team_names = {
     'ATL': 'ATL',
-    'BKN': 'BKN',
+    'BKN': 'BRK',
     'BOS': 'BOS',
     'CHA': 'CHA',
     'CHI': 'CHI',
@@ -12,7 +12,7 @@ team_names = {
     'DAL': 'DAL',
     'DEN': 'DEN',
     'DET': 'DET',
-    'GSW': 'GS',
+    'GSW': 'GSW',
 	'HOU': 'HOU',
     'IND': 'IND',
     'LAC': 'LAC',
@@ -21,21 +21,21 @@ team_names = {
     'MIA': 'MIA',
     'MIL': 'MIL',
     'MIN': 'MIN',
-    'NOH': 'NO',
-    'NOP': 'NO',
-    'NOK': 'NO',
-    'NYK': 'NY',
+    'NOH': 'NOH',
+    'NOP': 'NOP',
+    'NOK': 'NOK',
+    'NYK': 'NYK',
 	'OKC': 'OKC',
     'ORL':'ORL',
     'PHI': 'PHI',
-    'PHX': 'PHX',
+    'PHX': 'PHO',
     'POR': 'POR',
     'SAC': 'SAC',
-    'SAS': 'SA',
+    'SAS': 'SAS',
     'TOR': 'TOR',
-    'UTA': 'UTAH',
-    'WAS': 'WSH',
-	'NJN': 'NJ',
+    'UTA': 'UTA',
+    'WAS': 'WAS',
+	'NJN': 'NJN',
     'SEA': 'SEA'
 }
 def read(year, out):
@@ -86,7 +86,7 @@ def read(year, out):
     #         out.writerow([home_team, away_team, date, box_score, plays, article])
 
 
-for i in range (2012, 2005, -1):
+for i in range (2006, 2005, -1):
     year = str(i)
     file = open('data/' +  year + '/' + year + '_selected_plays.csv', 'w', newline='')
     out = writer(file, delimiter=',', quotechar='"', quoting=QUOTE_MINIMAL)
