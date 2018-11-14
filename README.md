@@ -1,2 +1,3 @@
 # DL
-PCs are better than Macs
+
+NBA post game summaries are short basketball game recaps written by local reporters and journalists that include information regarding the game's general scoring flow, crucial plays, quotes, and statistics for major players. Two examples of these recaps from this week are: \url{http://www.espn.in/nba/recap?gameId=401070746} and \url{http://www.espn.in/nba/recap?gameId=401070710}. Our aim is to train a deep learning model to artificially generate condensed versions of these summaries using publicly available data pertaining to the game. This data includes game box score with lists of player and statistics including points, rebounds, assists, blocks, steals, field goals. In addition, play by play data can be used to incorporate key, game changing plays into the text summaries. Ultimately, a successful model will be able to create short (one to two paragraphs), coherent summaries with accurate context and insight from the game. 
