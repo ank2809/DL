@@ -5,7 +5,7 @@ import json
 
 player_list = set()
 
-years = list(range(2006, 2018))
+years = list(range(2017, 2018))
 
 team_map = {'ATL' : 'Atlanta Hawks', 'BOS': 'Boston Celtics', 'BRK': 'Brooklyn Nets', 
 			'CHO': 'Charlotte Hornets', 'CHI': 'Chicago Bulls', 'CLE': 'Cleveland Cavaliers',
@@ -32,11 +32,11 @@ for year in years:
 				if len(record) < 15:
 					continue
 				name = record[0]
-				if name not in team_map:
-					player_list.add(name)
+				#if name not in team_map:
+				player_list.add(name)
 
 
 d = dict([(y,x+1) for x,y in enumerate(player_list)])
 
-with open('players.json', 'w') as fp:
+with open('players_2017.json', 'w') as fp:
     json.dump(d, fp)
