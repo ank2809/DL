@@ -1,0 +1,8 @@
+('Richardson,Josh', 'fg3', '5')
+('Richardson,Josh', 'pts', '22')
+('Dragic,Goran', 'ast', '13')
+('Olynyk,Kelly', 'pts', '25')
+('Whiteside,Hassan', 'blk', '1')
+('Marjanovic,Boban', 'trb', '9')
+('Tolliver,Anthony', 'orb', '3')
+('Tolliver,Anthony', 'tov', '3')
